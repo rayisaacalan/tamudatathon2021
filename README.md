@@ -4,7 +4,7 @@ This is a temporary placeholder readme
 
 ## TODO:
  - Scrape McDonald's caffeine data from https://www.caffeineinformer.com/mccafe-coffee-caffeine-content (Isaac)
- - Format the scraped caffeine data to be able to merge with nutritional data (Isaac)
+ - ~~Format the scraped caffeine data to be able to merge with nutritional data (Isaac)~~
  - Format McDonald's nutritional data to have same column names for merging (Jhanvi)
  - Add SERVING_SIZE_ml data to McDonalds, Dunkin (Jhanvi)
  - Merge price data with nutritional data for all 3 (Dan)

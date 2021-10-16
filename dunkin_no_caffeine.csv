@@ -22,15 +22,15 @@ Iced Tea Unsweetened Blueberry Flavored Tea - Small,Small,NA,10,0,0,0,0,15,2,0,0
 Iced Tea Unsweetened Raspberry Flavored - Large,Large,NA,20,0,0,0,0,25,5,0,0,0,10,0.01,0,0
 Iced Tea Unsweetened Raspberry Flavored - Medium,Medium,NA,15,0,0,0,0,20,4,0,0,0,6,0,0,0
 Iced Tea Unsweetened Raspberry Flavored - Small,Small,NA,10,0,0,0,0,15,3,0,0,0,5,0,0,0
-Sweet Tea - Large,Large,NA,310,0,0,0,0,25,79,0,78,0,10,0.01,0,0
-Sweet Tea - Medium,Medium,NA,230,0,0,0,0,20,60,0,58,0,7,0.01,0,0
-Sweet Tea - Small,Small,NA,150,0,0,0,0,15,40,0,39,0,5,0,0,0
-Sweet Tea Blueberry Flavored -Large,Large,NA,330,0,0,0,0,30,86,0,81,0,10,0.01,0,0
-Sweet Tea Blueberry Flavored -Medium,Medium,NA,250,0,0,0,0,20,64,0,60,0,7,0.01,0,0
-Sweet Tea Blueberry Flavored -Small,Small,NA,170,0,0,0,0,15,43,0,40,0,5,0,0,0
-Sweet Tea Raspberry Flavored -Large,Large,NA,330,0,0,0,0,30,86,0,81,0,10,0.01,0,0
-Sweet Tea Raspberry Flavored -Medium,Medium,NA,250,0,0,0,0,20,65,0,60,0,7,0.01,0,0
-Sweet Tea Raspberry Flavored -Small,Small,NA,170,0,0,0,0,15,43,0,40,0,5,0,0,0
+Sweet Iced Tea - Large,Large,NA,310,0,0,0,0,25,79,0,78,0,10,0.01,0,0
+Sweet Iced Tea - Medium,Medium,NA,230,0,0,0,0,20,60,0,58,0,7,0.01,0,0
+Sweet Iced Tea - Small,Small,NA,150,0,0,0,0,15,40,0,39,0,5,0,0,0
+Sweet Iced Tea Blueberry Flavored -Large,Large,NA,330,0,0,0,0,30,86,0,81,0,10,0.01,0,0
+Sweet Iced Tea Blueberry Flavored -Medium,Medium,NA,250,0,0,0,0,20,64,0,60,0,7,0.01,0,0
+Sweet Iced Tea Blueberry Flavored -Small,Small,NA,170,0,0,0,0,15,43,0,40,0,5,0,0,0
+Sweet Iced Tea Raspberry Flavored -Large,Large,NA,330,0,0,0,0,30,86,0,81,0,10,0.01,0,0
+Sweet Iced Tea Raspberry Flavored -Medium,Medium,NA,250,0,0,0,0,20,65,0,60,0,7,0.01,0,0
+Sweet Iced Tea Raspberry Flavored -Small,Small,NA,170,0,0,0,0,15,43,0,40,0,5,0,0,0
 Caramel Swirl Iced Macchiato with Skim Milk - Large,Large,NA,310,0,0,0,10,200,66,0,63,11,420,0.32,0,0
 Caramel Swirl Iced Macchiato with Skim Milk - Medium,Medium,NA,240,0,0,0,5,150,49,0,47,8,314,0.24,0,0
 Caramel Swirl Iced Macchiato with Skim Milk - Small,Small,NA,160,0,0,0,5,105,33,0,32,6,211,0.16,0,0
@@ -135,12 +135,12 @@ Hazelnut Swirl Iced Coffee - Small,Small,NA,110,0,0,0,0,40,26,0,24,2,53,0.04,0,0
 Hazelnut Swirl Iced Coffee with Cream - Large,Large,NA,340,12,6,0,40,120,53,0,50,5,157,0.12,0,0
 Hazelnut Swirl Iced Coffee with Cream - Medium,Medium,NA,250,9,4.5,0,30,90,40,0,38,4,118,0.09,0,0
 Hazelnut Swirl Iced Coffee with Cream - Small,Small,NA,170,6,3,0,20,60,27,0,25,2,79,0.06,0,0
-Iced Café Au Lait with Skim Milk - Large,Large,NA,90,0,0,0,5,120,12,0,12,9,315,0.24,0,0
-Iced Café Au Lait with Skim Milk - Medium,Medium,NA,60,0,0,0,5,90,9,0,9,6,235,0.18,0,0
-Iced Café Au Lait with Skim Milk - Small,Small,NA,45,0,0,0,0,60,6,0,6,4,158,0.12,0,0
-Iced Café Au Lait with Whole Milk - Large,Large,NA,150,8,4.5,0,25,120,12,0,12,8,292,0.22,0,0
-Iced Café Au Lait with Whole Milk - Medium,Medium,NA,110,6,3.5,0,20,90,9,0,9,6,218,0.17,0,0
-Iced Café Au Lait with Whole Milk - Small,Small,NA,80,4,2.5,0,10,60,6,0,6,4,146,0.11,0,0
+Iced Cafe Au Lait with Skim Milk - Large,Large,NA,90,0,0,0,5,120,12,0,12,9,315,0.24,0,0
+Iced Cafe Au Lait with Skim Milk - Medium,Medium,NA,60,0,0,0,5,90,9,0,9,6,235,0.18,0,0
+Iced Cafe Au Lait with Skim Milk - Small,Small,NA,45,0,0,0,0,60,6,0,6,4,158,0.12,0,0
+Iced Cafe Au Lait with Whole Milk - Large,Large,NA,150,8,4.5,0,25,120,12,0,12,8,292,0.22,0,0
+Iced Cafe Au Lait with Whole Milk - Medium,Medium,NA,110,6,3.5,0,20,90,9,0,9,6,218,0.17,0,0
+Iced Cafe Au Lait with Whole Milk - Small,Small,NA,80,4,2.5,0,10,60,6,0,6,4,146,0.11,0,0
 Iced Coffee - Large,Large,NA,5,0,0,0,0,20,0,0,0,1,21,0.02,0,0
 Iced Coffee - Medium,Medium,NA,5,0,0,0,0,15,0,0,0,0,15,0.01,0,0
 Iced Coffee - Small,Small,NA,5,0,0,0,0,10,0,0,0,0,11,0.01,0,0
@@ -324,19 +324,19 @@ Signature Cocoa Mocha Hot Latte with Skim Milk - Small,Small,NA,250,5,3.5,0,20,1
 Signature Cocoa Mocha Hot Latte with Whole Milk - Large,Large,NA,520,18,11,0.5,55,210,78,2,68,14,445,0.34,2,0.11
 Signature Cocoa Mocha Hot Latte with Whole Milk - Medium,Medium,NA,400,14,9,0,45,160,60,2,52,10,337,0.26,2,0.11
 Signature Cocoa Mocha Hot Latte with Whole Milk - Small,Small,NA,300,11,7,0,35,110,43,1,36,7,230,0.18,1,0.06
-Café con Leche - Large,Large,NA,340,12,7,0,35,170,47,0,46,12,415,0.32,0,0
-Café con Leche - Medium,Medium,NA,250,9,5,0,25,125,35,0,34,9,312,0.24,0,0
-Café con Leche - Small,Small,NA,170,6,3.5,0,20,85,23,0,23,6,208,0.16,0,0
+Cafe con Leche - Large,Large,NA,340,12,7,0,35,170,47,0,46,12,415,0.32,0,0
+Cafe con Leche - Medium,Medium,NA,250,9,5,0,25,125,35,0,34,9,312,0.24,0,0
+Cafe con Leche - Small,Small,NA,170,6,3.5,0,20,85,23,0,23,6,208,0.16,0,0
 Cortadito,1 Size,NA,80,1,0.5,0,5,20,16,0,16,1,35,0.03,0,0
 Espresso with Sugar,Single Shot,NA,60,0,0,0,0,5,15,0,14,0,1,0,0,0
 Hot Espresso,Single Shot,NA,5,0,0,0,0,5,1,0,0,0,1,0,0,0
-Box 'O Joe®,1 Small Cup,NA,5,0,0,0,0,5,0,0,0,0,6,0,0,0
-Café Au Lait with Skim Milk -Large,Large,NA,90,0,0,0,5,110,12,0,12,9,305,0.23,0,0
-Café Au Lait with Skim Milk -Medium,Medium,NA,70,0,0,0,5,80,9,0,9,7,229,0.18,0,0
-Café Au Lait with Skim Milk -Small,Small,NA,45,0,0,0,0,55,6,0,6,4,152,0.12,0,0
-Café Au Lait with Whole Milk -Large,Large,NA,150,8,4.5,0,25,110,12,0,12,8,282,0.22,0,0
-Café Au Lait with Whole Milk -Medium,Medium,NA,110,6,3.5,0,20,85,9,0,9,6,212,0.16,0,0
-Café Au Lait with Whole Milk -Small,Small,NA,80,4,2.5,0,10,55,6,0,6,4,141,0.11,0,0
+Box 'O Joe,1 Small Cup,NA,5,0,0,0,0,5,0,0,0,0,6,0,0,0
+Cafe Au Lait with Skim Milk -Large,Large,NA,90,0,0,0,5,110,12,0,12,9,305,0.23,0,0
+Cafe Au Lait with Skim Milk -Medium,Medium,NA,70,0,0,0,5,80,9,0,9,7,229,0.18,0,0
+Cafe Au Lait with Skim Milk -Small,Small,NA,45,0,0,0,0,55,6,0,6,4,152,0.12,0,0
+Cafe Au Lait with Whole Milk -Large,Large,NA,150,8,4.5,0,25,110,12,0,12,8,282,0.22,0,0
+Cafe Au Lait with Whole Milk -Medium,Medium,NA,110,6,3.5,0,20,85,9,0,9,6,212,0.16,0,0
+Cafe Au Lait with Whole Milk -Small,Small,NA,80,4,2.5,0,10,55,6,0,6,4,141,0.11,0,0
 Caramel Swirl Hot Coffee with Black - Extra Large,XLarge,NA,280,0,0,0,5,95,64,0,64,4,140,0.11,0,0
 Caramel Swirl Hot Coffee with Black - Large,Large,NA,230,0,0,0,5,75,52,0,51,3,113,0.09,0,0
 Caramel Swirl Hot Coffee with Black - Medium,Medium,NA,170,0,0,0,5,60,39,0,38,3,85,0.07,0,0
@@ -406,10 +406,10 @@ Mocha Swirl Hot Coffee with Cream - Large,Large,NA,330,12,7,0,35,80,52,2,47,4,74
 Mocha Swirl Hot Coffee with Cream - Medium,Medium,NA,240,9,5,0,25,60,39,2,35,3,56,0.04,1,0.06
 Mocha Swirl Hot Coffee with Cream - Small,Small,NA,160,6,3.5,0,20,40,26,1,24,2,38,0.03,1,0.06
 Box 'O Joe(R) Hot Chocolate,1 Small Cup,NA,220,7,6,0,0,210,40,2,32,2,34,0.03,0,0
-Dunkaccino® - Extra Large,XLarge,NA,540,23,19,0,10,510,80,1,58,4,102,0.08,1,0.06
-Dunkaccino® - Large,Large,NA,490,21,17,0,10,470,73,1,53,4,94,0.07,1,0.06
-Dunkaccino® - Medium,Medium,NA,350,15,12,0,5,340,52,1,38,3,67,0.05,0,0
-Dunkaccino® - Small,Small,NA,240,10,8,0,5,230,36,0,26,2,46,0.04,0,0
+Dunkaccino - Extra Large,XLarge,NA,540,23,19,0,10,510,80,1,58,4,102,0.08,1,0.06
+Dunkaccino - Large,Large,NA,490,21,17,0,10,470,73,1,53,4,94,0.07,1,0.06
+Dunkaccino - Medium,Medium,NA,350,15,12,0,5,340,52,1,38,3,67,0.05,0,0
+Dunkaccino - Small,Small,NA,240,10,8,0,5,230,36,0,26,2,46,0.04,0,0
 French Vanilla Dunkaccino(R) -Extra Large,XLarge,NA,570,26,21,0,10,570,86,1,62,4,80,0.06,1,0.06
 French Vanilla Dunkaccino(R) -Large,Large,NA,470,21,17,0,10,460,70,1,50,3,65,0.05,1,0.06
 French Vanilla Dunkaccino(R) -Medium,Medium,NA,350,16,13,0,5,350,53,1,38,2,49,0.04,0,0
@@ -421,10 +421,10 @@ Mint Hot Chocolate - Extra Large,XLarge,NA,490,16,14,0,0,430,87,3,70,3,39,0.03,1
 Mint Hot Chocolate - Large,Large,NA,400,13,12,0,0,350,72,3,57,3,32,0.02,0,0
 Mint Hot Chocolate - Medium,Medium,NA,300,10,9,0,0,260,52,2,42,2,23,0.02,0,0
 Mint Hot Chocolate - Small,Small,NA,210,7,6,0,0,180,36,1,29,1,16,0.01,0,0
-OREO® Hot Chocolate - Extra Large,XLarge,NA,580,13,10,0,0,630,110,4,88,7,172,0.13,5,0.28
-OREO® Hot Chocolate - Large,Large,NA,460,10,8,0,0,500,88,3,70,6,138,0.11,4,0.22
-OREO® Hot Chocolate - Medium,Medium,NA,350,8,6,0,0,380,66,2,53,4,103,0.08,3,0.17
-OREO® Hot Chocolate - Small,Small,NA,230,5,4,0,0,250,44,1,35,3,69,0.05,2,0.11
+OREO Hot Chocolate - Extra Large,XLarge,NA,580,13,10,0,0,630,110,4,88,7,172,0.13,5,0.28
+OREO Hot Chocolate - Large,Large,NA,460,10,8,0,0,500,88,3,70,6,138,0.11,4,0.22
+OREO Hot Chocolate - Medium,Medium,NA,350,8,6,0,0,380,66,2,53,4,103,0.08,3,0.17
+OREO Hot Chocolate - Small,Small,NA,230,5,4,0,0,250,44,1,35,3,69,0.05,2,0.11
 Original Hot Chocolate - Extra Large,XLarge,NA,500,15,14,0,0,480,89,3,71,4,76,0.06,1,0.06
 Original Hot Chocolate - Large,Large,NA,460,14,13,0,0,440,82,3,65,4,70,0.05,1,0.06
 Original Hot Chocolate - Medium,Medium,NA,330,10,9,0,0,320,59,2,46,3,50,0.04,0,0
@@ -468,9 +468,9 @@ Mocha Swirl Hot Cappuccino with Whole Milk - Small,Small,NA,180,4.5,2.5,0,10,70,
 Americano - Large,Large,NA,10,0,0,0,0,30,2,0,0,0,15,0.01,0,0
 Americano - Medium,Medium,NA,10,0,0,0,0,25,2,0,0,0,12,0.01,0,0
 Americano - Small,Small,NA,5,0,0,0,0,15,1,0,0,0,7,0.01,0,0
-Frozen Dunkaccino® - Large,Large,NA,930,22,15,0,40,350,177,3,159,10,294,0.23,3,0.17
-Frozen Dunkaccino® - Medium,Medium,NA,710,17,12,0,35,260,134,3,119,8,223,0.17,2,0.11
-Frozen Dunkaccino® - Small,Small,NA,510,13,9,0,25,180,94,2,83,5,155,0.12,1,0.06
+Frozen Dunkaccino - Large,Large,NA,930,22,15,0,40,350,177,3,159,10,294,0.23,3,0.17
+Frozen Dunkaccino - Medium,Medium,NA,710,17,12,0,35,260,134,3,119,8,223,0.17,2,0.11
+Frozen Dunkaccino - Small,Small,NA,510,13,9,0,25,180,94,2,83,5,155,0.12,1,0.06
 Caramel Swirl Frozen Coffee with Cream - Large,Large,NA,1120,40,22,1.5,130,290,180,0,172,10,346,0.27,2,0.11
 Caramel Swirl Frozen Coffee with Cream - Medium,Medium,NA,860,31,17,1,100,220,139,0,132,8,267,0.21,2,0.11
 Caramel Swirl Frozen Coffee with Cream - Small,Small,NA,610,22,12,0.5,70,160,97,0,92,6,190,0.15,1,0.06
@@ -528,17 +528,17 @@ Frozen Chocolate - Small,Small,NA,490,11,8,0,25,170,94,2,84,5,149,0.11,1,0.06
 Hazelnut Swirl Frozen Chocolate -Large,Large,NA,900,17,12,0,40,370,176,1,162,11,372,0.29,0,0
 Hazelnut Swirl Frozen Chocolate -Medium,Medium,NA,700,14,10,0,35,280,135,1,124,9,287,0.22,0,0
 Hazelnut Swirl Frozen Chocolate -Small,Small,NA,500,11,8,0,30,190,95,1,87,6,204,0.16,0,0
-Blue Raspberry Dunkin' Energy Punch Powered by Monster Energy®,Large,NA,420,0,0,0,0,460,102,0,96,0,12,0.01,0,0
-Strawberry Dunkin' Energy Punch Powered by Monster Energy®,Large,NA,430,0,0,0,0,420,106,1,96,0,19,0.01,0,0
-Blue Raspberry Coolatta® - Large,Large,NA,460,0,0,0,0,60,112,0,110,0,24,0.02,0,0
-Blue Raspberry Coolatta® -Medium,Medium,NA,350,0,0,0,0,45,84,0,83,0,18,0.01,0,0
-Blue Raspberry Coolatta® - Small,Small,NA,230,0,0,0,0,30,56,0,55,0,10,0.01,0,0
-Strawberry Coolatta® - Large,Large,NA,470,0,0,0,0,25,115,1,110,0,32,0.02,0,0
-Strawberry Coolatta® - Medium,Medium,NA,350,0,0,0,0,15,86,1,83,0,24,0.02,0,0
-Strawberry Coolatta® - Small,Small,NA,240,0,0,0,0,10,57,1,55,0,16,0.01,0,0
-Vanilla Bean Coolatta® - Large,Large,NA,790,6,3.5,0,20,320,172,0,167,10,379,0.29,0,0
-Vanilla Bean Coolatta® - Medium,Medium,NA,590,4.5,2.5,0,15,240,129,0,125,7,284,0.22,0,0
-Vanilla Bean Coolatta® - Small,Small,NA,390,3,1.5,0,10,160,86,0,83,5,190,0.15,0,0
+Blue Raspberry Dunkin' Energy Punch Powered by Monster Energy,Large,NA,420,0,0,0,0,460,102,0,96,0,12,0.01,0,0
+Strawberry Dunkin' Energy Punch Powered by Monster Energy,Large,NA,430,0,0,0,0,420,106,1,96,0,19,0.01,0,0
+Blue Raspberry Coolatta - Large,Large,NA,460,0,0,0,0,60,112,0,110,0,24,0.02,0,0
+Blue Raspberry Coolatta -Medium,Medium,NA,350,0,0,0,0,45,84,0,83,0,18,0.01,0,0
+Blue Raspberry Coolatta - Small,Small,NA,230,0,0,0,0,30,56,0,55,0,10,0.01,0,0
+Strawberry Coolatta - Large,Large,NA,470,0,0,0,0,25,115,1,110,0,32,0.02,0,0
+Strawberry Coolatta - Medium,Medium,NA,350,0,0,0,0,15,86,1,83,0,24,0.02,0,0
+Strawberry Coolatta - Small,Small,NA,240,0,0,0,0,10,57,1,55,0,16,0.01,0,0
+Vanilla Bean Coolatta - Large,Large,NA,790,6,3.5,0,20,320,172,0,167,10,379,0.29,0,0
+Vanilla Bean Coolatta - Medium,Medium,NA,590,4.5,2.5,0,15,240,129,0,125,7,284,0.22,0,0
+Vanilla Bean Coolatta - Small,Small,NA,390,3,1.5,0,10,160,86,0,83,5,190,0.15,0,0
 Cold Brew Coffee - Large,Large,NA,5,0,0,0,0,20,0,0,0,1,21,0.02,0,0
 Cold Brew Coffee - Medium,Medium,NA,5,0,0,0,0,15,0,0,0,0,15,0.01,0,0
 Cold Brew Coffee - Small,Small,NA,5,0,0,0,0,10,0,0,0,0,11,0.01,0,0
