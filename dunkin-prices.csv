@@ -1,0 +1,116 @@
+menu_item,size,cals,price
+"Coffee (Original Blend, Dark Roast, Decaf)",Small,5,1.79
+"Coffee (Original Blend, Dark Roast, Decaf)",Small,10,2.09
+"Coffee (Original Blend, Dark Roast, Decaf)",Small,10,2.39
+"Coffee (Original Blend, Dark Roast, Decaf)",Small,15,2.69
+Espresso (Regular or Decaf),Small,5,1.19
+Add Espresso shot to any Coffee Drink,Small,5,1
+Add Espresso shot to any Espresso Drink,Small,5,0.99
+Latte (Regular or Decaf),Small,120,2.69
+Latte (Regular or Decaf),Small,170,3.19
+Latte (Regular or Decaf),Small,230,3.59
+Cappuccino (Regular or Decaf),Small,80,2.69
+Cappuccino (Regular or Decaf),Small,120,3.19
+Cappuccino (Regular or Decaf),Small,160,3.59
+Macchiato (Regular or Decaf),Small,80,2.99
+Macchiato (Regular or Decaf),Small,120,3.59
+Macchiato (Regular or Decaf),Small,160,4.19
+"Iced Coffee (Original Blend, Dark Roast, Decaf)",Small,10,2.19
+"Iced Coffee (Original Blend, Dark Roast, Decaf)",Small,15,2.69
+"Iced Coffee (Original Blend, Dark Roast, Decaf)",Small,20,3.19
+Cold Brew,Small,10,2.59
+Cold Brew,Small,15,3.09
+Cold Brew,Small,20,3.59
+Iced Latte (Regular or Decaf),Small,127,3.19
+Iced Latte (Regular or Decaf),Small,170,3.69
+Iced Latte (Regular or Decaf),Small,230,4.09
+Iced Macchiato (Regular or Decaf),Small,80,3.39
+Iced Macchiato (Regular or Decaf),Small,120,3.89
+Iced Macchiato (Regular or Decaf),Small,160,4.39
+Coffee Coolatta,Small,400,2.99
+Coffee Coolatta,Small,600,3.99
+Coffee Coolatta,Small,800,4.49
+"Box O' Joe (Original Blend, Dark Roast, Decaf)",Small,50,15.99
+Box O' Joe (Hot Chocolate),Small,220,18.99
+"Coolatta (Strawberry, Orange, Vanilla Bean, Caramel, Mocha)",Small,240,2.99
+"Coolatta (Strawberry, Orange, Vanilla Bean, Caramel, Mocha)",Small,360,3.99
+"Coolatta (Strawberry, Orange, Vanilla Bean, Caramel, Mocha)",Small,470,4.99
+"Cosmic Coolatta (Strawberry, Pineapple, Grape)",Small,230,2.99
+"Cosmic Coolatta (Strawberry, Pineapple, Grape)",Small,350,3.99
+"Cosmic Coolatta (Strawberry, Pineapple, Grape)",Small,460,4.99
+"Smoothies (Strawberry Banana, Mango, Orange, Wildberry)",Small,280,3.79
+"Smoothies (Strawberry Banana, Mango, Orange, Wildberry)",Small,420,3.99
+"Smoothies (Strawberry Banana, Mango, Orange, Wildberry)",Small,560,4.99
+"Iced Tea (Unsweetened) (Plain, Raspberry, Blueberry)",Small,5,0.99
+"Iced Tea (Unsweetened) (Plain, Raspberry, Blueberry)",Small,5,1.29
+"Iced Tea (Unsweetened) (Plain, Raspberry, Blueberry)",Small,5,1.59
+"Iced Tea (Sweetened) (Plain, Raspberry, Blueberry)",Small,5,0.99
+"Iced Tea (Sweetened) (Plain, Raspberry, Blueberry)",Small,5,1.29
+"Iced Tea (Sweetened) (Plain, Raspberry, Blueberry)",Small,10,1.59
+Iced Tea (Green),Small,70,1.49
+Iced Tea (Green),Small,120,1.99
+Iced Tea (Green),Small,150,2.49
+Sweet Tea,Small,160,1.49
+Sweet Tea,Small,230,1.99
+Sweet Tea,Small,310,2.49
+"Tea (Black, Green)",Small,0,1.39
+"Tea (Black, Green)",Small,0,1.59
+"Tea (Black, Green)",Small,0,1.79
+"Tea (Black, Green)",Small,0,1.99
+Vanilla Chai,Small,330,2.99
+"Hot Chocolate (Original, Mint, Dunkaccino)",Small,210,1.99
+"Hot Chocolate (Original, Mint, Dunkaccino)",Small,300,2.39
+"Hot Chocolate (Original, Mint, Dunkaccino)",Small,410,2.79
+"Hot Chocolate (Original, Mint, Dunkaccino)",Small,500,2.99
+Frozen Chocolate -Original Hot Chocolate,Small,500,2.99
+Frozen Chocolate -Original Hot Chocolate,Small,700,3.99
+Frozen Chocolate -Original Hot Chocolate,Small,920,4.99
+Classic Donut,Small,230,1.19
+Square Donut,Small,340,1.49
+Deluxe Donut,Small,300,2.49
+Fancy Donut,Small,270,1.59
+Munchkins,Small,60,2.25
+Munchkins,Small,60,5.39
+Munchkins,Small,60,8.49
+Muffin,Small,410,1.59
+Bagel,Small,310,1.49
+Bagel with Cream Cheese,Small,410,2.59
+Croissant,Small,340,1.59
+Chorizo Burrito Bowl,Small,350,4.99
+Fire Roasted Veggie Burrito Bowl,Small,250,4.99
+Big N' Toasted,Small,570,4.49
+Angus Steak,Small,570,4.49
+"Sausage, Egg & Cheese on a Croissant",Small,570,3.99
+"Bacon, Egg & Cheese on a Plain Bagel",Small,470,3.99
+"Turkey Sausage, Egg & Cheese on a Flatbread",Small,420,3.99
+Chicken Salad on a Croissant,Small,580,3.99
+Ham & Cheese on a Flatbread,Small,330,3.89
+"Ham, Egg & Cheese on an English Muffin",Small,270,3.99
+Veggie Egg White on a Flatbread,Small,320,3.99
+Chicken Bacon on a Croissant,Small,730,4.29
+"Turkey, Cheddar & Bacon on a Flatbread",Small,380,3.99
+Deluxe Grilled Cheese (Ham),Small,530,4.49
+Deluxe Grilled Cheese (Bacon),Small,560,4.49
+"Wake Up Wrap (Sausage Bacon, Turkey Sausage or Ham)",Small,170,1.59
+Pumpkin Coffee,Small,110,1.79
+Pumpkin Coffee,Small,170,2.09
+Pumpkin Coffee,Small,220,2.39
+Pumpkin Latte,Small,120,3.09
+Pumpkin Latte,Small,170,3.59
+Pumpkin Latte,Small,230,3.99
+Cinnamon Sugar Pumpkin Signature Latte,Small,310,3.19
+Cinnamon Sugar Pumpkin Signature Latte,Small,420,3.69
+Cinnamon Sugar Pumpkin Signature Latte,Small,540,4.09
+Pumpkin Iced Coffee,Small,110,2.19
+Pumpkin Iced Coffee,Small,170,2.69
+Pumpkin Iced Coffee,Small,220,3.19
+Pumpkin Frozen Coffee,Small,630,2.99
+Pumpkin Frozen Coffee,Small,890,3.99
+Pumpkin Frozen Coffee,Small,1160,4.99
+Cinnamon Sugar Pumpkin Iced Signature Latte,Small,310,3.69
+Cinnamon Sugar Pumpkin Iced Signature Latte,Small,420,4.19
+Cinnamon Sugar Pumpkin Iced Signature Latte,Small,540,4.59
+Pumpkin Donut,Small,340,1.19
+Pumpkin Muffin,Small,550,1.79
+5pc Pumpkin Munchkin Donut Holes,Small,350,1.25
+10pc Pumpkin Munchkin Donut Holes,Small,700,2.5
