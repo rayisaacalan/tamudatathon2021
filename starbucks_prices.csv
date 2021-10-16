@@ -1,0 +1,513 @@
+menu_item,size,cals,price
+Pumpkin Spice Latte,Short,210,4.75
+Pumpkin Spice Latte,Tall,310,4.85
+Pumpkin Spice Latte,Grande,390,5.45
+Pumpkin Spice Latte,Venti,470,5.75
+Pumpkin Cream Cold Brew,Tall,140,4.25
+Pumpkin Cream Cold Brew,Grande,250,4.75
+Pumpkin Cream Cold Brew,Venti,310,4.95
+Pumpkin Cream Cold Brew,Trenta,360,5.25
+Pumpkin Spice Frappuccino®,Tall,290,4.95
+Pumpkin Spice Frappuccino®,Grande,420,5.45
+Pumpkin Spice Frappuccino®,Venti,510,5.95
+Apple Crisp Macchiato,Short,140,4.75
+Apple Crisp Macchiato,Tall,220,4.85
+Apple Crisp Macchiato,Grande,300,5.45
+Apple Crisp Macchiato,Venti,370,5.75
+Iced Apple Crisp Macchiato,Tall,210,4.85
+Iced Apple Crisp Macchiato,Grande,280,5.45
+Iced Apple Crisp Macchiato,Venti,380,5.95
+Apple Crisp Frappuccino®,Tall,320,4.95
+Apple Crisp Frappuccino®,Grande,460,5.45
+Apple Crisp Frappuccino®,Venti,550,5.95
+Pumpkin Scone,,500,3.25
+Fox Cake Pop,,140,2.25
+Freshly Brewed Coffee,Short,5,2.15
+Freshly Brewed Coffee,Tall,5,2.25
+Freshly Brewed Coffee,Grande,5,2.65
+Freshly Brewed Coffee,Venti,5,2.95
+Freshly Brewed Coffee Traveler Pack,96oz,60,17.95
+Caffè Misto,Short,50,2.85
+Caffè Misto,Tall,80,2.95
+Caffè Misto,Grande,110,3.35
+Caffè Misto,Venti,130,3.65
+Caffè Americano,Short,5,2.65
+Caffè Americano,Tall,10,2.95
+Caffè Americano,Grande,15,3.45
+Caffè Americano,Venti,20,3.65
+Cappuccino,Short,70,3.35
+Cappuccino,Tall,100,3.45
+Cappuccino,Grande,140,4.25
+Cappuccino,Venti,200,4.75
+Espresso,Solo,5,2.45
+Espresso,Doppio,10,2.65
+Espresso,Triple,15,2.95
+Espresso,Quad,20,3.25
+Espresso Con Panna,Solo,30,2.55
+Espresso Con Panna,Doppio,35,2.75
+Espresso Con Panna,Triple,40,3.05
+Espresso Con Panna,Quad,45,3.35
+Flat White,Short,110,4.15
+Flat White,Tall,170,4.25
+Flat White,Grande,220,4.75
+Flat White,Venti,290,5.25
+Honey Almondmilk Flat White,Short,80,4.85
+Honey Almondmilk Flat White,Tall,120,4.95
+Honey Almondmilk Flat White,Grande,170,5.45
+Honey Almondmilk Flat White,Venti,210,5.95
+Caffè Latte,Short,100,3.35
+Caffè Latte,Tall,150,3.45
+Caffè Latte,Grande,190,4.25
+Caffè Latte,Venti,250,4.75
+Starbucks Blonde Vanilla Latte,Short,130,3.85
+Starbucks Blonde Vanilla Latte,Tall,200,3.95
+Starbucks Blonde Vanilla Latte,Grande,250,4.75
+Starbucks Blonde Vanilla Latte,Venti,320,5.25
+Caramel Macchiato,Short,120,4.35
+Caramel Macchiato,Tall,190,4.45
+Caramel Macchiato,Grande,250,4.95
+Caramel Macchiato,Venti,310,5.25
+Espresso Macchiato,Solo,10,2.55
+Espresso Macchiato,Doppio,15,2.75
+Espresso Macchiato,Triple,20,3.05
+Espresso Macchiato,Quad,25,3.35
+Caffè Mocha,Short,200,3.95
+Caffè Mocha,Tall,290,4.15
+Caffè Mocha,Grande,370,4.65
+Caffè Mocha,Venti,450,4.95
+White Chocolate Mocha,Short,230,4.55
+White Chocolate Mocha,Tall,340,4.65
+White Chocolate Mocha,Grande,430,4.95
+White Chocolate Mocha,Venti,530,5.45
+Pumpkin Spice Latte,Short,210,4.75
+Pumpkin Spice Latte,Tall,310,4.85
+Pumpkin Spice Latte,Grande,390,5.45
+Pumpkin Spice Latte,Venti,470,5.75
+Apple Crisp Macchiato,Short,140,4.75
+Apple Crisp Macchiato,Tall,220,4.85
+Apple Crisp Macchiato,Grande,300,5.45
+Apple Crisp Macchiato,Venti,370,5.75
+Chai Tea Latte,Short,120,3.85
+Chai Tea Latte,Tall,190,3.95
+Chai Tea Latte,Grande,240,4.65
+Chai Tea Latte,Venti,310,4.95
+Chai Tea,Short,0,2.35
+Chai Tea,Tall,0,2.45
+Chai Tea,Grande,0,2.75
+Chai Tea,Venti,0,2.95
+Earl Grey Tea,Short,0,2.35
+Earl Grey Tea,Tall,0,2.45
+Earl Grey Tea,Grande,0,2.75
+Earl Grey Tea,Venti,0,2.95
+London Fog tea Latte,Short,90,3.85
+London Fog tea Latte,Tall,140,3.95
+London Fog tea Latte,Grande,180,4.65
+London Fog tea Latte,Venti,230,4.95
+Royal English Breakfast Tea,Short,0,2.35
+Royal English Breakfast Tea,Tall,0,2.45
+Royal English Breakfast Tea,Grande,0,2.75
+Royal English Breakfast Tea,Venti,0,2.95
+Royal English Breakfast Tea Latte,Short,80,4.15
+Royal English Breakfast Tea Latte,Tall,110,4.25
+Royal English Breakfast Tea Latte,Grande,150,4.75
+Royal English Breakfast Tea Latte,Venti,190,4.95
+Emporar's Cloud & Mist,Short,0,2.35
+Emporar's Cloud & Mist,Tall,0,2.45
+Emporar's Cloud & Mist,Grande,0,2.75
+Emporar's Cloud & Mist,Venti,0,2.95
+Matcha tea Latte,Short,110,3.85
+Matcha tea Latte,Tall,190,3.95
+Matcha tea Latte,Grande,240,4.65
+Matcha tea Latte,Venti,320,4.95
+Jade Citrus Mint Brewed Tea,Short,0,2.35
+Jade Citrus Mint Brewed Tea,Tall,0,2.45
+Jade Citrus Mint Brewed Tea,Grande,0,2.75
+Jade Citrus Mint Brewed Tea,Venti,0,2.95
+Honey Citrus Mint Tea,Short,60,2.85
+Honey Citrus Mint Tea,Tall,80,2.95
+Honey Citrus Mint Tea,Grande,130,3.45
+Honey Citrus Mint Tea,Venti,150,3.95
+Mint Majesty,Short,0,2.35
+Mint Majesty,Tall,0,2.45
+Mint Majesty,Grande,0,2.75
+Mint Majesty,Venti,0,2.95
+Peach Tranquality,Short,0,2.35
+Peach Tranquality,Tall,0,2.45
+Peach Tranquality,Grande,0,2.75
+Peach Tranquality,Venti,0,2.95
+Hot Chocolate,Short,190,2.85
+Hot Chocolate,Tall,280,2.95
+Hot Chocolate,Grande,370,3.45
+Hot Chocolate,Venti,450,3.65
+White Hot Chocolate,Short,240,3.35
+White Hot Chocolate,Tall,350,3.45
+White Hot Chocolate,Grande,440,3.95
+White Hot Chocolate,Venti,540,4.15
+Caramel Apple Spice,Short,220,2.85
+Caramel Apple Spice,Tall,310,2.95
+Caramel Apple Spice,Grande,380,3.45
+Caramel Apple Spice,Venti,460,3.65
+Steamed Apple Juice,Short,120,2.35
+Steamed Apple Juice,Tall,170,2.45
+Steamed Apple Juice,Grande,220,2.65
+Steamed Apple Juice,Venti,280,2.95
+Steamed Milk,Kids,100,1.95
+Steamed Milk,Short,100,2.35
+Steamed Milk,Tall,160,2.45
+Steamed Milk,Grande,200,2.65
+Steamed Milk,Venti,260,2.95
+Vanilla Crème,Kids,180,1.95
+Vanilla Crème,Short,190,2.85
+Vanilla Crème,Tall,280,2.95
+Vanilla Crème,Grande,350,3.45
+Vanilla Crème,Venti,430,3.65
+Pumpkin Spice Crème,Short,210,4.15
+Pumpkin Spice Crème,Tall,310,4.25
+Pumpkin Spice Crème,Grande,400,4.45
+Pumpkin Spice Crème,Venti,480,4.95
+Espresso Frappuccino®,Tall,140,5.15
+Espresso Frappuccino®,Grande,210,5.55
+Espresso Frappuccino®,Venti,290,5.85
+Caffè Vanilla Frappuccino®,Tall,280,4.45
+Caffè Vanilla Frappuccino®,Grande,400,4.95
+Caffè Vanilla Frappuccino®,Venti,510,5.45
+Caramel Frappuccino®,Tall,260,4.45
+Caramel Frappuccino®,Grande,380,4.95
+Caramel Frappuccino®,Venti,470,5.45
+Coffee Frappuccino®,Tall,160,4.25
+Coffee Frappuccino®,Grande,230,4.75
+Coffee Frappuccino®,Venti,310,5.25
+Mocha Frappuccino®,Tall,250,4.45
+Mocha Frappuccino®,Grande,370,4.95
+Mocha Frappuccino®,Venti,470,5.45
+Java Chip Frappuccino®,Tall,320,4.45
+Java Chip Frappuccino®,Grande,440,4.95
+Java Chip Frappuccino®,Venti,560,5.45
+White Chocolate Mocha Frappuccino®,Tall,280,4.45
+White Chocolate Mocha Frappuccino®,Grande,420,4.95
+White Chocolate Mocha Frappuccino®,Venti,500,5.45
+Strawberry Funnel Cake Frappuccino®,Tall,290,4.95
+Strawberry Funnel Cake Frappuccino®,Grande,410,5.45
+Strawberry Funnel Cake Frappuccino®,Venti,500,5.75
+Mocha Cookie Crumble Frappuccino®,Tall,350,4.95
+Mocha Cookie Crumble Frappuccino®,Grande,480,5.45
+Mocha Cookie Crumble Frappuccino®,Venti,590,5.75
+Caramel Ribbon Crunch Frappuccino®,Tall,330,4.95
+Caramel Ribbon Crunch Frappuccino®,Grande,470,5.45
+Caramel Ribbon Crunch Frappuccino®,Venti,570,5.75
+Pumpkin Spice Frappuccino®,Tall,290,4.95
+Pumpkin Spice Frappuccino®,Grande,420,5.45
+Pumpkin Spice Frappuccino®,Venti,510,5.95
+Apple Crisp Frappuccino®,Tall,320,4.95
+Apple Crisp Frappuccino®,Grande,460,5.45
+Apple Crisp Frappuccino®,Venti,550,5.95
+Chocolate Cookie Crumble Crème Frappuccino,Tall,330,4.95
+Chocolate Cookie Crumble Crème Frappuccino,Grande,460,5.45
+Chocolate Cookie Crumble Crème Frappuccino,Venti,560,5.95
+Caramel Ribbon Crunch Crème Frappuccino,Tall,300,4.95
+Caramel Ribbon Crunch Crème Frappuccino,Grande,420,5.45
+Caramel Ribbon Crunch Crème Frappuccino,Venti,510,5.95
+Strawberry Crème Frappuccino,Tall,250,4.45
+Strawberry Crème Frappuccino,Grande,370,4.95
+Strawberry Crème Frappuccino,Venti,460,5.45
+Chai Crème Frappuccino,Tall,230,4.45
+Chai Crème Frappuccino,Grande,340,4.95
+Chai Crème Frappuccino,Venti,420,5.45
+Double Chocolaty Chip Crème Frappuccino,Tall,290,4.45
+Double Chocolaty Chip Crème Frappuccino,Grande,410,4.95
+Double Chocolaty Chip Crème Frappuccino,Venti,510,5.45
+Matcha Crème Frappuccino,Tall,300,4.45
+Matcha Crème Frappuccino,Grande,410,4.95
+Matcha Crème Frappuccino,Venti,520,5.45
+Vanilla Bean Crème Frappuccino,Tall,260,4.25
+Vanilla Bean Crème Frappuccino,Grande,380,4.75
+Vanilla Bean Crème Frappuccino,Venti,470,5.25
+White Chocolate Crème Frappuccino,Tall,250,4.45
+White Chocolate Crème Frappuccino,Grande,380,4.95
+White Chocolate Crème Frappuccino,Venti,450,5.45
+Strawberry Funnel Cake Crème Frappuccino,Tall,270,4.95
+Strawberry Funnel Cake Crème Frappuccino,Grande,380,5.45
+Strawberry Funnel Cake Crème Frappuccino,Venti,450,5.95
+Pumpkin Spice Crème Frappuccino,Tall,250,4.95
+Pumpkin Spice Crème Frappuccino,Grande,360,5.45
+Pumpkin Spice Crème Frappuccino,Venti,450,5.95
+Apple Crisp Crème Frappuccino,Tall,280,4.95
+Apple Crisp Crème Frappuccino,Grande,400,5.45
+Apple Crisp Crème Frappuccino,Venti,470,5.95
+Iced Coffee,Tall,60,2.95
+Iced Coffee,Grande,80,3.25
+Iced Coffee,Venti,120,3.75
+Iced Coffee,Trenta,160,3.95
+Iced Coffee With Milk,Tall,80,2.95
+Iced Coffee With Milk,Grande,110,3.25
+Iced Coffee With Milk,Venti,170,3.75
+Iced Coffee With Milk,Trenta,230,3.95
+Iced Espresso,Solo,5,2.45
+Iced Espresso,Doppio,10,2.65
+Iced Espresso,Triple,15,2.95
+Iced Espresso,Quad,25,3.25
+Iced Shaken Espresso,Tall,80,3.45
+Iced Shaken Espresso,Grande,100,3.95
+Iced Shaken Espresso,Venti,160,4.45
+Iced Chocolate Almondmilk Shaken Espresso,Tall,80,4.95
+Iced Chocolate Almondmilk Shaken Espresso,Grande,110,5.45
+Iced Chocolate Almondmilk Shaken Espresso,Venti,150,5.95
+Iced Brown Sugar Oatmilk Shaken Espresso,Tall,90,4.95
+Iced Brown Sugar Oatmilk Shaken Espresso,Grande,120,5.45
+Iced Brown Sugar Oatmilk Shaken Espresso,Venti,170,5.95
+Iced Flat White,Tall,110,4.25
+Iced Flat White,Grande,150,4.75
+Iced Flat White,Venti,220,5.45
+Iced Honey Almondmilk Flat White,Tall,100,4.95
+Iced Honey Almondmilk Flat White,Grande,140,5.45
+Iced Honey Almondmilk Flat White,Venti,200,5.95
+Iced Caffè Latte,Tall,100,3.45
+Iced Caffè Latte,Grande,130,4.25
+Iced Caffè Latte,Venti,180,4.95
+Iced Starbucks® Blonde Vanilla Latte,Tall,140,3.95
+Iced Starbucks® Blonde Vanilla Latte,Grande,190,4.75
+Iced Starbucks® Blonde Vanilla Latte,Venti,270,5.45
+Iced Honey Oatmilk Latte,Tall,160,4.95
+Iced Honey Oatmilk Latte,Grande,210,5.45
+Iced Honey Oatmilk Latte,Venti,300,5.95
+Iced Caramel Macchiato,Tall,180,4.45
+Iced Caramel Macchiato,Grande,250,4.95
+Iced Caramel Macchiato,Venti,350,5.45
+Iced Caffè Mocha,Tall,260,4.15
+Iced Caffè Mocha,Grande,350,4.65
+Iced Caffè Mocha,Venti,450,5.25
+Iced White Chocolate Mocha,Tall,310,4.65
+Iced White Chocolate Mocha,Grande,420,4.95
+Iced White Chocolate Mocha,Venti,560,5.65
+Iced Pumpkin Spice Latte,Tall,270,4.85
+Iced Pumpkin Spice Latte,Grande,370,5.45
+Iced Pumpkin Spice Latte,Venti,480,5.95
+Iced Apple Crisp Macchiato,Tall,210,4.85
+Iced Apple Crisp Macchiato,Grande,280,5.45
+Iced Apple Crisp Macchiato,Venti,380,5.95
+Starbucks Cold Brew Coffee,Tall,5,3.45
+Starbucks Cold Brew Coffee,Grande,5,3.95
+Starbucks Cold Brew Coffee,Venti,5,4.25
+Starbucks Cold Brew Coffee,Trenta,5,4.45
+Starbucks Cold Brew Coffee With Milk,Tall,25,3.45
+Starbucks Cold Brew Coffee With Milk,Grande,35,3.95
+Starbucks Cold Brew Coffee With Milk,Venti,60,4.25
+Starbucks Cold Brew Coffee With Milk,Trenta,70,4.45
+Salted Caramel Cream Cold Brew,Tall,160,4.25
+Salted Caramel Cream Cold Brew,Grande,220,4.75
+Salted Caramel Cream Cold Brew,Venti,270,4.95
+Salted Caramel Cream Cold Brew,Trenta,310,5.25
+Vanilla Sweet Cream Cold Brew,Tall,90,3.75
+Vanilla Sweet Cream Cold Brew,Grande,110,4.25
+Vanilla Sweet Cream Cold Brew,Venti,200,4.45
+Vanilla Sweet Cream Cold Brew,Trenta,210,4.75
+Honey Almondmilk Cold Brew,Tall,30,3.75
+Honey Almondmilk Cold Brew,Grande,50,4.25
+Honey Almondmilk Cold Brew,Venti,80,4.45
+Honey Almondmilk Cold Brew,Trenta,100,4.75
+Pumpkin Cream Cold Brew,Tall,140,4.25
+Pumpkin Cream Cold Brew,Grande,250,4.75
+Pumpkin Cream Cold Brew,Venti,310,4.95
+Pumpkin Cream Cold Brew,Trenta,360,5.25
+Nitro Cold Brew,Tall,5,4.45
+Nitro Cold Brew,Grande,5,4.95
+Vanilla Sweet Cream Nitro Cold Brew,Tall,70,4.75
+Vanilla Sweet Cream Nitro Cold Brew,Grande,70,5.25
+Honey Almondmilk Nitro Cold Brew,Tall,30,4.75
+Honey Almondmilk Nitro Cold Brew,Grande,50,5.25
+Iced Black Tea,Tall,0,2.45
+Iced Black Tea,Grande,0,2.95
+Iced Black Tea,Venti,0,3.25
+Iced Black Tea,Trenta,0,3.65
+Iced Black Tea Lemonade,Tall,35,2.95
+Iced Black Tea Lemonade,Grande,50,3.45
+Iced Black Tea Lemonade,Venti,70,3.95
+Iced Black Tea Lemonade,Trenta,90,4.45
+Iced Royal English Breakfast Tea Latte,Tall,100,4.25
+Iced Royal English Breakfast Tea Latte,Grande,140,4.75
+Iced Royal English Breakfast Tea Latte,Venti,210,4.95
+Iced London Tea Latte,Tall,100,4.25
+Iced London Tea Latte,Grande,140,4.75
+Iced London Tea Latte,Venti,210,4.95
+Iced Chai Tea Latte,Tall,180,4.25
+Iced Chai Tea Latte,Grande,240,4.75
+Iced Chai Tea Latte,Venti,350,4.95
+Iced Green Tea,Tall,0,2.45
+Iced Green Tea,Grande,0,2.95
+Iced Green Tea,Venti,0,3.25
+Iced Green Tea,Trenta,0,3.65
+Iced Green Tea Lemonade,Tall,35,2.95
+Iced Green Tea Lemonade,Grande,50,3.45
+Iced Green Tea Lemonade,Venti,70,3.95
+Iced Green Tea Lemonade,Trenta,90,4.45
+Iced Matcha Tea Latte,Tall,150,4.25
+Iced Matcha Tea Latte,Grande,150,4.75
+Iced Matcha Tea Latte,Venti,150,4.95
+Iced Matcha Lemonade,Tall,90,2.95
+Iced Matcha Lemonade,Grande,120,3.45
+Iced Matcha Lemonade,Venti,170,3.95
+Iced Matcha Lemonade,Trenta,190,4.45
+Iced Peach Green Tea,Tall,180,4.25
+Iced Peach Green Tea,Grande,240,4.75
+Iced Peach Green Tea,Venti,350,4.95
+Iced Peach Green Tea Lemonade,Tall,60,4.25
+Iced Peach Green Tea Lemonade,Grande,80,4.75
+Iced Peach Green Tea Lemonade,Venti,130,4.95
+Iced Passion Tango™ Tea,Tall,0,2.45
+Iced Passion Tango™ Tea,Grande,0,2.95
+Iced Passion Tango™ Tea,Venti,0,3.25
+Iced Passion Tango™ Tea,Trenta,0,3.65
+Iced Passion Tango™ Tea Lemonade,Tall,35,2.95
+Iced Passion Tango™ Tea Lemonade,Grande,50,3.45
+Iced Passion Tango™ Tea Lemonade,Venti,70,3.95
+Iced Passion Tango™ Tea Lemonade,Trenta,90,4.45
+Star Drink,Tall,100,4.15
+Star Drink,Grande,130,4.45
+Star Drink,Venti,190,5.05
+Star Drink,Trenta,260,4.45
+Kiwi Starfruit Starbucks Refreshers® Beverage,Tall,70,3.45
+Kiwi Starfruit Starbucks Refreshers® Beverage,Grande,90,3.95
+Kiwi Starfruit Starbucks Refreshers® Beverage,Venti,130,4.45
+Kiwi Starfruit Starbucks Refreshers® Beverage,Trenta,180,4.95
+Kiwi Starfruit Lemonade Starbucks Refreshers® Beverage,Tall,110,3.95
+Kiwi Starfruit Lemonade Starbucks Refreshers® Beverage,Grande,140,4.45
+Kiwi Starfruit Lemonade Starbucks Refreshers® Beverage,Venti,200,4.95
+Kiwi Starfruit Lemonade Starbucks Refreshers® Beverage,Trenta,270,5.25
+Dragon Drink,Tall,100,4.15
+Dragon Drink,Grande,130,4.45
+Dragon Drink,Venti,190,5.05
+Dragon Drink,Trenta,270,5.45
+Mango Dragonfruit Starbucks Refreshers® Beverage,Tall,70,3.45
+Mango Dragonfruit Starbucks Refreshers® Beverage,Grande,90,3.95
+Mango Dragonfruit Starbucks Refreshers® Beverage,Venti,130,4.45
+Mango Dragonfruit Starbucks Refreshers® Beverage,Trenta,180,4.95
+Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Tall,110,3.95
+Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Grande,140,4.45
+Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Venti,200,4.95
+Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Trenta,280,5.25
+Pink Drink,Tall,110,4.15
+Pink Drink,Grande,140,4.45
+Pink Drink,Venti,200,5.05
+Pink Drink,Trenta,270,5.45
+Strawberry Açaí Starbucks Refreshers® Beverage,Tall,80,3.45
+Strawberry Açaí Starbucks Refreshers® Beverage,Grande,90,3.95
+Strawberry Açaí Starbucks Refreshers® Beverage,Venti,130,4.45
+Strawberry Açaí Starbucks Refreshers® Beverage,Trenta,190,4.95
+Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Tall,110,4.15
+Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Grande,140,4.45
+Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Venti,200,5.05
+Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Trenta,280,5.45
+Very Berry Hibiscus Starbucks Refreshers® Beverage,Tall,50,3.95
+Very Berry Hibiscus Starbucks Refreshers® Beverage,Grande,70,4.45
+Very Berry Hibiscus Starbucks Refreshers® Beverage,Venti,90,4.95
+Very Berry Hibiscus Starbucks Refreshers® Beverage,Trenta,130,5.25
+Very Berry Hibiscus Lemonade Starbucks Refreshers® Beverage,Tall,90,3.95
+Very Berry Hibiscus Lemonade Starbucks Refreshers® Beverage,Grande,120,4.45
+Very Berry Hibiscus Lemonade Starbucks Refreshers® Beverage,Venti,170,4.95
+Very Berry Hibiscus Lemonade Starbucks Refreshers® Beverage,Trenta,240,5.25
+Violet Drink,Tall,90,3.95
+Violet Drink,Grande,110,4.45
+Violet Drink,Venti,160,4.95
+Violet Drink,Trenta,230,5.25
+Lemonade,Kids,80,1.95
+Lemonade,Tall,80,3.15
+Lemonade,Grande,120,3.25
+Lemonade,Venti,160,3.55
+Lemonade,Trenta,200,4.45
+Blended Strawberry Lemonade,Tall,130,3.45
+Blended Strawberry Lemonade,Grande,190,3.95
+Blended Strawberry Lemonade,Venti,260,4.45
+Evolution Fresh® Organic Vital Berry,11 oz,140,4.95
+Evolution Fresh® Organic Defence Up®,11 oz,170,4.95
+Evolution Fresh® Orange,11 oz,170,3.95
+Evolution Fresh® Organic Super Fruit Greens,11 oz,180,4.95
+Evolution Fresh® Watermelon,11 oz,130,4.95
+Tree Top Apple Juice Box,8oz,120,1.95
+Impossible™ Breakfast Sandwich,,420,5.25
+"Bacon, Gouda & Egg Sandwich",,360,4.25
+"Double-Smoked Bacon, Chedder & Egg Sandwich",,500,5.25
+"Turkey Bacon, Chedder & Egg White Sandwich",,230,4.15
+"Sausage, Chedder & Egg Sandwich",,480,4.35
+"Roasted Ham, Swiss & Egg Sandwich",,450,4.35
+"Spinach, Feta & Egg White Wrap",,290,4.68
+Avocado Spread,,90,1.25
+Kale & Portabella Mushroom Sous Vide Egg Bites,,230,4.65
+Bacon & Gruyère Sous Vide Egg Bites,,300,4.65
+Egg Whites & Roasted RedPepper Sous Vide Egg Bites,,170,4.65
+Crispy Grilled Cheese Sandwich,,520,5.95
+Ham & Swiss Panini,,480,6.75
+Turkey & Pesto Panini,,550,6.45
+Chicken Caprese Panini,,540,6.75
+Chicken & Bacon Panini,,600,7.43
+Tomato & Mozzarella Panini,,370,5.95
+Avocado Spread,,90,1.25
+Chickpea Bites & Avocado Protein Box,,560,6.45
+Grilled Chicken and Hummus Protein Box,,300,6.45
+Eggs & Cheddar Protein Box,,470,6.55
+PB&J Protein Box,,520,6.22
+Cheese & Fruit Protein Box,,470,5.95
+Chicken & Quinoa Protein Bowl with Black Beans and Greens,,420,8.45
+Plain Bagel,,280,1.95
+Cinnamon Raisin Bagel,,270,1.95
+Everything Bagel,,290,1.95
+Sprouted Grain Bagel,,330,1.95
+"Cheese, Onion & Garlic Bagel",,300,1.95
+Avocado Spread,,90,1.25
+Birthday Cake Pop,,170,2.25
+Chocolate Cake Pop,,160,2.25
+Unicorn Cake Pop,,150,2.25
+Fox Cake Pop,,140,2.25
+Double Chocolate Brownie,,480,2.95
+Chocolate Chip Cookie,,360,2.45
+Marshmallow Dream Bar,,230,2.5
+Almond Croissant,,420,3.25
+Butter Croissant,,260,2.75
+Chocolate Croissant,,340,2.95
+Ham & Swiss Croissant,,320,3.95
+Cinnamon Coffee Cake,,330,2.95
+Iced Lemon Loaf,,470,3.25
+Pumpkin Loaf,,410,3.25
+Banana Nut Loaf,,420,3.25
+Cheese Danish,,290,2.95
+Glazed Doughnut,,480,2.25
+Blueberry Scone,,380,2.75
+Petite Vanilla Bean Scone,,120,1.25
+Blueberry Muffin,,320,2.65
+Pumpkin Cream Cheese Muffin,,350,3.25
+Pumpkin Scone,,500,3.25
+Dipped Madeleines,,280,2.75
+Madeleines,,220,2.45
+Vanilla Biscotti with Almonds,,200,1.75
+Dark Chocolate Grahams (2-Pack),,140,1.95
+Rip van Wafels – Honey & Oats,,130,1.95
+Salted Almond Chocolate Bites,,300,2.75
+Chocolate Covered Espresso Beans,,260,2.75
+Banana,,110,1.25
+Squirrel Brand® Fruit & Nut,,200,2.25
+Squirrel Brand® Classic Almonds,,260,1.95
+Peter Rabbit™ Organics Apple & Grape,,100,2.25
+Peter Rabbit™ Organics Strawberry Banana,,80,2.25
+Peppermint Gum,,5,2.25
+Starbucks® BBQ Potato Chips,,270,1.75
+Butter Gourmet Popcorn,,140,1.5
+Hippeas® – White Cheddar,,100,1.95
+Kettle Corn,,130,1.75
+Salt & Vinegar Kettle Potato Chips,,270,1.75
+Simply Salted Kettle Potato Chips,,280,1.75
+Sweet Potato Kettle Potato Chips,,300,1.75
+Creminelli Snack Tray – Sopressata Salami & Monterey Jack,,220,6.45
+String Cheese,,80,1.25
+Perfect Bar® – Dark Chocolate Chip Peanut Butter,,320,3.45
+Perfect Bar® Peanut Butter,,330,3.45
+KIND - Almond Coconut Cashew Chai,,200,2.25
+KIND® Blueberry Vanilla & Cashew Bar,,180,2.25
+KIND® Peanut Butter Dark Chocolate Bar,,200,2.25
+KIND® Salted Caramel & Dark Chocolate Nut Bar,,200,2.25
+That's It® – Apple + Blueberry Bar,,100,1.95
+This Bar Saves Lives™ – Wild Blueberry Pistachio Bar,,160,2.5
+This Bar Saves Lives™ – Dark Chocolate Peanutbutter & Sea Salt Bar,,190,2.5
+This Bar Saves Lives™ – Madagascar & Honey Bar,,180,2.5
+Classic Oatmeal,,160,3.45
+Berry Trio Parfait,,240,3.75
+Strawberry Overnight Grains,,300,3.75
+Siggi's® Yogurt Cup 0% Vanilla,,110,2.45
