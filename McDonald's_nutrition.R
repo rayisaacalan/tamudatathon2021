@@ -57,7 +57,7 @@ for (i in 1: length(b$NAME)){
         b$SIZE[i] <- "Small"
     }
     if(str_detect(b$NAME[i], "Medium")) {
-        b$SIZE[i] <- "Mediun"
+        b$SIZE[i] <- "Medium"
     }
     if(str_detect(b$NAME[i], "Large")) {
         b$SIZE[i] <- "Large"
@@ -111,6 +111,6 @@ names(b)[names(b) == 'Protein (g)'] <- "PROTEIN_g"
 drop <- c("Calories from Fat","Weight Watchers Pnts")
 b = b[,!(names(b) %in% drop)]
 b<- b[, c(1, 13, 12, 2, 3,4,5,6,7,8,9,10,11)]
-
+b<-b[b$SIZE != "Value", ]
 write_csv(b,"mcdonald_nutrition.csv")
 
