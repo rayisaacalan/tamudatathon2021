@@ -1,191 +1,191 @@
 NAME,SIZE,MILK,SERVING_SIZE_ml,CALORIES,TOTAL_FAT_g,SATURATED_FAT_g,TRANS_FAT_g,CHOLESTEROL_mg,SODIUM_mg,TOTAL_CARB_g,DIETARY_FIBER_g,SUGAR_g,PROTEIN_g
 Chocolate McCafé® Shake ,12 oz,cream,354,580,17,10,1,50,240,94,1,77,11
-Chocolate McCafé® Shake ,16 oz,cream,354,720,20,12,1,60,300,119,1,98,15
-Chocolate McCafé® Shake ,22 oz,cream,354,880,24,15,1.5,75,370,147,1,121,18
+Chocolate McCafé® Shake ,16 oz,cream,473,720,20,12,1,60,300,119,1,98,15
+Chocolate McCafé® Shake ,22 oz,cream,650,880,24,15,1.5,75,370,147,1,121,18
 Chocolate Triple Thick® Shake ,12 oz,cream,354,440,10,6,0.5,40,190,76,1,63,10
-Chocolate Triple Thick® Shake ,16 oz,cream,354,580,14,8,1,50,250,102,1,84,13
-Chocolate Triple Thick® Shake ,21 oz,cream,354,770,18,11,1,70,330,134,1,111,18
-Chocolate Triple Thick® Shake ,32 oz,cream,354,1160,27,16,2,100,510,203,2,168,27
+Chocolate Triple Thick® Shake ,16 oz,cream,473,580,14,8,1,50,250,102,1,84,13
+Chocolate Triple Thick® Shake ,21 oz,cream,621,770,18,11,1,70,330,134,1,111,18
+Chocolate Triple Thick® Shake ,32 oz,cream,946,1160,27,16,2,100,510,203,2,168,27
 Strawberry McCafé® Shake ,12 oz,cream,354,570,17,10,1,50,170,92,0,79,11
-Strawberry McCafé® Shake ,16 oz,cream,354,710,20,12,1,65,210,116,0,100,14
-Strawberry McCafé® Shake ,22 oz,cream,354,860,24,15,1.5,75,260,144,0,124,18
+Strawberry McCafé® Shake ,16 oz,cream,473,710,20,12,1,65,210,116,0,100,14
+Strawberry McCafé® Shake ,22 oz,cream,650,860,24,15,1.5,75,260,144,0,124,18
 Strawberry Triple Thick® Shake ,12 oz,cream,354,420,10,6,0.5,40,130,73,0,63,10
-Strawberry Triple Thick® Shake ,16 oz,cream,354,560,13,8,1,50,170,97,0,84,13
-Strawberry Triple Thick® Shake ,21 oz,cream,354,740,18,11,1,70,230,128,0,111,17
-Strawberry Triple Thick® Shake ,32 oz,cream,354,1110,26,16,2,100,350,194,0,168,25
+Strawberry Triple Thick® Shake ,16 oz,cream,473,560,13,8,1,50,170,97,0,84,13
+Strawberry Triple Thick® Shake ,21 oz,cream,621,740,18,11,1,70,230,128,0,111,17
+Strawberry Triple Thick® Shake ,32 oz,cream,946,1110,26,16,2,100,350,194,0,168,25
 Vanilla McCafé® Shake ,12 oz,cream,354,540,16,10,1,45,170,88,0,64,10
-Vanilla McCafé® Shake ,16 oz,cream,354,680,20,12,1,60,220,111,0,82,14
-Vanilla McCafé® Shake ,22 oz,cream,354,830,24,14,1.5,75,270,138,0,103,17
-Vanilla Triple Thick Shake® ,32 oz,cream,354,1110,26,16,2,100,370,193,0,145,25
+Vanilla McCafé® Shake ,16 oz,cream,473,680,20,12,1,60,220,111,0,82,14
+Vanilla McCafé® Shake ,22 oz,cream,650,830,24,14,1.5,75,270,138,0,103,17
+Vanilla Triple Thick Shake® ,32 oz,cream,946,1110,26,16,2,100,370,193,0,145,25
 Vanilla Triple Thick® Shake ,12 oz,cream,354,420,10,6,0.5,40,140,72,0,54,9
-Vanilla Triple Thick® Shake ,16 oz,cream,354,550,13,8,1,50,190,96,0,72,13
-Vanilla Triple Thick® Shake ,21 oz,cream,354,740,18,11,1,70,250,128,0,96,17
+Vanilla Triple Thick® Shake ,16 oz,cream,473,550,13,8,1,50,190,96,0,72,13
+Vanilla Triple Thick® Shake ,21 oz,cream,621,740,18,11,1,70,250,128,0,96,17
 Minute Maid® Orange Juice ,Small,NA,354,150,0,0,0,0,0,30,0,30,2
-Minute Maid® Orange Juice ,Medium,NA,354,190,0,0,0,0,0,39,0,39,3
-Minute Maid® Orange Juice ,Large,NA,354,280,0,0,0,0,5,58,0,58,4
+Minute Maid® Orange Juice ,Medium,NA,473,190,0,0,0,0,0,39,0,39,3
+Minute Maid® Orange Juice ,Large,NA,591,280,0,0,0,0,5,58,0,58,4
 Coca-Cola® Classic ,Small,NA,354,150,0,0,0,0,10,40,0,40,0
-Coca-Cola® Classic ,Medium,NA,354,210,0,0,0,0,15,58,0,58,0
-Coca-Cola® Classic ,Large,NA,354,310,0,0,0,0,20,86,0,86,0
+Coca-Cola® Classic ,Medium,NA,473,210,0,0,0,0,15,58,0,58,0
+Coca-Cola® Classic ,Large,NA,591,310,0,0,0,0,20,86,0,86,0
 Diet Coke® ,Small,NA,354,0,0,0,0,0,20,0,0,0,0
-Diet Coke® ,Medium,NA,354,0,0,0,0,0,30,0,0,0,0
-Diet Coke® ,Large,NA,354,0,0,0,0,0,45,0,0,0,0
+Diet Coke® ,Medium,NA,473,0,0,0,0,0,30,0,0,0,0
+Diet Coke® ,Large,NA,591,0,0,0,0,0,45,0,0,0,0
 Sprite® ,Small,NA,354,150,0,0,0,0,40,39,0,39,0
-Sprite® ,Medium,NA,354,210,0,0,0,0,55,56,0,56,0
-Sprite® ,Large,NA,354,310,0,0,0,0,80,83,0,83,0
+Sprite® ,Medium,NA,473,210,0,0,0,0,55,56,0,56,0
+Sprite® ,Large,NA,591,310,0,0,0,0,80,83,0,83,0
 Hi-C® Orange Lavaburst ,Small,NA,354,160,0,0,0,0,5,44,0,44,0
-Hi-C® Orange Lavaburst ,Medium,NA,354,240,0,0,0,0,10,64,0,64,0
-Hi-C® Orange Lavaburst ,Large,NA,354,350,0,0,0,0,10,94,0,94,0
+Hi-C® Orange Lavaburst ,Medium,NA,473,240,0,0,0,0,10,64,0,64,0
+Hi-C® Orange Lavaburst ,Large,NA,591,350,0,0,0,0,10,94,0,94,0
 POWERade® Mountain Blast ,Small,NA,354,100,0,0,0,0,85,27,0,21,0
-POWERade® Mountain Blast ,Medium,NA,354,150,0,0,0,0,130,39,0,31,0
-POWERade® Mountain Blast ,Large,NA,354,220,0,0,0,0,190,58,0,46,0
+POWERade® Mountain Blast ,Medium,NA,473,150,0,0,0,0,130,39,0,31,0
+POWERade® Mountain Blast ,Large,NA,591,220,0,0,0,0,190,58,0,46,0
 Iced Tea ,Small,NA,354,0,0,0,0,0,10,0,0,0,0
-Iced Tea ,Medium,NA,354,0,0,0,0,0,15,0,0,0,0
-Iced Tea ,Large,NA,354,0,0,0,0,0,20,1,0,0,0
+Iced Tea ,Medium,NA,473,0,0,0,0,0,15,0,0,0,0
+Iced Tea ,Large,NA,591,0,0,0,0,0,20,1,0,0,0
 Coffee ,Small,NA,354,0,0,0,0,0,0,0,0,0,0
-Coffee ,Large,NA,354,0,0,0,0,0,0,0,0,0,0
+Coffee ,Large,NA,591,0,0,0,0,0,0,0,0,0,0
 Iced Coffee– Caramel ,Small,NA,354,130,5,3.5,0,20,80,21,0,20,1
-Iced Coffee– Caramel ,Medium,NA,354,190,8,5,0,30,115,27,0,27,2
-Iced Coffee– Caramel ,Large,NA,354,270,11,7,0,40,160,41,0,41,2
+Iced Coffee– Caramel ,Medium,NA,473,190,8,5,0,30,115,27,0,27,2
+Iced Coffee– Caramel ,Large,NA,591,270,11,7,0,40,160,41,0,41,2
 Iced Coffee– Hazelnut ,Small,NA,354,130,5,3.5,0,20,40,21,0,21,1
-Iced Coffee– Hazelnut ,Medium,NA,354,190,8,5,0,30,60,29,0,29,2
-Iced Coffee– Hazelnut ,Large,NA,354,270,11,7,0,40,85,43,0,43,2
+Iced Coffee– Hazelnut ,Medium,NA,473,190,8,5,0,30,60,29,0,29,2
+Iced Coffee– Hazelnut ,Large,NA,591,270,11,7,0,40,85,43,0,43,2
 Iced Coffee– Regular ,Small,NA,354,140,5,3.5,0,20,40,22,0,22,1
-Iced Coffee– Regular ,Medium,NA,354,200,8,5,0,30,60,30,0,30,2
-Iced Coffee– Regular ,Large,NA,354,280,11,7,0,40,85,45,0,45,2
+Iced Coffee– Regular ,Medium,NA,473,200,8,5,0,30,60,30,0,30,2
+Iced Coffee– Regular ,Large,NA,591,280,11,7,0,40,85,45,0,45,2
 Iced Coffee– Vanilla ,Small,NA,354,130,5,3.5,0,20,40,21,0,21,1
-Iced Coffee– Vanilla ,Medium,NA,354,190,8,5,0,30,60,29,0,28,2
-Iced Coffee– Vanilla ,Large,NA,354,270,11,7,0,40,80,43,0,43,2
+Iced Coffee– Vanilla ,Medium,NA,473,190,8,5,0,30,60,29,0,28,2
+Iced Coffee– Vanilla ,Large,NA,591,270,11,7,0,40,80,43,0,43,2
 Iced Coffee with Sugar Free Vanilla Syrup ,Small,NA,354,60,5,3.5,0,20,70,8,0,1,1
-Iced Coffee with Sugar Free Vanilla Syrup ,Medium,NA,354,90,8,5,0,30,100,11,0,2,2
-Iced Coffee with Sugar Free Vanilla Syrup ,Large,NA,354,120,11,7,0,40,140,16,0,2,2
-Sweet Tea ,Large,NA,354,280,0,0,0,0,15,69,0,69,1
-Sweet Tea ,Medium,NA,354,180,0,0,0,0,10,45,0,45,1
+Iced Coffee with Sugar Free Vanilla Syrup ,Medium,NA,473,90,8,5,0,30,100,11,0,2,2
+Iced Coffee with Sugar Free Vanilla Syrup ,Large,NA,591,120,11,7,0,40,140,16,0,2,2
+Sweet Tea ,Large,NA,591,280,0,0,0,0,15,69,0,69,1
+Sweet Tea ,Medium,NA,473,180,0,0,0,0,10,45,0,45,1
 Sweet Tea ,Small,NA,354,150,0,0,0,0,10,36,0,36,1
 Nonfat Cappuccino ,Small,Nonfat,354,60,0,0,0,5,85,9,0,9,6
-Nonfat Cappuccino ,Medium,Nonfat,354,80,0,0,0,5,110,12,0,12,8
-Nonfat Cappuccino ,Large,Nonfat,354,90,0,0,0,5,130,13,0,13,9
+Nonfat Cappuccino ,Medium,Nonfat,473,80,0,0,0,5,110,12,0,12,8
+Nonfat Cappuccino ,Large,Nonfat,591,90,0,0,0,5,130,13,0,13,9
 Nonfat Latte ,Small,Nonfat,354,90,0,0,0,5,115,13,0,13,9
-Nonfat Latte ,Medium,Nonfat,354,110,0,0,0,5,140,15,0,15,10
-Nonfat Latte ,Large,Nonfat,354,120,0,0,0,5,160,18,0,18,12
+Nonfat Latte ,Medium,Nonfat,473,110,0,0,0,5,140,15,0,15,10
+Nonfat Latte ,Large,Nonfat,591,120,0,0,0,5,160,18,0,18,12
 Nonfat Caramel Cappuccino ,Small,Nonfat,354,150,0,0,0,5,120,33,0,32,5
-Nonfat Caramel Cappuccino ,Medium,Nonfat,354,190,0,0,0,5,150,41,0,41,6
-Nonfat Caramel Cappuccino ,Large,Nonfat,354,230,0,0,0,5,180,49,0,49,7
+Nonfat Caramel Cappuccino ,Medium,Nonfat,473,190,0,0,0,5,150,41,0,41,6
+Nonfat Caramel Cappuccino ,Large,Nonfat,591,230,0,0,0,5,180,49,0,49,7
 Nonfat Caramel Latte ,Small,Nonfat,354,170,0,0,0,5,150,36,0,36,7
-Nonfat Caramel Latte ,Medium,Nonfat,354,220,0,0,0,5,180,45,0,45,9
-Nonfat Caramel Latte ,Large,Nonfat,354,260,0,0,0,5,220,53,0,53,10
+Nonfat Caramel Latte ,Medium,Nonfat,473,220,0,0,0,5,180,45,0,45,9
+Nonfat Caramel Latte ,Large,Nonfat,591,260,0,0,0,5,220,53,0,53,10
 Nonfat Hazelnut Cappuccino ,Small,Nonfat,354,150,0,0,0,5,70,34,0,34,5
-Nonfat Hazelnut Cappuccino ,Medium,Nonfat,354,190,0,0,0,5,90,43,0,43,6
-Nonfat Hazelnut Cappuccino ,Large,Nonfat,354,230,0,0,0,5,100,51,0,51,7
+Nonfat Hazelnut Cappuccino ,Medium,Nonfat,473,190,0,0,0,5,90,43,0,43,6
+Nonfat Hazelnut Cappuccino ,Large,Nonfat,591,230,0,0,0,5,100,51,0,51,7
 Nonfat Hazelnut Latte ,Small,Nonfat,354,180,0,0,0,5,95,37,0,37,7
-Nonfat Hazelnut Latte ,Medium,Nonfat,354,220,0,0,0,5,115,46,0,46,9
-Nonfat Hazelnut Latte ,Large,Nonfat,354,260,0,0,0,5,135,55,0,55,10
+Nonfat Hazelnut Latte ,Medium,Nonfat,473,220,0,0,0,5,115,46,0,46,9
+Nonfat Hazelnut Latte ,Large,Nonfat,591,260,0,0,0,5,135,55,0,55,10
 Nonfat Vanilla Cappuccino ,Small,Nonfat,354,150,0,0,0,5,70,34,0,34,5
-Nonfat Vanilla Cappuccino ,Medium,Nonfat,354,190,0,0,0,5,90,42,0,42,6
-Nonfat Vanilla Cappuccino ,Large,Nonfat,354,230,0,0,0,5,100,51,0,51,7
+Nonfat Vanilla Cappuccino ,Medium,Nonfat,473,190,0,0,0,5,90,42,0,42,6
+Nonfat Vanilla Cappuccino ,Large,Nonfat,591,230,0,0,0,5,100,51,0,51,7
 Nonfat Vanilla Latte ,Small,Nonfat,354,180,0,0,0,5,95,37,0,37,7
-Nonfat Vanilla Latte ,Medium,Nonfat,354,220,0,0,0,5,115,46,0,46,9
-Nonfat Vanilla Latte ,Large,Nonfat,354,260,0,0,0,5,135,55,0,55,10
+Nonfat Vanilla Latte ,Medium,Nonfat,473,220,0,0,0,5,115,46,0,46,9
+Nonfat Vanilla Latte ,Large,Nonfat,591,260,0,0,0,5,135,55,0,55,10
 Nonfat Cappuccino with Sugar Free Vanilla Syrup ,Small,Nonfat,354,50,0,0,0,5,100,15,0,8,5
-Nonfat Cappuccino with Sugar Free Vanilla Syrup ,Medium,Nonfat,354,70,0,0,0,5,130,19,0,10,7
-Nonfat Cappuccino with Sugar Free Vanilla Syrup ,Large,Nonfat,354,80,0,0,0,5,150,22,0,11,8
+Nonfat Cappuccino with Sugar Free Vanilla Syrup ,Medium,Nonfat,473,70,0,0,0,5,130,19,0,10,7
+Nonfat Cappuccino with Sugar Free Vanilla Syrup ,Large,Nonfat,591,80,0,0,0,5,150,22,0,11,8
 Nonfat Latte with Sugar Free Vanilla Syrup ,Small,Nonfat,354,80,0,0,0,5,130,18,0,11,7
-Nonfat Latte with Sugar Free Vanilla Syrup ,Medium,Nonfat,354,90,0,0,0,5,160,22,0,13,9
-Nonfat Latte with Sugar Free Vanilla Syrup ,Large,Nonfat,354,110,0,0,0,5,190,27,0,15,11
+Nonfat Latte with Sugar Free Vanilla Syrup ,Medium,Nonfat,473,90,0,0,0,5,160,22,0,13,9
+Nonfat Latte with Sugar Free Vanilla Syrup ,Large,Nonfat,591,110,0,0,0,5,190,27,0,15,11
 Mocha with Nonfat Milk ,Small,Nonfat,354,240,5,3,0,5,130,41,0,34,7
-Mocha with Nonfat Milk ,Medium,Nonfat,354,280,6,3.5,0,10,160,50,0,42,8
-Mocha with Nonfat Milk ,Large,Nonfat,354,330,6,3.5,0,10,190,58,0,50,10
+Mocha with Nonfat Milk ,Medium,Nonfat,473,280,6,3.5,0,10,160,50,0,42,8
+Mocha with Nonfat Milk ,Large,Nonfat,591,330,6,3.5,0,10,190,58,0,50,10
 Hot Chocolate with Nonfat Milk ,Small,Nonfat,354,250,5,3,0,10,140,43,0,37,8
-Hot Chocolate with Nonfat Milk ,Medium,Nonfat,354,310,6,3.5,0,10,190,55,0,47,11
-Hot Chocolate with Nonfat Milk ,Large,Nonfat,354,390,6,3.5,0,10,250,68,0,59,16
+Hot Chocolate with Nonfat Milk ,Medium,Nonfat,473,310,6,3.5,0,10,190,55,0,47,11
+Hot Chocolate with Nonfat Milk ,Large,Nonfat,591,390,6,3.5,0,10,250,68,0,59,16
 Iced Nonfat Latte ,Small,Nonfat,354,50,0,0,0,5,70,7,0,7,5
-Iced Nonfat Latte ,Medium,Nonfat,354,60,0,0,0,5,90,9,0,9,6
-Iced Nonfat Latte ,Large,Nonfat,354,70,0,0,0,5,105,11,0,11,7
+Iced Nonfat Latte ,Medium,Nonfat,473,60,0,0,0,5,90,9,0,9,6
+Iced Nonfat Latte ,Large,Nonfat,591,70,0,0,0,5,105,11,0,11,7
 Iced Nonfat Caramel Latte ,Small,Nonfat,354,140,0,0,0,0,105,30,0,30,3
-Iced Nonfat Caramel Latte ,Medium,Nonfat,354,150,0,0,0,5,120,32,0,32,5
-Iced Nonfat Caramel Latte ,Large,Nonfat,354,190,0,0,0,5,150,40,0,40,6
+Iced Nonfat Caramel Latte ,Medium,Nonfat,473,150,0,0,0,5,120,32,0,32,5
+Iced Nonfat Caramel Latte ,Large,Nonfat,591,190,0,0,0,5,150,40,0,40,6
 Iced Nonfat Hazelnut Latte ,Small,Nonfat,354,140,0,0,0,0,50,32,0,32,3
-Iced Nonfat Hazelnut Latte ,Medium,Nonfat,354,150,0,0,0,5,70,33,0,33,5
-Iced Nonfat Hazelnut Latte ,Large,Nonfat,354,190,0,0,0,5,80,42,0,42,6
+Iced Nonfat Hazelnut Latte ,Medium,Nonfat,473,150,0,0,0,5,70,33,0,33,5
+Iced Nonfat Hazelnut Latte ,Large,Nonfat,591,190,0,0,0,5,80,42,0,42,6
 Iced Nonfat Vanilla Latte ,Small,Nonfat,354,140,0,0,0,0,50,31,0,31,3
-Iced Nonfat Vanilla Latte ,Medium,Nonfat,354,150,0,0,0,5,70,33,0,33,5
-Iced Nonfat Vanilla Latte ,Large,Nonfat,354,190,0,0,0,5,85,41,0,41,6
+Iced Nonfat Vanilla Latte ,Medium,Nonfat,473,150,0,0,0,5,70,33,0,33,5
+Iced Nonfat Vanilla Latte ,Large,Nonfat,591,190,0,0,0,5,85,41,0,41,6
 Iced Nonfat Latte with Sugar Free Vanilla Syrup ,Small,Nonfat,354,40,0,0,0,0,85,13,0,5,4
-Iced Nonfat Latte with Sugar Free Vanilla Syrup ,Medium,Nonfat,354,50,0,0,0,5,100,14,0,6,5
-Iced Nonfat Latte with Sugar Free Vanilla Syrup ,Large,Nonfat,354,60,0,0,0,5,130,19,0,8,6
-Iced Mocha with Nonfat Milk ,Medium,Nonfat,354,270,8,4.5,0,10,140,43,0,35,7
-Iced Nonfat Caramel Mocha ,Large,Nonfat,354,300,6,4,0,10,230,49,0,45,11
-Iced Nonfat Caramel Mocha ,Medium,Nonfat,354,240,6,4,0,10,190,37,0,34,9
+Iced Nonfat Latte with Sugar Free Vanilla Syrup ,Medium,Nonfat,473,50,0,0,0,5,100,14,0,6,5
+Iced Nonfat Latte with Sugar Free Vanilla Syrup ,Large,Nonfat,591,60,0,0,0,5,130,19,0,8,6
+Iced Mocha with Nonfat Milk ,Medium,Nonfat,473,270,8,4.5,0,10,140,43,0,35,7
+Iced Nonfat Caramel Mocha ,Large,Nonfat,591,300,6,4,0,10,230,49,0,45,11
+Iced Nonfat Caramel Mocha ,Medium,Nonfat,473,240,6,4,0,10,190,37,0,34,9
 Iced Nonfat Caramel Mocha ,Small,Nonfat,354,200,6,4,0,10,140,29,0,26,6
-Nonfat Caramel Mocha ,Large,Nonfat,354,280,4,2.5,0,10,260,49,0,46,12
-Nonfat Caramel Mocha ,Medium,Nonfat,354,240,4,2.5,0,5,200,41,0,38,9
+Nonfat Caramel Mocha ,Large,Nonfat,591,280,4,2.5,0,10,260,49,0,46,12
+Nonfat Caramel Mocha ,Medium,Nonfat,473,240,4,2.5,0,5,200,41,0,38,9
 Nonfat Caramel Mocha ,Small,Nonfat,354,200,4,2.5,0,5,170,34,0,31,8
 Cappuccino ,Small,Whole,354,120,7,4,0,20,85,9,0,9,6
-Cappuccino ,Medium,Whole,354,140,8,4.5,0,25,105,11,0,11,8
-Cappuccino ,Large,Whole,354,180,10,6,0,30,130,13,0,13,9
+Cappuccino ,Medium,Whole,473,140,8,4.5,0,25,105,11,0,11,8
+Cappuccino ,Large,Whole,591,180,10,6,0,30,130,13,0,13,9
 Latte ,Small,Whole,354,150,8,4.5,0,25,105,11,0,11,8
-Latte ,Medium,Whole,354,180,10,6,0,30,130,13,0,13,10
-Latte ,Large,Whole,354,210,11,7,0,35,150,16,0,16,11
+Latte ,Medium,Whole,473,180,10,6,0,30,130,13,0,13,10
+Latte ,Large,Whole,591,210,11,7,0,35,150,16,0,16,11
 Caramel Cappuccino ,Small,Whole,354,200,5,3,0,15,125,32,0,32,5
-Caramel Cappuccino ,Medium,Whole,354,240,6,3.5,0,20,150,41,0,40,6
-Caramel Cappuccino ,Large,Whole,354,290,8,4.5,0,25,190,49,0,49,8
+Caramel Cappuccino ,Medium,Whole,473,240,6,3.5,0,20,150,41,0,40,6
+Caramel Cappuccino ,Large,Whole,591,290,8,4.5,0,25,190,49,0,49,8
 Caramel Latte ,Small,Whole,354,230,7,4,0,20,140,35,0,35,7
-Caramel Latte ,Medium,Whole,354,280,8,4.5,0,25,170,43,0,43,8
-Caramel Latte ,Large,Whole,354,330,9,5,0,30,210,52,0,51,9
+Caramel Latte ,Medium,Whole,473,280,8,4.5,0,25,170,43,0,43,8
+Caramel Latte ,Large,Whole,591,330,9,5,0,30,210,52,0,51,9
 Hazelnut Cappuccino ,Small,Whole,354,200,5,3,0,15,70,34,0,34,5
-Hazelnut Cappuccino ,Medium,Whole,354,240,6,3.5,0,20,85,42,0,42,6
-Hazelnut Cappuccino ,Large,Whole,354,290,8,4.5,0,25,105,51,0,51,7
+Hazelnut Cappuccino ,Medium,Whole,473,240,6,3.5,0,20,85,42,0,42,6
+Hazelnut Cappuccino ,Large,Whole,591,290,8,4.5,0,25,105,51,0,51,7
 Hazelnut Latte ,Small,Whole,354,230,7,4,0,20,90,36,0,36,7
-Hazelnut Latte ,Medium,Whole,354,280,8,4.5,0,25,110,45,0,45,8
-Hazelnut Latte ,Large,Whole,354,330,9,5,0,30,130,53,0,53,9
+Hazelnut Latte ,Medium,Whole,473,280,8,4.5,0,25,110,45,0,45,8
+Hazelnut Latte ,Large,Whole,591,330,9,5,0,30,130,53,0,53,9
 Vanilla Cappuccino ,Small,Whole,354,200,5,3,0,15,70,34,0,34,5
-Vanilla Cappuccino ,Medium,Whole,354,240,6,3.5,0,20,85,42,0,42,6
-Vanilla Cappuccino ,Large,Whole,354,290,8,4.5,0,25,105,51,0,51,7
+Vanilla Cappuccino ,Medium,Whole,473,240,6,3.5,0,20,85,42,0,42,6
+Vanilla Cappuccino ,Large,Whole,591,290,8,4.5,0,25,105,51,0,51,7
 Vanilla Latte ,Small,Whole,354,230,7,4,0,20,90,36,0,36,7
-Vanilla Latte ,Medium,Whole,354,280,8,4.5,0,25,110,44,0,44,8
-Vanilla Latte ,Large,Whole,354,330,9,5,0,30,130,53,0,53,9
+Vanilla Latte ,Medium,Whole,473,280,8,4.5,0,25,110,44,0,44,8
+Vanilla Latte ,Large,Whole,591,330,9,5,0,30,130,53,0,53,9
 Cappuccino with Sugar Free Vanilla Syrup ,Small,Whole,354,100,5,3,0,15,105,15,0,7,5
-Cappuccino with Sugar Free Vanilla Syrup ,Medium,Whole,354,120,6,3.5,0,20,130,18,0,9,6
-Cappuccino with Sugar Free Vanilla Syrup ,Large,Whole,354,150,8,4.5,0,25,160,22,0,11,8
+Cappuccino with Sugar Free Vanilla Syrup ,Medium,Whole,473,120,6,3.5,0,20,130,18,0,9,6
+Cappuccino with Sugar Free Vanilla Syrup ,Large,Whole,591,150,8,4.5,0,25,160,22,0,11,8
 Latte with Sugar Free Vanilla Syrup ,Small,Whole,354,130,7,4,0,20,125,17,0,10,7
-Latte with Sugar Free Vanilla Syrup ,Medium,Whole,354,160,8,5,0,25,150,21,0,11,8
-Latte with Sugar Free Vanilla Syrup ,Large,Whole,354,180,10,6,0,30,180,25,0,13,10
+Latte with Sugar Free Vanilla Syrup ,Medium,Whole,473,160,8,5,0,25,150,21,0,11,8
+Latte with Sugar Free Vanilla Syrup ,Large,Whole,591,180,10,6,0,30,180,25,0,13,10
 Mocha ,Small,Whole,354,280,11,6,0,20,125,40,0,33,6
-Mocha ,Medium,Whole,354,330,12,7,0,25,150,48,0,41,7
-Mocha ,Large,Whole,354,400,14,8,0.5,30,190,58,0,49,10
+Mocha ,Medium,Whole,473,330,12,7,0,25,150,48,0,41,7
+Mocha ,Large,Whole,591,400,14,8,0.5,30,190,58,0,49,10
 Hot Chocolate ,Small,Whole,354,300,12,7,0,25,135,41,0,35,8
-Hot Chocolate ,Medium,Whole,354,380,15,9,0.5,30,170,53,0,45,10
-Hot Chocolate ,Large,Whole,354,460,18,10,0.5,40,220,63,0,54,13
+Hot Chocolate ,Medium,Whole,473,380,15,9,0.5,30,170,53,0,45,10
+Hot Chocolate ,Large,Whole,591,460,18,10,0.5,40,220,63,0,54,13
 Iced Latte ,Small,Whole,354,80,4.5,2.5,0,15,65,6,0,6,4
-Iced Latte ,Medium,Whole,354,100,6,3.5,0,15,80,8,0,8,6
-Iced Latte ,Large,Whole,354,140,8,4.5,0,25,105,10,0,10,7
+Iced Latte ,Medium,Whole,473,100,6,3.5,0,15,80,8,0,8,6
+Iced Latte ,Large,Whole,591,140,8,4.5,0,25,105,10,0,10,7
 Iced Caramel Latte ,Small,Whole,354,160,3,1.5,0,10,100,29,0,29,3
-Iced Caramel Latte ,Medium,Whole,354,180,4.5,2.5,0,15,120,31,0,31,4
-Iced Caramel Latte ,Large,Whole,354,230,6,3.5,0,15,150,40,0,40,6
+Iced Caramel Latte ,Medium,Whole,473,180,4.5,2.5,0,15,120,31,0,31,4
+Iced Caramel Latte ,Large,Whole,591,230,6,3.5,0,15,150,40,0,40,6
 Iced Hazelnut Latte ,Small,Whole,354,160,3,1.5,0,10,45,31,0,31,3
-Iced Hazelnut Latte ,Medium,Whole,354,180,4.5,2.5,0,15,65,33,0,33,4
-Iced Hazelnut Latte ,Large,Whole,354,230,6,3.5,0,15,85,41,0,41,6
+Iced Hazelnut Latte ,Medium,Whole,473,180,4.5,2.5,0,15,65,33,0,33,4
+Iced Hazelnut Latte ,Large,Whole,591,230,6,3.5,0,15,85,41,0,41,6
 Iced Vanilla Latte ,Small,Whole,354,160,3,1.5,0,10,45,31,0,31,3
-Iced Vanilla Latte ,Medium,Whole,354,190,4.5,2.5,0,15,70,33,0,33,5
-Iced Vanilla Latte ,Large,Whole,354,230,6,3.5,0,15,85,41,0,41,6
+Iced Vanilla Latte ,Medium,Whole,473,190,4.5,2.5,0,15,70,33,0,33,5
+Iced Vanilla Latte ,Large,Whole,591,230,6,3.5,0,15,85,41,0,41,6
 Iced Latte with Sugar Free Vanilla Syrup ,Small,Whole,354,60,3,2,0,10,80,12,0,4,3
-Iced Latte with Sugar Free Vanilla Syrup ,Medium,Whole,354,90,5,3,0,15,105,14,0,6,5
-Iced Latte with Sugar Free Vanilla Syrup ,Large,Whole,354,110,6,3.5,0,15,130,19,0,8,6
-Iced Mocha ,Medium,Whole,354,310,13,8,0,25,140,42,0,35,7
-Caramel Mocha ,Large,Whole,354,360,14,8,0.5,35,220,47,0,46,10
-Caramel Mocha ,Medium,Whole,354,290,12,7,0,25,180,39,0,38,8
+Iced Latte with Sugar Free Vanilla Syrup ,Medium,Whole,473,90,5,3,0,15,105,14,0,6,5
+Iced Latte with Sugar Free Vanilla Syrup ,Large,Whole,591,110,6,3.5,0,15,130,19,0,8,6
+Iced Mocha ,Medium,Whole,473,310,13,8,0,25,140,42,0,35,7
+Caramel Mocha ,Large,Whole,591,360,14,8,0.5,35,220,47,0,46,10
+Caramel Mocha ,Medium,Whole,473,290,12,7,0,25,180,39,0,38,8
 Caramel Mocha ,Small,Whole,354,250,11,6,0,25,150,33,0,31,7
-Iced Caramel Mocha ,Large,Whole,354,380,16,9,0.5,35,210,48,0,46,10
-Iced Caramel Mocha ,Medium,Whole,354,300,14,8,0,30,160,36,0,33,8
+Iced Caramel Mocha ,Large,Whole,591,380,16,9,0.5,35,210,48,0,46,10
+Iced Caramel Mocha ,Medium,Whole,473,300,14,8,0,30,160,36,0,33,8
 Iced Caramel Mocha ,Small,Whole,354,240,12,7,0,25,130,29,0,26,6
 Frappe Caramel ,Small,Whole,354,450,20,13,1,55,135,61,0,57,6
-Frappe Caramel ,Medium,Whole,354,550,24,15,1,70,160,76,0,71,8
-Frappe Caramel ,Large,Whole,354,680,29,18,1.5,85,200,94,0,88,10
+Frappe Caramel ,Medium,Whole,473,550,24,15,1,70,160,76,0,71,8
+Frappe Caramel ,Large,Whole,591,680,29,18,1.5,85,200,94,0,88,10
 Frappe Mocha ,Small,Whole,354,450,20,13,1,55,130,62,1,56,7
-Frappe Mocha ,Medium,Whole,354,560,24,15,1,65,160,78,1,70,8
-Frappe Mocha ,Large,Whole,354,680,28,18,1,80,200,96,1,87,10
-Strawberry Banana Smoothie ,Large,Reduced fat,354,330,1,0.5,0,5,55,77,4,70,3
-Strawberry Banana Smoothie ,Medium,Reduced fat,354,260,1,0,0,5,40,60,3,54,2
+Frappe Mocha ,Medium,Whole,473,560,24,15,1,65,160,78,1,70,8
+Frappe Mocha ,Large,Whole,591,680,28,18,1,80,200,96,1,87,10
+Strawberry Banana Smoothie ,Large,Reduced fat,591,330,1,0.5,0,5,55,77,4,70,3
+Strawberry Banana Smoothie ,Medium,Reduced fat,473,260,1,0,0,5,40,60,3,54,2
 Strawberry Banana Smoothie ,Small,Reduced fat,354,210,0.5,0,0,5,35,49,2,44,2
-Wild Berry Smoothie ,Large,Reduced fat,354,320,1,0.5,0,5,45,75,4,69,3
-Wild Berry Smoothie ,Medium,Reduced fat,354,260,1,0,0,5,35,60,4,55,3
+Wild Berry Smoothie ,Large,Reduced fat,591,320,1,0.5,0,5,45,75,4,69,3
+Wild Berry Smoothie ,Medium,Reduced fat,473,260,1,0,0,5,35,60,4,55,3
 Wild Berry Smoothie ,Small,Reduced fat,354,210,0.5,0,0,5,30,48,3,44,2
