@@ -1,0 +1,893 @@
+NAME,SIZE,MILK,CALORIES,TOTAL_FAT_g,SATURATED_FAT_g,TRANS_FAT_g,CHOLESTEROL_mg,SODIUM_mg,TOTAL_CARB_g,DIETARY_FIBER_g,SUGAR_g,PROTEIN_g,CAFFEINE_mg,CALS,PRICE,CPD,RESTAURANT
+Cappuccino,Large,Nonfat,90,0,0,0,5,115,13,0,12,8,252,80,2.69,93.6802974,Dunkin
+Cappuccino,Large,Nonfat,90,0,0,0,5,115,13,0,12,8,252,120,3.19,78.9968652,Dunkin
+Cappuccino,Large,Nonfat,90,0,0,0,5,115,13,0,12,8,252,160,3.59,70.19498607,Dunkin
+Cappuccino,Medium,Nonfat,70,0,0,0,5,85,10,0,9,6,166,80,2.69,61.71003717,Dunkin
+Cappuccino,Medium,Nonfat,70,0,0,0,5,85,10,0,9,6,166,120,3.19,52.03761755,Dunkin
+Cappuccino,Medium,Nonfat,70,0,0,0,5,85,10,0,9,6,166,160,3.59,46.23955432,Dunkin
+Cappuccino,Small,Nonfat,45,0,0,0,0,55,7,0,6,4,118,80,2.69,43.866171,Dunkin
+Cappuccino,Small,Nonfat,45,0,0,0,0,55,7,0,6,4,118,120,3.19,36.99059561,Dunkin
+Cappuccino,Small,Nonfat,45,0,0,0,0,55,7,0,6,4,118,160,3.59,32.86908078,Dunkin
+Cappuccino,Large,Nonfat,230,0,0,0,5,115,48,0,47,8,252,80,2.69,93.6802974,Dunkin
+Cappuccino,Large,Nonfat,230,0,0,0,5,115,48,0,47,8,252,120,3.19,78.9968652,Dunkin
+Cappuccino,Large,Nonfat,230,0,0,0,5,115,48,0,47,8,252,160,3.59,70.19498607,Dunkin
+Cappuccino,Medium,Nonfat,170,0,0,0,5,85,36,0,35,6,166,80,2.69,61.71003717,Dunkin
+Cappuccino,Medium,Nonfat,170,0,0,0,5,85,36,0,35,6,166,120,3.19,52.03761755,Dunkin
+Cappuccino,Medium,Nonfat,170,0,0,0,5,85,36,0,35,6,166,160,3.59,46.23955432,Dunkin
+Cappuccino,Small,Nonfat,110,0,0,0,0,55,24,0,23,4,118,80,2.69,43.866171,Dunkin
+Cappuccino,Small,Nonfat,110,0,0,0,0,55,24,0,23,4,118,120,3.19,36.99059561,Dunkin
+Cappuccino,Small,Nonfat,110,0,0,0,0,55,24,0,23,4,118,160,3.59,32.86908078,Dunkin
+Cappuccino,Large,Whole,160,8,4.5,0,25,115,13,0,12,8,252,80,2.69,93.6802974,Dunkin
+Cappuccino,Large,Whole,160,8,4.5,0,25,115,13,0,12,8,252,120,3.19,78.9968652,Dunkin
+Cappuccino,Large,Whole,160,8,4.5,0,25,115,13,0,12,8,252,160,3.59,70.19498607,Dunkin
+Cappuccino,Medium,Whole,120,6,3.5,0,20,85,10,0,9,6,166,80,2.69,61.71003717,Dunkin
+Cappuccino,Medium,Whole,120,6,3.5,0,20,85,10,0,9,6,166,120,3.19,52.03761755,Dunkin
+Cappuccino,Medium,Whole,120,6,3.5,0,20,85,10,0,9,6,166,160,3.59,46.23955432,Dunkin
+Cappuccino,Small,Whole,80,4,2.5,0,10,60,7,0,6,4,118,80,2.69,43.866171,Dunkin
+Cappuccino,Small,Whole,80,4,2.5,0,10,60,7,0,6,4,118,120,3.19,36.99059561,Dunkin
+Cappuccino,Small,Whole,80,4,2.5,0,10,60,7,0,6,4,118,160,3.59,32.86908078,Dunkin
+Cappuccino,Large,Whole,290,8,4.5,0,25,115,48,0,46,8,252,80,2.69,93.6802974,Dunkin
+Cappuccino,Large,Whole,290,8,4.5,0,25,115,48,0,46,8,252,120,3.19,78.9968652,Dunkin
+Cappuccino,Large,Whole,290,8,4.5,0,25,115,48,0,46,8,252,160,3.59,70.19498607,Dunkin
+Cappuccino,Medium,Whole,220,6,3.5,0,20,85,36,0,35,6,166,80,2.69,61.71003717,Dunkin
+Cappuccino,Medium,Whole,220,6,3.5,0,20,85,36,0,35,6,166,120,3.19,52.03761755,Dunkin
+Cappuccino,Medium,Whole,220,6,3.5,0,20,85,36,0,35,6,166,160,3.59,46.23955432,Dunkin
+Cappuccino,Small,Whole,150,4,2.5,0,10,60,24,0,23,4,118,80,2.69,43.866171,Dunkin
+Cappuccino,Small,Whole,150,4,2.5,0,10,60,24,0,23,4,118,120,3.19,36.99059561,Dunkin
+Cappuccino,Small,Whole,150,4,2.5,0,10,60,24,0,23,4,118,160,3.59,32.86908078,Dunkin
+Iced Tea,Large,NA,140,0,0,0,0,25,35,0,33,0,90,5,0.99,90.90909091,Dunkin
+Iced Tea,Large,NA,140,0,0,0,0,25,35,0,33,0,90,5,1.29,69.76744186,Dunkin
+Iced Tea,Large,NA,140,0,0,0,0,25,35,0,33,0,90,5,1.59,56.60377358,Dunkin
+Iced Tea,Medium,NA,100,0,0,0,0,20,26,0,25,0,67,5,0.99,67.67676768,Dunkin
+Iced Tea,Medium,NA,100,0,0,0,0,20,26,0,25,0,67,5,1.29,51.9379845,Dunkin
+Iced Tea,Medium,NA,100,0,0,0,0,20,26,0,25,0,67,5,1.59,42.13836478,Dunkin
+Iced Tea,Small,NA,70,0,0,0,0,15,17,0,16,0,45,5,0.99,45.45454545,Dunkin
+Iced Tea,Small,NA,70,0,0,0,0,15,17,0,16,0,45,5,1.29,34.88372093,Dunkin
+Iced Tea,Small,NA,70,0,0,0,0,15,17,0,16,0,45,5,1.59,28.30188679,Dunkin
+Iced Tea,Large,NA,150,0,0,0,0,25,38,0,33,0,90,5,0.99,90.90909091,Dunkin
+Iced Tea,Large,NA,150,0,0,0,0,25,38,0,33,0,90,5,1.29,69.76744186,Dunkin
+Iced Tea,Large,NA,150,0,0,0,0,25,38,0,33,0,90,5,1.59,56.60377358,Dunkin
+Iced Tea,Medium,NA,110,0,0,0,0,20,28,0,25,0,67,5,0.99,67.67676768,Dunkin
+Iced Tea,Medium,NA,110,0,0,0,0,20,28,0,25,0,67,5,1.29,51.9379845,Dunkin
+Iced Tea,Medium,NA,110,0,0,0,0,20,28,0,25,0,67,5,1.59,42.13836478,Dunkin
+Iced Tea,Small,NA,80,0,0,0,0,15,19,0,17,0,45,5,0.99,45.45454545,Dunkin
+Iced Tea,Small,NA,80,0,0,0,0,15,19,0,17,0,45,5,1.29,34.88372093,Dunkin
+Iced Tea,Small,NA,80,0,0,0,0,15,19,0,17,0,45,5,1.59,28.30188679,Dunkin
+Iced Tea,Large,NA,150,0,0,0,0,25,38,0,33,0,90,5,0.99,90.90909091,Dunkin
+Iced Tea,Large,NA,150,0,0,0,0,25,38,0,33,0,90,5,1.29,69.76744186,Dunkin
+Iced Tea,Large,NA,150,0,0,0,0,25,38,0,33,0,90,5,1.59,56.60377358,Dunkin
+Iced Tea,Medium,NA,110,0,0,0,0,20,29,0,25,0,67,5,0.99,67.67676768,Dunkin
+Iced Tea,Medium,NA,110,0,0,0,0,20,29,0,25,0,67,5,1.29,51.9379845,Dunkin
+Iced Tea,Medium,NA,110,0,0,0,0,20,29,0,25,0,67,5,1.59,42.13836478,Dunkin
+Iced Tea,Small,NA,80,0,0,0,0,15,19,0,17,0,45,5,0.99,45.45454545,Dunkin
+Iced Tea,Small,NA,80,0,0,0,0,15,19,0,17,0,45,5,1.29,34.88372093,Dunkin
+Iced Tea,Small,NA,80,0,0,0,0,15,19,0,17,0,45,5,1.59,28.30188679,Dunkin
+Iced Tea,Large,NA,5,0,0,0,0,25,2,0,0,0,90,5,0.99,90.90909091,Dunkin
+Iced Tea,Large,NA,5,0,0,0,0,25,2,0,0,0,90,5,1.29,69.76744186,Dunkin
+Iced Tea,Large,NA,5,0,0,0,0,25,2,0,0,0,90,5,1.59,56.60377358,Dunkin
+Iced Tea,Medium,NA,5,0,0,0,0,20,1,0,0,0,67,5,0.99,67.67676768,Dunkin
+Iced Tea,Medium,NA,5,0,0,0,0,20,1,0,0,0,67,5,1.29,51.9379845,Dunkin
+Iced Tea,Medium,NA,5,0,0,0,0,20,1,0,0,0,67,5,1.59,42.13836478,Dunkin
+Iced Tea,Small,NA,5,0,0,0,0,15,1,0,0,0,45,5,0.99,45.45454545,Dunkin
+Iced Tea,Small,NA,5,0,0,0,0,15,1,0,0,0,45,5,1.29,34.88372093,Dunkin
+Iced Tea,Small,NA,5,0,0,0,0,15,1,0,0,0,45,5,1.59,28.30188679,Dunkin
+Iced Tea,Large,NA,20,0,0,0,0,25,5,0,0,0,90,5,0.99,90.90909091,Dunkin
+Iced Tea,Large,NA,20,0,0,0,0,25,5,0,0,0,90,5,1.29,69.76744186,Dunkin
+Iced Tea,Large,NA,20,0,0,0,0,25,5,0,0,0,90,5,1.59,56.60377358,Dunkin
+Iced Tea,Medium,NA,15,0,0,0,0,20,3,0,0,0,67,5,0.99,67.67676768,Dunkin
+Iced Tea,Medium,NA,15,0,0,0,0,20,3,0,0,0,67,5,1.29,51.9379845,Dunkin
+Iced Tea,Medium,NA,15,0,0,0,0,20,3,0,0,0,67,5,1.59,42.13836478,Dunkin
+Iced Tea,Small,NA,10,0,0,0,0,15,2,0,0,0,45,5,0.99,45.45454545,Dunkin
+Iced Tea,Small,NA,10,0,0,0,0,15,2,0,0,0,45,5,1.29,34.88372093,Dunkin
+Iced Tea,Small,NA,10,0,0,0,0,15,2,0,0,0,45,5,1.59,28.30188679,Dunkin
+Iced Tea,Large,NA,20,0,0,0,0,25,5,0,0,0,90,5,0.99,90.90909091,Dunkin
+Iced Tea,Large,NA,20,0,0,0,0,25,5,0,0,0,90,5,1.29,69.76744186,Dunkin
+Iced Tea,Large,NA,20,0,0,0,0,25,5,0,0,0,90,5,1.59,56.60377358,Dunkin
+Iced Tea,Medium,NA,15,0,0,0,0,20,4,0,0,0,67,5,0.99,67.67676768,Dunkin
+Iced Tea,Medium,NA,15,0,0,0,0,20,4,0,0,0,67,5,1.29,51.9379845,Dunkin
+Iced Tea,Medium,NA,15,0,0,0,0,20,4,0,0,0,67,5,1.59,42.13836478,Dunkin
+Iced Tea,Small,NA,10,0,0,0,0,15,3,0,0,0,45,5,0.99,45.45454545,Dunkin
+Iced Tea,Small,NA,10,0,0,0,0,15,3,0,0,0,45,5,1.29,34.88372093,Dunkin
+Iced Tea,Small,NA,10,0,0,0,0,15,3,0,0,0,45,5,1.59,28.30188679,Dunkin
+Brewed Coffee,Short,NA,3,0.1,0,0,0,5,0,0,0,0.3,130,5,2.15,60.46511628,Starbucks
+Brewed Coffee,Tall,NA,4,0.1,0,0,0,10,0,0,0,0.5,193,5,2.25,85.77777778,Starbucks
+Brewed Coffee,Grande,NA,5,0.1,0,0,0,10,0,0,0,1,260,5,2.65,98.11320755,Starbucks
+Brewed Coffee,Venti,NA,5,0.1,0,0,0,10,0,0,0,1,340,5,2.95,115.2542373,Starbucks
+Brewed Coffee,Short,NA,3,0.1,0,0,0,5,0,0,0,0.3,15,5,2.15,6.976744186,Starbucks
+Brewed Coffee,Tall,NA,4,0.1,0,0,0,10,0,0,0,0.5,20,5,2.25,8.888888889,Starbucks
+Brewed Coffee,Grande,NA,5,0.1,0,0,0,10,0,0,0,1,25,5,2.65,9.433962264,Starbucks
+Brewed Coffee,Venti,NA,5,0.1,0,0,0,10,0,0,0,1,30,5,2.95,10.16949153,Starbucks
+Brewed Coffee,Short,NA,3,0.1,0,0,0,5,0,0,0,0.3,155,5,2.15,72.09302326,Starbucks
+Brewed Coffee,Tall,NA,4,0.1,0,0,0,10,0,0,0,0.5,235,5,2.25,104.4444444,Starbucks
+Brewed Coffee,Grande,NA,5,0.1,0,0,0,10,0,0,0,1,310,5,2.65,116.9811321,Starbucks
+Brewed Coffee,Venti,NA,5,0.1,0,0,0,10,0,0,0,1,410,5,2.95,138.9830508,Starbucks
+Brewed Coffee,Short,NA,3,0.1,0,0,0,5,0,0,0,0.3,180,5,2.15,83.72093023,Starbucks
+Brewed Coffee,Tall,NA,4,0.1,0,0,0,10,0,0,0,0.5,270,5,2.25,120,Starbucks
+Brewed Coffee,Grande,NA,5,0.1,0,0,0,10,0,0,0,1,360,5,2.65,135.8490566,Starbucks
+Brewed Coffee,Venti,NA,5,0.1,0,0,0,10,0,0,0,1,475,5,2.95,161.0169492,Starbucks
+Caffe Misto,Short,Nonfat,35,0.1,0.1,0,0,45,5,0,5,4,75,50,2.85,26.31578947,Starbucks
+Caffe Misto,Short,2%,50,2,1,0.1,10,50,5,0,5,4,75,50,2.85,26.31578947,Starbucks
+Caffe Misto,Short,Whole,70,3.5,2,0.1,10,50,5,0,5,3,75,50,2.85,26.31578947,Starbucks
+Caffe Misto,Short,Soy,40,1.5,0.2,0,0,40,3,0,2,3,75,50,2.85,26.31578947,Starbucks
+Caffe Misto,Short,Coconut,40,2.5,2.5,0,0,45,4,0,3,0.4,75,50,2.85,26.31578947,Starbucks
+Caffe Misto,Tall,Nonfat,60,0.2,0.1,0,5,70,8,0,8,6,115,80,2.95,38.98305085,Starbucks
+Caffe Misto,Tall,2%,80,3,1.5,0.1,15,80,8,0,8,5,115,80,2.95,38.98305085,Starbucks
+Caffe Misto,Tall,Whole,100,5,3,0.2,15,70,8,0,8,5,115,80,2.95,38.98305085,Starbucks
+Caffe Misto,Tall,Soy,60,2.5,0.3,0,0,60,5,1,4,4,115,80,2.95,38.98305085,Starbucks
+Caffe Misto,Tall,Coconut,60,3.5,3.5,0,0,70,6,0,5,1,115,80,2.95,38.98305085,Starbucks
+Caffe Misto,Grande,Nonfat,70,0.2,0.1,0,5,90,10,0,10,7,150,110,3.35,44.7761194,Starbucks
+Caffe Misto,Grande,2%,110,4,2,0.1,15,100,10,0,10,7,150,110,3.35,44.7761194,Starbucks
+Caffe Misto,Grande,Whole,130,7,4,0.2,20,95,10,0,10,7,150,110,3.35,44.7761194,Starbucks
+Caffe Misto,Grande,Soy,80,3,0.4,0,0,80,6,1,5,6,150,110,3.35,44.7761194,Starbucks
+Caffe Misto,Grande,Coconut,70,4.5,4.5,0,0,90,7,0,7,1,150,110,3.35,44.7761194,Starbucks
+Caffe Misto,Venti,Nonfat,90,0.3,0.2,0,5,115,13,0,13,9,195,130,3.65,53.42465753,Starbucks
+Caffe Misto,Venti,2%,130,5,2.5,0.2,20,130,13,0,13,9,195,130,3.65,53.42465753,Starbucks
+Caffe Misto,Venti,Whole,160,9,5,0.3,25,120,13,0,13,9,195,130,3.65,53.42465753,Starbucks
+Caffe Misto,Venti,Soy,100,4,0.5,0,0,100,8,1,6,7,195,130,3.65,53.42465753,Starbucks
+Caffe Misto,Venti,Coconut,80,5,4.5,0,0,90,7,0,7,1,195,130,3.65,53.42465753,Starbucks
+Brewed Coffee,Short,NA,10,0,0,0,0,5,0,0,0,0,190,5,2.15,88.37209302,Starbucks
+Brewed Coffee,Tall,NA,10,0,0,0,0,10,0,0,0,0,280,5,2.25,124.4444444,Starbucks
+Brewed Coffee,Grande,NA,10,0,0,0,0,10,0,0,0,1,380,5,2.65,143.3962264,Starbucks
+Brewed Coffee,Venti,NA,10,0,0,0,0,10,0,0,0,1,470,5,2.95,159.3220339,Starbucks
+Brewed Coffee,Short,NA,10,0,0,0,0,5,0,0,0,0,155,5,2.15,72.09302326,Starbucks
+Brewed Coffee,Tall,NA,10,0,0,0,0,10,0,0,0,0,255,5,2.25,113.3333333,Starbucks
+Brewed Coffee,Grande,NA,10,0,0,0,0,10,0,0,0,1,340,5,2.65,128.3018868,Starbucks
+Brewed Coffee,Venti,NA,10,0,0,0,0,10,0,0,0,1,425,5,2.95,144.0677966,Starbucks
+Brewed Coffee,Short,NA,10,0,0,0,0,5,0,0,0,0,170,5,2.15,79.06976744,Starbucks
+Brewed Coffee,Tall,NA,10,0,0,0,0,10,0,0,0,0,280,5,2.25,124.4444444,Starbucks
+Brewed Coffee,Grande,NA,10,0,0,0,0,10,0,0,0,1,375,5,2.65,141.509434,Starbucks
+Brewed Coffee,Venti,NA,10,0,0,0,0,10,0,0,0,1,445,5,2.95,150.8474576,Starbucks
+Iced Coffee,Tall,NA,60,0,0,0,0,10,15,0,15,0.2,120,60,2.95,40.6779661,Starbucks
+Iced Coffee,Grande,NA,80,0.1,0,0,0,10,20,0,20,0.3,165,80,3.25,50.76923077,Starbucks
+Iced Coffee,Venti,NA,120,0.1,0,0,0,15,30,0,30,0.4,235,120,3.75,62.66666667,Starbucks
+Iced Coffee,Trenta,NA,160,0.1,0,0,0,15,40,0,39,1,280,160,3.95,70.88607595,Starbucks
+Iced Coffee,Tall,Nonfat,80,0.1,0,0,0,30,17,0,17,2,90,60,2.95,30.50847458,Starbucks
+Iced Coffee,Tall,2%,80,1,0.5,0,5,30,17,0,17,2,90,60,2.95,30.50847458,Starbucks
+Iced Coffee,Tall,Whole,90,1.5,1,0,5,30,17,0,17,2,90,60,2.95,30.50847458,Starbucks
+Iced Coffee,Tall,Soy,80,1,0.1,0,0,25,16,0,16,2,90,60,2.95,30.50847458,Starbucks
+Iced Coffee,Tall,Coconut,80,1,1,0,0,25,17,0,16,0.3,110,60,2.95,37.28813559,Starbucks
+Iced Coffee,Grande,Nonfat,100,0.1,0,0,0,35,23,0,23,2,125,80,3.25,38.46153846,Starbucks
+Iced Coffee,Grande,2%,110,1.5,1,0.1,5,40,23,0,23,2,125,80,3.25,38.46153846,Starbucks
+Iced Coffee,Grande,Whole,120,2,1,0.1,5,35,23,0,23,2,125,80,3.25,38.46153846,Starbucks
+Iced Coffee,Grande,Soy,110,1,0.1,0,0,35,22,0,21,2,125,80,3.25,38.46153846,Starbucks
+Iced Coffee,Grande,Coconut,100,1.5,1.5,0,0,35,22,0,22,0.4,150,80,3.25,46.15384615,Starbucks
+Iced Coffee,Venti,Nonfat,160,0.1,0.1,0,0,60,35,0,35,4,170,120,3.75,45.33333333,Starbucks
+Iced Coffee,Venti,2%,170,2,1.5,0.1,10,65,35,0,35,4,170,120,3.75,45.33333333,Starbucks
+Iced Coffee,Venti,Whole,190,3.5,2,0.1,10,60,35,0,35,4,170,120,3.75,45.33333333,Starbucks
+Iced Coffee,Venti,Soy,160,1.5,0.2,0,0,55,33,0,32,3,170,120,3.75,45.33333333,Starbucks
+Iced Coffee,Venti,Coconut,160,2.5,2,0,0,55,33,0,33,1,205,120,3.75,54.66666667,Starbucks
+Iced Coffee,Trenta,Nonfat,210,0.2,0.1,0,5,70,46,0,46,5,190,160,3.95,48.10126582,Starbucks
+Iced Coffee,Trenta,2%,230,3,1.5,0.1,10,80,46,0,46,5,190,160,3.95,48.10126582,Starbucks
+Iced Coffee,Trenta,Whole,240,4.5,2.5,0.1,15,75,46,0,46,5,190,160,3.95,48.10126582,Starbucks
+Iced Coffee,Trenta,Soy,220,2,0.3,0,0,65,44,1,43,4,190,160,3.95,48.10126582,Starbucks
+Iced Coffee,Trenta,Coconut,210,3,3,0,0,70,44,0,44,1,190,160,3.95,48.10126582,Starbucks
+Vanilla Sweet Cream Cold Brew,Tall,NA,100,6,3.5,0.2,20,20,12,0,12,1,140,90,3.75,37.33333333,Starbucks
+Vanilla Sweet Cream Cold Brew,Grande,NA,110,6,3.5,0.2,20,25,14,0,14,1,185,110,4.25,43.52941176,Starbucks
+Vanilla Sweet Cream Cold Brew,Venti,NA,200,11,7,0.3,40,40,24,0,24,1,275,200,4.45,61.79775281,Starbucks
+Vanilla Sweet Cream Cold Brew,Trenta,NA,210,11,7,0.3,40,45,26,0,26,2,320,210,4.75,67.36842105,Starbucks
+Caffe Americano,Short,NA,5,0,0,0,0,5,1,0,0,0,75,5,2.65,28.30188679,Starbucks
+Caffe Americano,Tall,NA,10,0,0,0,0,10,2,0,0,1,150,10,2.95,50.84745763,Starbucks
+Caffe Americano,Grande,NA,15,0,0,0,0,15,3,0,0,1,225,15,3.45,65.2173913,Starbucks
+Caffe Americano,Venti,NA,25,0,0,0,0,15,4,0,0,1,300,20,3.65,82.19178082,Starbucks
+Caffe Latte,Short,Nonfat,70,0.1,0.1,0,5,75,10,0,9,6,75,100,3.35,22.3880597,Starbucks
+Caffe Latte,Short,2%,100,3.5,2.5,0.2,15,85,10,0,9,6,75,100,3.35,22.3880597,Starbucks
+Caffe Latte,Short,Whole,110,6,3.5,0.2,20,75,10,0,9,6,75,100,3.35,22.3880597,Starbucks
+Caffe Latte,Short,Soy,70,2.5,0.4,0,0,65,6,1,4,5,75,100,3.35,22.3880597,Starbucks
+Caffe Latte,Short,Coconut,70,4,4,0,0,75,7,0,6,1,75,100,3.35,22.3880597,Starbucks
+Caffe Latte,Tall,Nonfat,100,0.2,0.2,0,5,120,15,0,14,10,75,150,3.45,21.73913043,Starbucks
+Caffe Latte,Tall,Nonfat,100,0.2,0.2,0,5,120,15,0,14,10,75,NA,2.95,25.42372881,Starbucks
+Caffe Latte,Tall,2%,150,6,3.5,0.2,25,135,15,0,14,10,75,150,3.45,21.73913043,Starbucks
+Caffe Latte,Tall,2%,150,6,3.5,0.2,25,135,15,0,14,10,75,NA,2.95,25.42372881,Starbucks
+Caffe Latte,Tall,Whole,180,9,5,0.3,30,125,15,0,14,9,75,150,3.45,21.73913043,Starbucks
+Caffe Latte,Tall,Whole,180,9,5,0.3,30,125,15,0,14,9,75,NA,2.95,25.42372881,Starbucks
+Caffe Latte,Tall,Soy,110,4.5,0.5,0,0,105,10,1,6,8,75,150,3.45,21.73913043,Starbucks
+Caffe Latte,Tall,Soy,110,4.5,0.5,0,0,105,10,1,6,8,75,NA,2.95,25.42372881,Starbucks
+Caffe Latte,Tall,Coconut,110,7,6,0,0,120,11,0,10,1,75,150,3.45,21.73913043,Starbucks
+Caffe Latte,Tall,Coconut,110,7,6,0,0,120,11,0,10,1,75,NA,2.95,25.42372881,Starbucks
+Caffe Latte,Grande,Nonfat,130,0.3,0.2,0,5,150,19,0,18,13,150,190,4.25,35.29411765,Starbucks
+Caffe Latte,Grande,Nonfat,130,0.3,0.2,0,5,150,19,0,18,13,150,NA,3.65,41.09589041,Starbucks
+Caffe Latte,Grande,2%,190,7,4.5,0.3,30,170,19,0,17,12,150,190,4.25,35.29411765,Starbucks
+Caffe Latte,Grande,2%,190,7,4.5,0.3,30,170,19,0,17,12,150,NA,3.65,41.09589041,Starbucks
+Caffe Latte,Grande,Whole,230,11,7,0.3,35,150,19,0,17,12,150,190,4.25,35.29411765,Starbucks
+Caffe Latte,Grande,Whole,230,11,7,0.3,35,150,19,0,17,12,150,NA,3.65,41.09589041,Starbucks
+Caffe Latte,Grande,Soy,150,5,0.5,0,0,130,13,1,8,10,150,190,4.25,35.29411765,Starbucks
+Caffe Latte,Grande,Soy,150,5,0.5,0,0,130,13,1,8,10,150,NA,3.65,41.09589041,Starbucks
+Caffe Latte,Grande,Coconut,140,8,8,0,0,150,14,0,12,1,150,190,4.25,35.29411765,Starbucks
+Caffe Latte,Grande,Coconut,140,8,8,0,0,150,14,0,12,1,150,NA,3.65,41.09589041,Starbucks
+Caffe Latte,Venti,Nonfat,170,0.4,0.3,0,10,190,25,0,23,16,150,250,4.75,31.57894737,Starbucks
+Caffe Latte,Venti,Nonfat,170,0.4,0.3,0,10,190,25,0,23,16,150,NA,4.15,36.14457831,Starbucks
+Caffe Latte,Venti,2%,240,9,6,0.4,35,220,24,0,22,16,150,250,4.75,31.57894737,Starbucks
+Caffe Latte,Venti,2%,240,9,6,0.4,35,220,24,0,22,16,150,NA,4.15,36.14457831,Starbucks
+Caffe Latte,Venti,Whole,290,15,9,0.5,45,200,24,0,22,15,150,250,4.75,31.57894737,Starbucks
+Caffe Latte,Venti,Whole,290,15,9,0.5,45,200,24,0,22,15,150,NA,4.15,36.14457831,Starbucks
+Caffe Latte,Venti,Soy,190,7,1,0,0,170,16,2,11,13,150,250,4.75,31.57894737,Starbucks
+Caffe Latte,Venti,Soy,190,7,1,0,0,170,16,2,11,13,150,NA,4.15,36.14457831,Starbucks
+Caffe Latte,Venti,Coconut,170,11,10,0,0,200,18,0,16,2,150,250,4.75,31.57894737,Starbucks
+Caffe Latte,Venti,Coconut,170,11,10,0,0,200,18,0,16,2,150,NA,4.15,36.14457831,Starbucks
+Iced Caffe Latte,Tall,Nonfat,70,0.1,0.1,0,5,80,10,0,9,6,75,100,3.45,21.73913043,Starbucks
+Iced Caffe Latte,Tall,2%,100,3.5,2,0.1,15,90,10,0,9,6,75,100,3.45,21.73913043,Starbucks
+Iced Caffe Latte,Tall,Whole,120,6,3.5,0.2,20,85,10,0,9,6,75,100,3.45,21.73913043,Starbucks
+Iced Caffe Latte,Tall,Soy,80,3,0.4,0,0,75,7,1,4,5,75,100,3.45,21.73913043,Starbucks
+Iced Caffe Latte,Tall,Coconut,70,4,4,0,0,80,7,0,6,1,75,100,3.45,21.73913043,Starbucks
+Iced Caffe Latte,Grande,Nonfat,90,0.2,0.1,0,5,105,13,0,11,8,150,130,4.25,35.29411765,Starbucks
+Iced Caffe Latte,Grande,2%,130,4.5,2.5,0.1,20,115,13,0,11,8,150,130,4.25,35.29411765,Starbucks
+Iced Caffe Latte,Grande,Whole,150,7,4.5,0.2,25,105,13,0,11,8,150,130,4.25,35.29411765,Starbucks
+Iced Caffe Latte,Grande,Soy,100,3.5,0.5,0,0,95,9,1,5,7,150,130,4.25,35.29411765,Starbucks
+Iced Caffe Latte,Grande,Coconut,90,5,5,0,0,105,10,0,8,1,150,130,4.25,35.29411765,Starbucks
+Iced Caffe Latte,Venti,Nonfat,130,0.3,0.2,0,5,140,19,0,16,12,225,180,4.95,45.45454545,Starbucks
+Iced Caffe Latte,Venti,2%,180,6,3,0.2,25,160,18,0,15,12,225,180,4.95,45.45454545,Starbucks
+Iced Caffe Latte,Venti,Whole,210,10,6,0.3,30,150,18,0,15,11,225,180,4.95,45.45454545,Starbucks
+Iced Caffe Latte,Venti,Soy,150,5,0.5,0,0,130,13,1,8,10,225,180,4.95,45.45454545,Starbucks
+Iced Caffe Latte,Venti,Coconut,130,7,7,0,0,150,14,0,11,2,225,180,4.95,45.45454545,Starbucks
+Caffe Mocha,Short,Nonfat,120,1.5,1,0,5,65,21,2,17,7,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Short,Nonfat,180,6,4,0.2,20,70,23,2,18,7,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Short,2%,150,4,2.5,0.1,10,70,21,2,17,7,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Short,2%,200,9,6,0.3,30,75,22,2,18,7,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Short,Whole,160,6,3.5,0.1,15,65,21,2,17,6,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Short,Whole,210,11,7,0.3,35,70,22,2,18,7,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Short,Soy,130,3.5,1,0,0,55,18,3,13,6,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Short,Soy,180,9,4,0.2,20,60,20,3,14,6,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Short,Coconut,130,4.5,4,0,0,65,19,2,15,2,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Short,Coconut,180,10,7,0.2,20,70,21,2,16,2,90,200,3.95,22.78481013,Starbucks
+Caffe Mocha,Tall,Nonfat,190,2,1,0,5,100,32,3,27,10,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,Nonfat,190,2,1,0,5,100,32,3,27,10,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Tall,Nonfat,250,8,5,0.2,25,110,34,3,28,11,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,Nonfat,250,8,5,0.2,25,110,34,3,28,11,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Tall,2%,230,6,4,0.2,20,115,32,3,26,10,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,2%,230,6,4,0.2,20,115,32,3,26,10,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Tall,2%,290,13,8,0.4,40,120,34,3,28,11,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,2%,290,13,8,0.4,40,120,34,3,28,11,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Tall,Whole,250,9,6,0.2,25,105,32,3,26,10,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,Whole,250,9,6,0.2,25,105,32,3,26,10,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Tall,Whole,310,16,9,0.4,45,110,34,3,28,10,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,Whole,310,16,9,0.4,45,110,34,3,28,10,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Tall,Soy,200,5,1.5,0,0,90,28,4,20,9,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,Soy,200,5,1.5,0,0,90,28,4,20,9,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Tall,Soy,260,11,5,0.2,25,95,30,4,22,9,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,Soy,260,11,5,0.2,25,95,30,4,22,9,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Tall,Coconut,190,7,6,0,0,105,29,3,23,3,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,Coconut,190,7,6,0,0,105,29,3,23,3,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Tall,Coconut,250,13,10,0.2,25,110,30,3,25,3,95,290,4.15,22.89156627,Starbucks
+Caffe Mocha,Tall,Coconut,250,13,10,0.2,25,110,30,3,25,3,95,NA,3.45,27.53623188,Starbucks
+Caffe Mocha,Grande,Nonfat,250,2.5,1.5,0,5,125,42,4,34,13,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,Nonfat,250,2.5,1.5,0,5,125,42,4,34,13,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Grande,Nonfat,320,10,6,0.2,30,135,44,4,36,14,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,Nonfat,320,10,6,0.2,30,135,44,4,36,14,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Grande,2%,290,8,5,0.2,25,140,42,4,34,13,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,2%,290,8,5,0.2,25,140,42,4,34,13,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Grande,2%,360,15,9,0.5,50,150,44,4,35,13,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,2%,360,15,9,0.5,50,150,44,4,35,13,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Grande,Whole,330,12,7,0.3,30,130,42,4,34,13,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,Whole,330,12,7,0.3,30,130,42,4,34,13,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Grande,Whole,400,19,11,0.5,55,135,44,4,35,13,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,Whole,400,19,11,0.5,55,135,44,4,35,13,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Grande,Soy,260,7,2,0,0,110,37,5,26,11,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,Soy,260,7,2,0,0,110,37,5,26,11,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Grande,Soy,330,14,6,0.2,25,115,39,5,28,12,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,Soy,330,14,6,0.2,25,115,39,5,28,12,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Grande,Coconut,250,9,8,0,0,130,38,4,30,4,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,Coconut,250,9,8,0,0,130,38,4,30,4,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Grande,Coconut,320,16,12,0.2,25,135,40,4,32,4,175,370,4.65,37.6344086,Starbucks
+Caffe Mocha,Grande,Coconut,320,16,12,0.2,25,135,40,4,32,4,175,NA,4.15,42.1686747,Starbucks
+Caffe Mocha,Venti,Nonfat,310,3.5,2,0,10,170,54,5,44,17,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,Nonfat,310,3.5,2,0,10,170,54,5,44,17,185,NA,4.65,39.78494624,Starbucks
+Caffe Mocha,Venti,Nonfat,390,10,6,0.2,35,170,56,5,45,18,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,Nonfat,390,10,6,0.2,35,170,56,5,45,18,185,NA,4.65,39.78494624,Starbucks
+Caffe Mocha,Venti,2%,380,11,7,0.3,30,190,53,5,43,17,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,2%,380,11,7,0.3,30,190,53,5,43,17,185,NA,4.65,39.78494624,Starbucks
+Caffe Mocha,Venti,2%,450,18,11,0.5,55,190,55,5,45,17,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,2%,450,18,11,0.5,55,190,55,5,45,17,185,NA,4.65,39.78494624,Starbucks
+Caffe Mocha,Venti,Whole,420,16,9,0.4,40,170,53,5,43,16,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,Whole,420,16,9,0.4,40,170,53,5,43,16,185,NA,4.65,39.78494624,Starbucks
+Caffe Mocha,Venti,Whole,490,23,13,0.5,65,180,55,5,45,17,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,Whole,490,23,13,0.5,65,180,55,5,45,17,185,NA,4.65,39.78494624,Starbucks
+Caffe Mocha,Venti,Soy,330,9,2.5,0,0,140,46,6,34,15,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,Soy,330,9,2.5,0,0,140,46,6,34,15,185,NA,4.65,39.78494624,Starbucks
+Caffe Mocha,Venti,Soy,400,16,7,0.2,25,150,48,6,35,15,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,Soy,400,16,7,0.2,25,150,48,6,35,15,185,NA,4.65,39.78494624,Starbucks
+Caffe Mocha,Venti,Coconut,320,12,10,0,0,170,48,5,38,5,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,Coconut,320,12,10,0,0,170,48,5,38,5,185,NA,4.65,39.78494624,Starbucks
+Caffe Mocha,Venti,Coconut,390,19,15,0.2,25,180,50,5,40,5,185,450,4.95,37.37373737,Starbucks
+Caffe Mocha,Venti,Coconut,390,19,15,0.2,25,180,50,5,40,5,185,NA,4.65,39.78494624,Starbucks
+Iced Caffe Mocha,Tall,Nonfat,150,2,1,0,5,65,27,3,22,7,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Tall,Nonfat,240,10,6,0.2,30,75,30,3,23,7,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Tall,2%,180,4.5,3,0.1,10,70,27,3,21,7,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Tall,2%,260,12,8,0.4,40,80,29,3,23,7,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Tall,Whole,190,6,3.5,0.1,15,65,27,3,21,7,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Tall,Whole,270,14,9,0.4,45,75,29,3,23,7,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Tall,Soy,160,4,1.5,0,0,60,25,3,18,6,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Tall,Soy,240,12,6,0.2,30,65,27,3,20,7,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Tall,Coconut,150,5,4,0,0,65,25,3,19,3,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Tall,Coconut,240,13,9,0.2,30,70,27,3,22,3,95,260,4.15,22.89156627,Starbucks
+Iced Caffe Mocha,Grande,Nonfat,200,2.5,1.5,0,5,80,36,4,28,9,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Grande,Nonfat,320,14,8,0.3,45,90,40,4,30,10,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Grande,2%,230,6,3.5,0.1,15,90,36,4,28,9,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Grande,2%,350,17,11,0.5,55,100,39,4,30,10,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Grande,Whole,250,8,4.5,0.2,15,80,36,4,28,9,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Grande,Whole,360,19,12,0.5,60,95,39,4,30,9,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Grande,Soy,210,5,2,0,0,75,33,5,24,8,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Grande,Soy,330,16,9,0.3,40,85,37,5,26,9,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Grande,Coconut,210,6,5,0,0,80,34,4,26,4,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Grande,Coconut,320,18,12,0.3,40,95,37,4,29,4,175,350,4.65,37.6344086,Starbucks
+Iced Caffe Mocha,Venti,Nonfat,300,3.5,2.5,0,5,110,53,6,41,13,265,450,5.25,50.47619048,Starbucks
+Iced Caffe Mocha,Venti,Nonfat,410,15,9,0.3,45,120,57,6,43,14,265,450,5.25,50.47619048,Starbucks
+Iced Caffe Mocha,Venti,2%,340,8,5,0.2,20,120,53,6,41,13,265,450,5.25,50.47619048,Starbucks
+Iced Caffe Mocha,Venti,2%,450,19,12,0.5,60,130,56,6,43,13,265,450,5.25,50.47619048,Starbucks
+Iced Caffe Mocha,Venti,Whole,360,11,6,0.2,25,110,53,6,41,12,265,450,5.25,50.47619048,Starbucks
+Iced Caffe Mocha,Venti,Whole,470,22,13,0.5,65,125,56,6,43,13,265,450,5.25,50.47619048,Starbucks
+Iced Caffe Mocha,Venti,Soy,310,7,2.5,0,0,100,49,7,35,12,265,450,5.25,50.47619048,Starbucks
+Iced Caffe Mocha,Venti,Soy,430,18,10,0.3,40,110,53,7,37,12,265,450,5.25,50.47619048,Starbucks
+Iced Caffe Mocha,Venti,Coconut,300,9,7,0,0,115,50,6,38,5,265,450,5.25,50.47619048,Starbucks
+Iced Caffe Mocha,Venti,Coconut,420,20,14,0.3,40,125,53,6,41,6,265,450,5.25,50.47619048,Starbucks
+Cappuccino,Short,Nonfat,50,0.1,0.1,0,5,60,8,0,7,5,75,70,3.35,22.3880597,Starbucks
+Cappuccino,Short,2%,80,3,1.5,0.1,10,70,8,0,7,5,75,70,3.35,22.3880597,Starbucks
+Cappuccino,Short,Whole,90,4.5,2.5,0.1,15,60,8,0,7,5,75,70,3.35,22.3880597,Starbucks
+Cappuccino,Short,Soy,50,1.5,0.2,0,0,40,4,0,3,3,75,70,3.35,22.3880597,Starbucks
+Cappuccino,Short,Coconut,70,4,4,0,0,75,7,0,6,1,75,70,3.35,22.3880597,Starbucks
+Cappuccino,Tall,Nonfat,60,0.1,0.1,0,5,70,9,0,8,6,75,100,3.45,21.73913043,Starbucks
+Cappuccino,Tall,2%,90,3.5,1.5,0.1,15,80,9,0,8,6,75,100,3.45,21.73913043,Starbucks
+Cappuccino,Tall,Whole,110,6,3,0.2,15,75,9,0,8,6,75,100,3.45,21.73913043,Starbucks
+Cappuccino,Tall,Soy,70,3,0.4,0,0,65,7,1,4,5,75,100,3.45,21.73913043,Starbucks
+Cappuccino,Tall,Coconut,100,6,6,0,0,115,11,0,9,1,75,100,3.45,21.73913043,Starbucks
+Cappuccino,Grande,Nonfat,80,0.2,0.1,0,5,90,12,0,10,8,150,140,4.25,35.29411765,Starbucks
+Cappuccino,Grande,2%,120,4,2,0.1,15,100,12,0,10,8,150,140,4.25,35.29411765,Starbucks
+Cappuccino,Grande,Whole,140,7,4,0.2,20,90,12,0,10,7,150,140,4.25,35.29411765,Starbucks
+Cappuccino,Grande,Soy,100,3.5,0.4,0,0,80,9,1,5,7,150,140,4.25,35.29411765,Starbucks
+Cappuccino,Grande,Coconut,130,8,8,0,0,150,14,0,12,1,150,140,4.25,35.29411765,Starbucks
+Cappuccino,Venti,Nonfat,110,0.2,0.2,0,5,120,16,0,14,10,150,200,4.75,31.57894737,Starbucks
+Cappuccino,Venti,2%,150,6,3,0.2,25,135,16,0,14,10,150,200,4.75,31.57894737,Starbucks
+Cappuccino,Venti,Whole,190,9,5,0.3,30,125,16,0,14,10,150,200,4.75,31.57894737,Starbucks
+Cappuccino,Venti,Soy,120,4.5,0.5,0,0,110,11,1,7,9,150,200,4.75,31.57894737,Starbucks
+Cappuccino,Venti,Coconut,170,10,10,0,0,190,18,0,15,2,150,200,4.75,31.57894737,Starbucks
+Caramel Macchiato,Short,Nonfat,100,1,0.5,0,5,70,16,0,15,5,75,120,4.35,17.24137931,Starbucks
+Caramel Macchiato,Short,2%,120,4,2.5,0.1,15,80,16,0,15,5,75,120,4.35,17.24137931,Starbucks
+Caramel Macchiato,Short,Whole,140,6,3.5,0.1,20,70,16,0,15,5,75,120,4.35,17.24137931,Starbucks
+Caramel Macchiato,Short,Soy,100,3,1,0,0,60,14,1,11,4,75,120,4.35,17.24137931,Starbucks
+Caramel Macchiato,Short,Coconut,100,4,3.5,0,0,70,14,0,13,1,75,120,4.35,17.24137931,Starbucks
+Caramel Macchiato,Tall,Nonfat,150,1.5,1,0,10,105,27,0,25,8,75,190,4.45,16.85393258,Starbucks
+Caramel Macchiato,Tall,Nonfat,150,1.5,1,0,10,105,27,0,25,8,75,NA,3.75,20,Starbucks
+Caramel Macchiato,Tall,2%,190,6,3.5,0.2,20,120,26,0,25,8,75,190,4.45,16.85393258,Starbucks
+Caramel Macchiato,Tall,2%,190,6,3.5,0.2,20,120,26,0,25,8,75,NA,3.75,20,Starbucks
+Caramel Macchiato,Tall,Whole,210,9,5,0.2,25,110,26,0,25,8,75,190,4.45,16.85393258,Starbucks
+Caramel Macchiato,Tall,Whole,210,9,5,0.2,25,110,26,0,25,8,75,NA,3.75,20,Starbucks
+Caramel Macchiato,Tall,Soy,160,4.5,1,0,5,95,22,1,19,6,75,190,4.45,16.85393258,Starbucks
+Caramel Macchiato,Tall,Soy,160,4.5,1,0,5,95,22,1,19,6,75,NA,3.75,20,Starbucks
+Caramel Macchiato,Tall,Coconut,150,6,6,0,5,105,23,0,21,1,75,190,4.45,16.85393258,Starbucks
+Caramel Macchiato,Tall,Coconut,150,6,6,0,5,105,23,0,21,1,75,NA,3.75,20,Starbucks
+Caramel Macchiato,Grande,Nonfat,200,1.5,1,0,10,135,36,0,34,11,150,250,4.95,30.3030303,Starbucks
+Caramel Macchiato,Grande,Nonfat,200,1.5,1,0,10,135,36,0,34,11,150,NA,4.45,33.70786517,Starbucks
+Caramel Macchiato,Grande,2%,250,7,4.5,0.2,25,150,35,0,33,10,150,250,4.95,30.3030303,Starbucks
+Caramel Macchiato,Grande,2%,250,7,4.5,0.2,25,150,35,0,33,10,150,NA,4.45,33.70786517,Starbucks
+Caramel Macchiato,Grande,Whole,280,11,6,0.3,35,140,35,0,33,10,150,250,4.95,30.3030303,Starbucks
+Caramel Macchiato,Grande,Whole,280,11,6,0.3,35,140,35,0,33,10,150,NA,4.45,33.70786517,Starbucks
+Caramel Macchiato,Grande,Soy,210,6,1.5,0,5,120,30,1,26,9,150,250,4.95,30.3030303,Starbucks
+Caramel Macchiato,Grande,Soy,210,6,1.5,0,5,120,30,1,26,9,150,NA,4.45,33.70786517,Starbucks
+Caramel Macchiato,Grande,Coconut,200,8,7,0,5,130,32,0,29,1,150,250,4.95,30.3030303,Starbucks
+Caramel Macchiato,Grande,Coconut,200,8,7,0,5,130,32,0,29,1,150,NA,4.45,33.70786517,Starbucks
+Caramel Macchiato,Venti,Nonfat,250,1.5,1,0,10,170,45,0,42,13,150,310,5.25,28.57142857,Starbucks
+Caramel Macchiato,Venti,Nonfat,250,1.5,1,0,10,170,45,0,42,13,150,NA,4.75,31.57894737,Starbucks
+Caramel Macchiato,Venti,2%,310,9,6,0.3,35,190,44,0,42,13,150,310,5.25,28.57142857,Starbucks
+Caramel Macchiato,Venti,2%,310,9,6,0.3,35,190,44,0,42,13,150,NA,4.75,31.57894737,Starbucks
+Caramel Macchiato,Venti,Whole,350,13,8,0.4,40,170,44,0,42,12,150,310,5.25,28.57142857,Starbucks
+Caramel Macchiato,Venti,Whole,350,13,8,0.4,40,170,44,0,42,12,150,NA,4.75,31.57894737,Starbucks
+Caramel Macchiato,Venti,Soy,260,7,1.5,0,5,150,38,1,33,11,150,310,5.25,28.57142857,Starbucks
+Caramel Macchiato,Venti,Soy,260,7,1.5,0,5,150,38,1,33,11,150,NA,4.75,31.57894737,Starbucks
+Caramel Macchiato,Venti,Coconut,250,10,9,0,5,170,39,0,36,1,150,310,5.25,28.57142857,Starbucks
+Caramel Macchiato,Venti,Coconut,250,10,9,0,5,170,39,0,36,1,150,NA,4.75,31.57894737,Starbucks
+Iced Caramel Macchiato,Tall,Nonfat,140,1.5,1,0,10,100,26,0,24,7,75,180,4.45,16.85393258,Starbucks
+Iced Caramel Macchiato,Tall,Nonfat,140,1.5,1,0,10,100,26,0,24,7,75,NA,3.75,20,Starbucks
+Iced Caramel Macchiato,Tall,2%,180,5,3.5,0.2,20,110,26,0,24,7,75,180,4.45,16.85393258,Starbucks
+Iced Caramel Macchiato,Tall,2%,180,5,3.5,0.2,20,110,26,0,24,7,75,NA,3.75,20,Starbucks
+Iced Caramel Macchiato,Tall,Whole,200,8,4.5,0.2,25,100,26,0,24,7,75,180,4.45,16.85393258,Starbucks
+Iced Caramel Macchiato,Tall,Whole,200,8,4.5,0.2,25,100,26,0,24,7,75,NA,3.75,20,Starbucks
+Iced Caramel Macchiato,Tall,Soy,160,4.5,1.5,0,5,90,22,1,19,6,75,180,4.45,16.85393258,Starbucks
+Iced Caramel Macchiato,Tall,Soy,160,4.5,1.5,0,5,90,22,1,19,6,75,NA,3.75,20,Starbucks
+Iced Caramel Macchiato,Tall,Coconut,140,6,5,0,5,95,23,0,21,1,75,180,4.45,16.85393258,Starbucks
+Iced Caramel Macchiato,Tall,Coconut,140,6,5,0,5,95,23,0,21,1,75,NA,3.75,20,Starbucks
+Iced Caramel Macchiato,Grande,Nonfat,210,2,1.5,0,10,135,37,0,35,10,150,250,4.95,30.3030303,Starbucks
+Iced Caramel Macchiato,Grande,Nonfat,210,2,1.5,0,10,135,37,0,35,10,150,NA,4.45,33.70786517,Starbucks
+Iced Caramel Macchiato,Grande,2%,250,7,4.5,0.2,25,150,37,0,34,10,150,250,4.95,30.3030303,Starbucks
+Iced Caramel Macchiato,Grande,2%,250,7,4.5,0.2,25,150,37,0,34,10,150,NA,4.45,33.70786517,Starbucks
+Iced Caramel Macchiato,Grande,Whole,280,11,6,0.3,35,140,37,0,34,9,150,250,4.95,30.3030303,Starbucks
+Iced Caramel Macchiato,Grande,Whole,280,11,6,0.3,35,140,37,0,34,9,150,NA,4.45,33.70786517,Starbucks
+Iced Caramel Macchiato,Grande,Soy,220,6,2,0,5,125,32,1,28,8,150,250,4.95,30.3030303,Starbucks
+Iced Caramel Macchiato,Grande,Soy,220,6,2,0,5,125,32,1,28,8,150,NA,4.45,33.70786517,Starbucks
+Iced Caramel Macchiato,Grande,Coconut,210,8,7,0,5,130,33,0,30,1,150,250,4.95,30.3030303,Starbucks
+Iced Caramel Macchiato,Grande,Coconut,210,8,7,0,5,130,33,0,30,1,150,NA,4.45,33.70786517,Starbucks
+Iced Caramel Macchiato,Venti,Nonfat,290,2.5,1.5,0,15,180,53,0,50,14,225,350,5.45,41.28440367,Starbucks
+Iced Caramel Macchiato,Venti,Nonfat,290,2.5,1.5,0,15,180,53,0,50,14,225,NA,4.95,45.45454545,Starbucks
+Iced Caramel Macchiato,Venti,2%,350,9,6,0.3,35,200,53,0,49,13,225,350,5.45,41.28440367,Starbucks
+Iced Caramel Macchiato,Venti,2%,350,9,6,0.3,35,200,53,0,49,13,225,NA,4.95,45.45454545,Starbucks
+Iced Caramel Macchiato,Venti,Whole,390,14,8,0.4,45,190,53,0,49,13,225,350,5.45,41.28440367,Starbucks
+Iced Caramel Macchiato,Venti,Whole,390,14,8,0.4,45,190,53,0,49,13,225,NA,4.95,45.45454545,Starbucks
+Iced Caramel Macchiato,Venti,Soy,310,8,2,0,5,170,47,1,40,11,225,350,5.45,41.28440367,Starbucks
+Iced Caramel Macchiato,Venti,Soy,310,8,2,0,5,170,47,1,40,11,225,NA,4.95,45.45454545,Starbucks
+Iced Caramel Macchiato,Venti,Coconut,290,10,9,0,5,170,47,0,43,2,225,350,5.45,41.28440367,Starbucks
+Iced Caramel Macchiato,Venti,Coconut,290,10,9,0,5,170,47,0,43,2,225,NA,4.95,45.45454545,Starbucks
+Cinnamon Dolce Latte,Tall,Nonfat,160,0.2,0.1,0,5,110,31,0,30,9,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Tall,Nonfat,220,6,4,0.2,30,115,33,0,31,9,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Tall,2%,200,5,2.5,0.2,20,125,30,0,29,9,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Tall,2%,270,11,6,0.3,45,130,32,0,31,9,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Tall,Whole,230,8,5,0.3,25,110,30,0,29,8,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Tall,Whole,290,14,9,0.4,50,120,32,0,31,9,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Tall,Soy,170,4,0.5,0,0,95,26,1,23,7,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Tall,Soy,240,10,4.5,0.2,20,100,28,1,25,8,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Tall,Coconut,160,6,6,0,0,110,27,0,26,1,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Tall,Coconut,230,12,9,0.2,20,115,29,0,28,1,75,NA,3.65,20.54794521,Starbucks
+Cinnamon Dolce Latte,Grande,Nonfat,210,0.3,0.2,0,5,135,40,0,38,11,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Grande,Nonfat,280,7,4.5,0.2,30,140,43,0,40,12,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Grande,2%,260,6,3,0.2,25,150,40,0,38,11,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Grande,2%,330,13,8,0.4,50,160,42,0,40,12,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Grande,Whole,300,10,6,0.3,30,140,40,0,38,11,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Grande,Whole,370,17,10,0.5,60,150,42,0,40,11,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Grande,Soy,220,5,0.5,0,0,120,34,1,30,9,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Grande,Soy,300,12,5,0.2,25,125,37,1,32,10,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Grande,Coconut,210,7,7,0,0,140,36,0,33,1,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Grande,Coconut,290,14,11,0.2,25,150,38,0,36,2,150,NA,4.25,35.29411765,Starbucks
+Cinnamon Dolce Latte,Venti,Nonfat,270,0.3,0.2,0,10,180,51,0,49,15,150,NA,4.65,32.25806452,Starbucks
+Cinnamon Dolce Latte,Venti,Nonfat,340,7,4.5,0.2,35,190,54,0,51,15,150,NA,4.65,32.25806452,Starbucks
+Cinnamon Dolce Latte,Venti,2%,330,8,4,0.2,35,200,50,0,48,15,150,NA,4.65,32.25806452,Starbucks
+Cinnamon Dolce Latte,Venti,2%,410,15,9,0.5,60,210,53,0,50,15,150,NA,4.65,32.25806452,Starbucks
+Cinnamon Dolce Latte,Venti,Whole,380,14,8,0.4,40,180,50,0,48,14,150,NA,4.65,32.25806452,Starbucks
+Cinnamon Dolce Latte,Venti,Whole,450,21,12,0.5,70,190,53,0,50,14,150,NA,4.65,32.25806452,Starbucks
+Cinnamon Dolce Latte,Venti,Soy,280,6,1,0,0,160,43,2,38,12,150,NA,4.65,32.25806452,Starbucks
+Cinnamon Dolce Latte,Venti,Soy,360,13,5,0.2,25,160,46,2,40,12,150,NA,4.65,32.25806452,Starbucks
+Cinnamon Dolce Latte,Venti,Coconut,270,10,9,0,0,180,45,0,42,2,150,NA,4.65,32.25806452,Starbucks
+Cinnamon Dolce Latte,Venti,Coconut,350,17,14,0.2,25,190,47,0,45,2,150,NA,4.65,32.25806452,Starbucks
+Espresso,Solo,NA,5,0,0,0,0,0,1,0,0,0,75,5,2.45,30.6122449,Starbucks
+Espresso,Doppio,NA,10,0,0,0,0,0,2,0,0,1,150,10,2.65,56.60377358,Starbucks
+Espresso,Triple,NA,15,0,0,0,0,0,3,0,0,2,225,15,2.95,76.27118644,Starbucks
+Espresso,Quad,NA,20,0,0,0,0,0,4,0,0,2,300,20,3.25,92.30769231,Starbucks
+Iced Espresso,Solo,NA,5,0,0,0,0,0,1,0,0,0,75,5,2.45,30.6122449,Starbucks
+Iced Espresso,Doppio,NA,10,0,0,0,0,0,2,0,0,1,150,10,2.65,56.60377358,Starbucks
+Iced Espresso,Triple,NA,15,0,0,0,0,0,3,0,0,2,225,15,2.95,76.27118644,Starbucks
+Iced Espresso,Quad,NA,20,0,0,0,0,0,4,0,0,2,300,25,3.25,92.30769231,Starbucks
+Espresso Con Panna,Solo,NA,30,2.5,1.5,0,10,3,2,0,1,0.5,75,30,2.55,29.41176471,Starbucks
+Espresso Con Panna,Doppio,NA,35,2.5,1.5,0.1,10,3,3,0,1,1,150,35,2.75,54.54545455,Starbucks
+Espresso Con Panna,Triple,NA,40,2.5,1.5,0.1,10,0,4,0,1,1,225,40,3.05,73.7704918,Starbucks
+Espresso Con Panna,Quad,NA,50,2.5,1.5,0.1,10,0,5,0,1,2,300,45,3.35,89.55223881,Starbucks
+Espresso Macchiato,Solo,Nonfat,5,0,0,0,0,2,1,0,0,0.5,75,10,2.55,29.41176471,Starbucks
+Espresso Macchiato,Solo,2%,10,0.1,0,0,0,2,1,0,0,0.5,75,10,2.55,29.41176471,Starbucks
+Espresso Macchiato,Solo,Whole,10,0.1,0.1,0,0,2,1,0,0,0.5,75,10,2.55,29.41176471,Starbucks
+Espresso Macchiato,Solo,Soy,5,0.1,0,0,0,2,1,0,0,0.4,75,10,2.55,29.41176471,Starbucks
+Espresso Macchiato,Solo,Coconut,5,0.1,0.1,0,0,2,1,0,0,0.3,75,10,2.55,29.41176471,Starbucks
+Espresso Macchiato,Doppio,Nonfat,15,0,0,0,0,2,2,0,0,1,150,15,2.75,54.54545455,Starbucks
+Espresso Macchiato,Doppio,2%,15,0.1,0,0,0,2,2,0,0,1,150,15,2.75,54.54545455,Starbucks
+Espresso Macchiato,Doppio,Whole,15,0.1,0,0,0,2,2,0,0,1,150,15,2.75,54.54545455,Starbucks
+Espresso Macchiato,Doppio,Soy,15,0.1,0,0,0,2,2,0,0,1,150,15,2.75,54.54545455,Starbucks
+Espresso Macchiato,Doppio,Coconut,10,0.1,0.1,0,0,2,2,0,0,1,150,15,2.75,54.54545455,Starbucks
+Espresso Macchiato,Triple,Nonfat,20,0,0,0,0,2,3,0,0,1,225,20,3.05,73.7704918,Starbucks
+Espresso Macchiato,Triple,2%,20,0.1,0,0,0,2,3,0,0,1,225,20,3.05,73.7704918,Starbucks
+Espresso Macchiato,Triple,Whole,20,0.1,0,0,0,2,3,0,0,1,225,20,3.05,73.7704918,Starbucks
+Espresso Macchiato,Triple,Soy,20,0.1,0,0,0,2,3,0,0,1,225,20,3.05,73.7704918,Starbucks
+Espresso Macchiato,Triple,Coconut,20,0.1,0.1,0,0,2,3,0,0,1,225,20,3.05,73.7704918,Starbucks
+Espresso Macchiato,Quad,Nonfat,25,0,0,0,0,2,4,0,0,2,300,25,3.35,89.55223881,Starbucks
+Espresso Macchiato,Quad,2%,25,0.1,0,0,0,2,4,0,0,2,300,25,3.35,89.55223881,Starbucks
+Espresso Macchiato,Quad,Whole,25,0.1,0,0,0,2,4,0,0,2,300,25,3.35,89.55223881,Starbucks
+Espresso Macchiato,Quad,Soy,25,0.1,0,0,0,2,4,0,0,2,300,25,3.35,89.55223881,Starbucks
+Espresso Macchiato,Quad,Coconut,25,0.1,0.1,0,0,2,4,0,0,2,300,25,3.35,89.55223881,Starbucks
+Flat White,Short,Nonfat,60,0.1,0.1,0,5,70,9,0,8,6,130,110,4.15,31.3253012,Starbucks
+Flat White,Short,2%,90,3.5,2,0.1,15,80,9,0,8,6,130,110,4.15,31.3253012,Starbucks
+Flat White,Short,Whole,110,5,3,0.2,15,70,9,0,8,6,130,110,4.15,31.3253012,Starbucks
+Flat White,Short,Soy,70,2.5,0.3,0,0,65,6,1,4,5,130,110,4.15,31.3253012,Starbucks
+Flat White,Short,Coconut,60,4,3.5,0,0,70,7,0,5,1,130,110,4.15,31.3253012,Starbucks
+Flat White,Tall,Nonfat,100,0.2,0.2,0,5,115,15,0,13,10,130,170,4.25,30.58823529,Starbucks
+Flat White,Tall,Nonfat,100,0.2,0.2,0,5,115,15,0,13,10,130,NA,3.75,34.66666667,Starbucks
+Flat White,Tall,2%,140,5,3.5,0.2,20,130,14,0,13,9,130,170,4.25,30.58823529,Starbucks
+Flat White,Tall,2%,140,5,3.5,0.2,20,130,14,0,13,9,130,NA,3.75,34.66666667,Starbucks
+Flat White,Tall,Whole,170,9,5,0.3,25,115,14,0,13,9,130,170,4.25,30.58823529,Starbucks
+Flat White,Tall,Whole,170,9,5,0.3,25,115,14,0,13,9,130,NA,3.75,34.66666667,Starbucks
+Flat White,Tall,Soy,110,4,0.5,0,0,100,10,1,6,8,130,170,4.25,30.58823529,Starbucks
+Flat White,Tall,Soy,110,4,0.5,0,0,100,10,1,6,8,130,NA,3.75,34.66666667,Starbucks
+Flat White,Tall,Coconut,100,6,6,0,0,110,11,0,9,1,130,170,4.25,30.58823529,Starbucks
+Flat White,Tall,Coconut,100,6,6,0,0,110,11,0,9,1,130,NA,3.75,34.66666667,Starbucks
+Flat White,Grande,Nonfat,130,0.3,0.2,0,5,150,19,0,17,12,195,220,4.75,41.05263158,Starbucks
+Flat White,Grande,2%,180,7,4.5,0.3,30,160,18,0,17,12,195,220,4.75,41.05263158,Starbucks
+Flat White,Grande,Whole,220,11,7,0.3,35,150,18,0,17,12,195,220,4.75,41.05263158,Starbucks
+Flat White,Grande,Soy,150,5,0.5,0,0,130,13,1,8,10,195,220,4.75,41.05263158,Starbucks
+Flat White,Grande,Coconut,130,8,7,0,0,140,14,0,11,1,195,220,4.75,41.05263158,Starbucks
+Flat White,Venti,Nonfat,170,0.4,0.3,0,10,190,24,0,23,16,195,290,5.25,37.14285714,Starbucks
+Flat White,Venti,2%,240,9,6,0.4,35,220,24,0,22,16,195,290,5.25,37.14285714,Starbucks
+Flat White,Venti,Whole,290,15,9,0.4,45,200,24,0,22,15,195,290,5.25,37.14285714,Starbucks
+Flat White,Venti,Soy,190,7,1,0,0,170,16,2,11,13,195,290,5.25,37.14285714,Starbucks
+Flat White,Venti,Coconut,170,10,10,0,0,190,18,0,15,2,195,290,5.25,37.14285714,Starbucks
+White Chocolate Mocha,Short,Nonfat,180,3,2.5,0,5,115,30,0,29,7,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Short,Nonfat,230,8,6,0.2,25,120,32,0,30,7,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Short,2%,200,6,3.5,0.1,15,120,30,0,29,7,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Short,2%,250,11,7,0.2,35,125,32,0,30,7,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Short,Whole,210,8,5,0.1,15,115,30,0,29,7,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Short,Whole,270,13,8,0.3,35,120,32,0,30,7,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Short,Soy,180,5,2.5,0,5,105,28,1,25,6,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Short,Soy,230,10,6,0.2,20,110,29,1,26,6,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Short,Coconut,180,6,5,0,5,115,28,0,27,3,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Short,Coconut,230,11,9,0.2,20,120,30,0,28,3,75,230,4.55,16.48351648,Starbucks
+White Chocolate Mocha,Tall,Nonfat,270,4.5,3.5,0,10,180,46,0,45,11,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,Nonfat,270,4.5,3.5,0,10,180,46,0,45,11,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Tall,Nonfat,330,10,7,0.2,30,190,48,0,46,12,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,Nonfat,330,10,7,0.2,30,190,48,0,46,12,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Tall,2%,300,9,6,0.1,25,190,46,0,44,11,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,2%,300,9,6,0.1,25,190,46,0,44,11,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Tall,2%,370,15,10,0.3,45,200,47,0,46,11,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,2%,370,15,10,0.3,45,200,47,0,46,11,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Tall,Whole,330,12,8,0.2,30,180,46,0,44,11,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,Whole,330,12,8,0.2,30,180,46,0,44,11,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Tall,Whole,390,18,12,0.4,50,190,47,0,46,11,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,Whole,390,18,12,0.4,50,190,47,0,46,11,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Tall,Soy,280,8,4,0,5,170,41,1,38,10,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,Soy,280,8,4,0,5,170,41,1,38,10,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Tall,Soy,340,14,8,0.2,25,170,43,1,40,10,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,Soy,340,14,8,0.2,25,170,43,1,40,10,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Tall,Coconut,270,10,9,0,5,180,42,0,41,4,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,Coconut,270,10,9,0,5,180,42,0,41,4,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Tall,Coconut,330,16,12,0.2,25,180,44,0,43,4,75,340,4.65,16.12903226,Starbucks
+White Chocolate Mocha,Tall,Coconut,330,16,12,0.2,25,180,44,0,43,4,75,NA,3.75,20,Starbucks
+White Chocolate Mocha,Grande,Nonfat,350,6,4.5,0,10,230,61,0,58,14,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,Nonfat,350,6,4.5,0,10,230,61,0,58,14,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Grande,Nonfat,420,13,9,0.2,35,240,63,0,60,15,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,Nonfat,420,13,9,0.2,35,240,63,0,60,15,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Grande,2%,400,11,7,0.2,30,240,60,0,58,14,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,2%,400,11,7,0.2,30,240,60,0,58,14,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Grande,2%,470,18,12,0.4,55,250,62,0,59,14,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,2%,470,18,12,0.4,55,250,62,0,59,14,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Grande,Whole,430,15,10,0.3,35,230,60,0,58,14,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,Whole,430,15,10,0.3,35,230,60,0,58,14,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Grande,Whole,500,22,14,0.5,60,240,62,0,59,14,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,Whole,500,22,14,0.5,60,240,62,0,59,14,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Grande,Soy,360,10,5,0,5,210,55,1,51,12,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,Soy,360,10,5,0,5,210,55,1,51,12,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Grande,Soy,430,17,10,0.2,30,220,57,1,52,13,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,Soy,430,17,10,0.2,30,220,57,1,52,13,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Grande,Coconut,350,12,11,0,5,230,56,0,54,5,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,Coconut,350,12,11,0,5,230,56,0,54,5,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Grande,Coconut,420,19,15,0.2,30,230,58,0,56,6,150,430,4.95,30.3030303,Starbucks
+White Chocolate Mocha,Grande,Coconut,420,19,15,0.2,30,230,58,0,56,6,150,NA,4.45,33.70786517,Starbucks
+White Chocolate Mocha,Venti,Nonfat,440,7,6,0,15,300,77,0,74,18,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,Nonfat,440,7,6,0,15,300,77,0,74,18,150,NA,4.75,31.57894737,Starbucks
+White Chocolate Mocha,Venti,Nonfat,510,14,10,0.2,40,300,79,0,76,19,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,Nonfat,510,14,10,0.2,40,300,79,0,76,19,150,NA,4.75,31.57894737,Starbucks
+White Chocolate Mocha,Venti,2%,500,15,10,0.2,35,320,76,0,74,18,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,2%,500,15,10,0.2,35,320,76,0,74,18,150,NA,4.75,31.57894737,Starbucks
+White Chocolate Mocha,Venti,2%,580,22,14,0.4,65,320,78,0,75,19,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,2%,580,22,14,0.4,65,320,78,0,75,19,150,NA,4.75,31.57894737,Starbucks
+White Chocolate Mocha,Venti,Whole,550,20,13,0.4,45,300,76,0,74,18,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,Whole,550,20,13,0.4,45,300,76,0,74,18,150,NA,4.75,31.57894737,Starbucks
+White Chocolate Mocha,Venti,Whole,620,27,17,0.5,70,310,78,0,75,18,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,Whole,620,27,17,0.5,70,310,78,0,75,18,150,NA,4.75,31.57894737,Starbucks
+White Chocolate Mocha,Venti,Soy,460,13,6,0,5,270,69,1,64,16,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,Soy,460,13,6,0,5,270,69,1,64,16,150,NA,4.75,31.57894737,Starbucks
+White Chocolate Mocha,Venti,Soy,530,20,11,0.2,30,280,71,1,65,16,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,Soy,530,20,11,0.2,30,280,71,1,65,16,150,NA,4.75,31.57894737,Starbucks
+White Chocolate Mocha,Venti,Coconut,450,16,14,0,5,290,71,0,68,6,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,Coconut,450,16,14,0,5,290,71,0,68,6,150,NA,4.75,31.57894737,Starbucks
+White Chocolate Mocha,Venti,Coconut,520,23,18,0.2,30,300,73,0,70,7,150,530,5.45,27.52293578,Starbucks
+White Chocolate Mocha,Venti,Coconut,520,23,18,0.2,30,300,73,0,70,7,150,NA,4.75,31.57894737,Starbucks
+Iced White Chocolate Mocha,Tall,Nonfat,230,4.5,3.5,0,5,135,41,0,40,8,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Tall,Nonfat,310,12,8,0.2,35,150,43,0,41,8,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Tall,2%,250,7,5,0.1,15,140,41,0,39,8,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Tall,2%,330,15,10,0.3,45,150,43,0,41,8,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Tall,Whole,270,9,6,0.1,15,140,41,0,39,7,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Tall,Whole,350,17,11,0.4,45,150,43,0,41,8,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Tall,Soy,240,6,3.5,0,5,130,38,1,36,7,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Tall,Soy,320,14,9,0.2,35,140,41,1,38,7,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Tall,Coconut,230,7,6,0,5,135,39,0,37,3,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Tall,Coconut,310,15,11,0.2,35,140,41,0,39,4,75,310,4.65,16.12903226,Starbucks
+Iced White Chocolate Mocha,Grande,Nonfat,310,6,4.5,0,10,170,54,0,52,10,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Grande,Nonfat,420,17,12,0.3,50,190,58,0,55,11,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Grande,2%,330,9,6,0.1,20,180,54,0,52,10,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Grande,2%,450,20,13,0.4,60,200,57,0,54,11,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Grande,Whole,350,11,8,0.2,20,180,54,0,52,10,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Grande,Whole,470,22,15,0.5,65,190,57,0,54,10,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Grande,Soy,320,8,5,0,5,170,51,1,48,9,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Grande,Soy,430,19,12,0.3,45,180,55,1,50,10,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Grande,Coconut,310,9,8,0,5,170,52,0,49,5,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Grande,Coconut,420,20,15,0.3,45,180,55,0,52,5,150,420,4.95,30.3030303,Starbucks
+Iced White Chocolate Mocha,Venti,Nonfat,450,9,7,0,10,260,81,0,77,14,225,560,5.65,39.82300885,Starbucks
+Iced White Chocolate Mocha,Venti,Nonfat,570,20,14,0.3,55,270,84,0,80,15,225,560,5.65,39.82300885,Starbucks
+Iced White Chocolate Mocha,Venti,2%,490,13,9,0.1,25,270,80,0,77,14,225,560,5.65,39.82300885,Starbucks
+Iced White Chocolate Mocha,Venti,2%,600,24,16,0.5,65,280,84,0,79,15,225,560,5.65,39.82300885,Starbucks
+Iced White Chocolate Mocha,Venti,Whole,520,16,11,0.2,30,260,80,0,77,14,225,560,5.65,39.82300885,Starbucks
+Iced White Chocolate Mocha,Venti,Whole,630,27,18,0.5,70,270,84,0,79,15,225,560,5.65,39.82300885,Starbucks
+Iced White Chocolate Mocha,Venti,Soy,470,12,7,0,10,250,77,1,71,13,225,560,5.65,39.82300885,Starbucks
+Iced White Chocolate Mocha,Venti,Soy,580,23,14,0.3,50,260,80,1,74,14,225,560,5.65,39.82300885,Starbucks
+Iced White Chocolate Mocha,Venti,Coconut,450,13,12,0,10,250,77,0,73,7,225,560,5.65,39.82300885,Starbucks
+Iced White Chocolate Mocha,Venti,Coconut,570,25,19,0.3,50,260,80,0,76,8,225,560,5.65,39.82300885,Starbucks
+Iced Black Tea,Tall,NA,60,0,0,0,0,5,15,0,15,0,20,0,2.45,8.163265306,Starbucks
+Iced Black Tea,Grande,NA,80,0,0,0,0,10,20,0,20,0,25,0,2.95,8.474576271,Starbucks
+Iced Black Tea,Venti,NA,120,0,0,0,0,15,30,0,30,0,40,0,3.25,12.30769231,Starbucks
+Iced Black Tea,Trenta,NA,140,0,0,0,0,20,35,0,34,0,50,0,3.65,13.69863014,Starbucks
+Iced Black Tea Lemonade,Tall,NA,90,0,0,0,0,5,24,0,24,0.1,20,35,2.95,6.779661017,Starbucks
+Iced Black Tea Lemonade,Grande,NA,120,0,0,0,0,5,32,0,32,0.1,25,50,3.45,7.246376812,Starbucks
+Iced Black Tea Lemonade,Venti,NA,190,0,0,0,0,10,48,0,47,0.1,40,70,3.95,10.12658228,Starbucks
+Iced Black Tea Lemonade,Trenta,NA,220,0,0,0,0,10,58,0,57,0.1,50,90,4.45,11.23595506,Starbucks
+Chai Tea Latte,Short,Nonfat,100,0.1,0.1,0,0,50,22,0,21,4,50,120,3.85,12.98701299,Starbucks
+Chai Tea Latte,Short,2%,120,2,1,0.1,10,55,22,0,21,4,50,120,3.85,12.98701299,Starbucks
+Chai Tea Latte,Short,Whole,130,3.5,2,0.1,10,55,22,0,21,4,50,120,3.85,12.98701299,Starbucks
+Chai Tea Latte,Short,Soy,110,1.5,0.2,0,0,45,20,0,18,3,50,120,3.85,12.98701299,Starbucks
+Chai Tea Latte,Short,Coconut,100,2.5,2.5,0,0,50,21,0,19,1,50,120,3.85,12.98701299,Starbucks
+Chai Tea Latte,Tall,Nonfat,160,0.2,0.1,0,5,80,34,0,32,6,70,190,3.95,17.72151899,Starbucks
+Chai Tea Latte,Tall,2%,190,3.5,1.5,0.1,15,90,34,0,32,6,70,190,3.95,17.72151899,Starbucks
+Chai Tea Latte,Tall,Whole,200,6,3,0.2,15,80,34,0,32,6,70,190,3.95,17.72151899,Starbucks
+Chai Tea Latte,Tall,Soy,160,2.5,0.3,0,0,70,31,1,28,5,70,190,3.95,17.72151899,Starbucks
+Chai Tea Latte,Tall,Coconut,160,3.5,3.5,0,0,75,31,0,29,1,70,190,3.95,17.72151899,Starbucks
+Chai Tea Latte,Grande,Nonfat,210,0.2,0.1,0,5,105,45,0,43,8,95,240,4.65,20.43010753,Starbucks
+Chai Tea Latte,Grande,2%,240,4.5,2,0.1,20,115,45,0,42,8,95,240,4.65,20.43010753,Starbucks
+Chai Tea Latte,Grande,Whole,270,7,4,0.2,20,105,45,0,42,7,95,240,4.65,20.43010753,Starbucks
+Chai Tea Latte,Grande,Soy,220,3.5,0.4,0,0,90,41,1,37,6,95,240,4.65,20.43010753,Starbucks
+Chai Tea Latte,Grande,Coconut,210,4.5,4.5,0,0,95,41,0,39,1,95,240,4.65,20.43010753,Starbucks
+Chai Tea Latte,Venti,Nonfat,260,0.3,0.2,0,5,135,57,0,54,10,120,310,4.95,24.24242424,Starbucks
+Chai Tea Latte,Venti,2%,310,6,3,0.2,25,150,56,0,53,10,120,310,4.95,24.24242424,Starbucks
+Chai Tea Latte,Venti,Whole,340,9,5,0.3,30,135,56,0,53,10,120,310,4.95,24.24242424,Starbucks
+Chai Tea Latte,Venti,Soy,280,4.5,0.5,0,0,115,51,1,46,8,120,310,4.95,24.24242424,Starbucks
+Chai Tea Latte,Venti,Coconut,260,6,6,0,0,120,52,0,48,1,120,310,4.95,24.24242424,Starbucks
+Iced Chai Tea Latte,Tall,Nonfat,150,0.2,0.1,0,5,75,33,0,31,6,70,180,4.25,16.47058824,Starbucks
+Iced Chai Tea Latte,Tall,2%,180,3,1.5,0.1,10,80,33,0,31,5,70,180,4.25,16.47058824,Starbucks
+Iced Chai Tea Latte,Tall,Whole,190,5,3,0.1,15,75,33,0,31,5,70,180,4.25,16.47058824,Starbucks
+Iced Chai Tea Latte,Tall,Soy,160,2.5,0.3,0,0,70,30,1,27,5,70,180,4.25,16.47058824,Starbucks
+Iced Chai Tea Latte,Tall,Coconut,150,3.5,3,0,0,70,31,0,29,1,70,180,4.25,16.47058824,Starbucks
+Iced Chai Tea Latte,Grande,Nonfat,200,0.2,0.1,0,5,100,44,0,42,8,95,240,4.75,20,Starbucks
+Iced Chai Tea Latte,Grande,2%,240,4,2,0.1,15,110,44,0,42,7,95,240,4.75,20,Starbucks
+Iced Chai Tea Latte,Grande,Whole,260,7,4,0.2,20,105,44,0,42,7,95,240,4.75,20,Starbucks
+Iced Chai Tea Latte,Grande,Soy,220,3.5,0.4,0,0,90,41,1,37,6,95,240,4.75,20,Starbucks
+Iced Chai Tea Latte,Grande,Coconut,200,4.5,4.5,0,0,95,41,0,38,1,95,240,4.75,20,Starbucks
+Iced Chai Tea Latte,Venti,Nonfat,300,0.3,0.2,0,5,140,65,0,62,11,145,350,4.95,29.29292929,Starbucks
+Iced Chai Tea Latte,Venti,2%,350,6,3,0.2,25,160,65,0,61,10,145,350,4.95,29.29292929,Starbucks
+Iced Chai Tea Latte,Venti,Whole,380,9,5,0.3,30,140,65,0,61,10,145,350,4.95,29.29292929,Starbucks
+Iced Chai Tea Latte,Venti,Soy,320,4.5,0.5,0,0,130,60,1,55,9,145,350,4.95,29.29292929,Starbucks
+Iced Chai Tea Latte,Venti,Coconut,300,6,6,0,0,135,61,0,57,1,145,350,4.95,29.29292929,Starbucks
+Iced Green Tea,Tall,NA,60,0,0,0,0,5,15,0,15,0,20,0,2.45,8.163265306,Starbucks
+Iced Green Tea,Grande,NA,80,0,0,0,0,10,20,0,20,0,25,0,2.95,8.474576271,Starbucks
+Iced Green Tea,Venti,NA,120,0,0,0,0,15,30,0,30,0,40,0,3.25,12.30769231,Starbucks
+Iced Green Tea,Trenta,NA,140,0,0,0,0,20,35,0,34,0,50,0,3.65,13.69863014,Starbucks
+Iced Green Tea Lemonade,Tall,NA,90,0,0,0,0,5,24,0,24,0.1,20,35,2.95,6.779661017,Starbucks
+Iced Green Tea Lemonade,Grande,NA,120,0,0,0,0,5,32,0,32,0.1,25,50,3.45,7.246376812,Starbucks
+Iced Green Tea Lemonade,Venti,NA,190,0,0,0,0,10,48,0,47,0.1,40,70,3.95,10.12658228,Starbucks
+Iced Green Tea Lemonade,Trenta,NA,220,0,0,0,0,10,58,0,57,0.1,50,90,4.45,11.23595506,Starbucks
+Jade Citrus Mint Brewed Tea,Short,NA,0,0,0,0,0,0,0,0,0,0,16,0,2.35,6.808510638,Starbucks
+Jade Citrus Mint Brewed Tea,Tall,NA,0,0,0,0,0,0,0,0,0,0,16,0,2.45,6.530612245,Starbucks
+Jade Citrus Mint Brewed Tea,Grande,NA,0,0,0,0,0,0,0,0,0,0,40,0,2.75,14.54545455,Starbucks
+Jade Citrus Mint Brewed Tea,Venti,NA,0,0,0,0,0,0,0,0,0,0,40,0,2.95,13.55932203,Starbucks
+Blended Strawberry Lemonade,Tall,NA,160,0.1,0,0,0,120,40,0,39,0.2,0,130,3.45,0,Starbucks
+Blended Strawberry Lemonade,Grande,NA,200,0.1,0,0,0,160,52,1,50,0.3,0,190,3.95,0,Starbucks
+Blended Strawberry Lemonade,Venti,NA,280,0.1,0,0,0,210,71,1,69,0.4,0,260,4.45,0,Starbucks
+Caramel Apple Spice,Short,NA,140,0,0,0,0,10,35,0,33,0,0,220,2.85,0,Starbucks
+Caramel Apple Spice,Short,NA,210,6,3.5,0.2,20,20,40,0,37,0.3,0,220,2.85,0,Starbucks
+Caramel Apple Spice,Tall,NA,210,0,0,0,0,15,53,0,49,0,0,310,2.95,0,Starbucks
+Caramel Apple Spice,Tall,NA,300,7,4.5,0.2,25,30,59,0,55,0.4,0,310,2.95,0,Starbucks
+Caramel Apple Spice,Grande,NA,280,0,0,0,0,20,70,0,65,0,0,380,3.45,0,Starbucks
+Caramel Apple Spice,Grande,NA,380,8,5,0.2,30,35,76,0,71,0.5,0,380,3.45,0,Starbucks
+Caramel Apple Spice,Venti,NA,360,0,0,0,0,25,89,0,83,0,0,460,3.65,0,Starbucks
+Caramel Apple Spice,Venti,NA,450,8,5,0.2,30,40,95,0,88,0.5,0,460,3.65,0,Starbucks
+Hot Chocolate,Short,Nonfat,140,1.5,1,0,5,70,26,2,23,7,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Short,Nonfat,200,6,4,0.2,20,95,29,2,24,8,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Short,2%,170,4.5,3,0.1,15,80,26,2,22,7,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Short,2%,230,10,6,0.3,30,85,28,2,24,7,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Short,Whole,190,7,4,0.2,15,70,26,2,22,7,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Short,Whole,250,12,7,0.3,35,80,28,2,24,7,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Short,Soy,150,3.5,1,0,0,60,23,3,18,6,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Short,Soy,210,9,4.5,0.2,20,65,25,3,20,6,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Short,Coconut,140,5,4.5,0,0,70,23,2,20,2,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Short,Coconut,200,10,8,0.2,20,75,26,2,22,2,15,190,2.85,5.263157895,Starbucks
+Hot Chocolate,Tall,Nonfat,210,2,1,0,5,110,37,3,32,11,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Tall,Nonfat,280,8,5,0.2,30,115,40,3,34,11,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Tall,2%,250,7,4.5,0.2,20,125,37,3,32,11,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Tall,2%,320,13,8,0.4,45,130,39,3,34,11,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Tall,Whole,280,10,6,0.3,25,110,37,3,32,10,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Tall,Whole,350,16,10,0.4,50,120,39,3,34,11,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Tall,Soy,220,6,1.5,0,0,95,32,4,25,9,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Tall,Soy,290,12,5,0.2,25,100,35,4,28,9,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Tall,Coconut,210,8,7,0,0,110,33,3,28,3,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Tall,Coconut,280,14,10,0.2,25,115,36,3,31,3,20,280,2.95,6.779661017,Starbucks
+Hot Chocolate,Grande,Nonfat,270,2.5,1.5,0,5,140,47,4,41,14,25,370,3.45,7.246376812,Starbucks
+Hot Chocolate,Grande,Nonfat,350,10,6,0.2,35,150,51,4,43,15,25,370,3.45,7.246376812,Starbucks
+Hot Chocolate,Grande,2%,320,9,6,0.3,25,160,47,4,41,14,25,370,3.45,7.246376812,Starbucks
+Hot Chocolate,Grande,2%,400,16,10,0.5,55,170,50,4,43,14,25,370,3.45,7.246376812,Starbucks
+Hot Chocolate,Grande,Whole,360,13,8,0.3,35,150,47,4,41,13,25,370,3.45,7.246376812,Starbucks
+Hot Chocolate,Grande,Whole,440,20,12,0.5,60,150,50,4,43,14,25,370,3.45,7.246376812,Starbucks
+Hot Chocolate,Grande,Soy,280,8,2,0,0,125,41,5,32,12,25,370,3.45,7.246376812,Starbucks
+Hot Chocolate,Grande,Soy,360,15,7,0.2,25,130,44,5,35,12,25,370,3.45,7.246376812,Starbucks
+Hot Chocolate,Grande,Coconut,270,10,9,0,0,140,42,4,35,4,25,370,3.45,7.246376812,Starbucks
+Hot Chocolate,Grande,Coconut,350,17,13,0.2,25,150,46,4,38,4,30,370,3.45,8.695652174,Starbucks
+Hot Chocolate,Venti,Nonfat,350,3.5,2,0,10,180,63,5,55,18,35,450,3.65,9.589041096,Starbucks
+Hot Chocolate,Venti,Nonfat,430,10,6,0.2,35,190,66,5,58,18,35,450,3.65,9.589041096,Starbucks
+Hot Chocolate,Venti,2%,420,11,7,0.4,35,200,62,5,55,17,35,450,3.65,9.589041096,Starbucks
+Hot Chocolate,Venti,2%,500,19,12,0.5,60,210,66,5,57,18,35,450,3.65,9.589041096,Starbucks
+Hot Chocolate,Venti,Whole,470,17,10,0.4,45,190,62,5,55,17,35,450,3.65,9.589041096,Starbucks
+Hot Chocolate,Venti,Whole,550,24,14,0.5,70,190,66,5,57,17,35,450,3.65,9.589041096,Starbucks
+Hot Chocolate,Venti,Soy,370,9,2.5,0,0,160,55,7,44,15,35,450,3.65,9.589041096,Starbucks
+Hot Chocolate,Venti,Soy,450,17,7,0.2,25,170,58,7,46,15,35,450,3.65,9.589041096,Starbucks
+Hot Chocolate,Venti,Coconut,360,13,11,0,0,180,57,5,48,4,35,450,3.65,9.589041096,Starbucks
+Hot Chocolate,Venti,Coconut,430,20,15,0.2,25,190,60,5,51,5,35,450,3.65,9.589041096,Starbucks
+Lemonade,Kids,NA,80,0,0,0,0,0,21,0,21,0.1,0,80,1.95,0,Starbucks
+Lemonade,Tall,NA,80,0,0,0,0,0,21,0,21,0.1,0,80,3.15,0,Starbucks
+Lemonade,Grande,NA,110,0,0,0,0,1,29,0,29,0.2,0,120,3.25,0,Starbucks
+Lemonade,Venti,NA,150,0,0,0,0,1,41,0,41,0.2,0,160,3.55,0,Starbucks
+Lemonade,Trenta,NA,180,0,0,0,0,1,49,0,49,0.3,0,200,4.45,0,Starbucks
+Steamed Apple Juice,Short,NA,120,0,0,0,0,10,30,0,27,0,0,120,2.35,0,Starbucks
+Steamed Apple Juice,Tall,NA,170,0,0,0,0,15,44,0,39,0,0,170,2.45,0,Starbucks
+Steamed Apple Juice,Grande,NA,220,0,0,0,0,20,55,0,50,0,0,220,2.65,0,Starbucks
+Steamed Apple Juice,Venti,NA,280,0,0,0,0,25,69,0,62,0,0,280,2.95,0,Starbucks
+Steamed Milk,Kids,Nonfat,70,0.2,0.1,0,5,85,10,0,10,7,0,100,1.95,0,Starbucks
+Steamed Milk,Kids,2%,100,4,2,0.1,15,95,10,0,10,7,0,100,1.95,0,Starbucks
+Steamed Milk,Kids,Whole,120,7,4,0.2,20,90,10,0,10,6,0,100,1.95,0,Starbucks
+Steamed Milk,Kids,Soy,80,3,0.4,0,0,75,6,1,5,5,0,100,1.95,0,Starbucks
+Steamed Milk,Kids,Coconut,70,5,4.5,0,0,85,7,0,7,0.5,0,100,1.95,0,Starbucks
+Steamed Milk,Short,Nonfat,70,0.2,0.1,0,5,85,10,0,10,7,0,100,2.35,0,Starbucks
+Steamed Milk,Short,2%,100,4,2,0.1,15,95,10,0,10,7,0,100,2.35,0,Starbucks
+Steamed Milk,Short,Whole,120,7,4,0.2,20,90,10,0,10,6,0,100,2.35,0,Starbucks
+Steamed Milk,Short,Soy,80,3,0.4,0,0,75,6,1,5,5,0,100,2.35,0,Starbucks
+Steamed Milk,Short,Coconut,70,5,4.5,0,0,85,7,0,7,0.5,0,100,2.35,0,Starbucks
+Steamed Milk,Tall,Nonfat,110,0.2,0.2,0,5,130,15,0,15,10,0,160,2.45,0,Starbucks
+Steamed Milk,Tall,2%,160,6,3,0.2,25,150,15,0,15,10,0,160,2.45,0,Starbucks
+Steamed Milk,Tall,Whole,190,10,6,0.3,30,135,15,0,15,10,0,160,2.45,0,Starbucks
+Steamed Milk,Tall,Soy,120,4.5,0.5,0,0,110,9,1,7,8,0,160,2.45,0,Starbucks
+Steamed Milk,Tall,Coconut,110,7,7,0,0,130,11,0,11,1,0,160,2.45,0,Starbucks
+Steamed Milk,Grande,Nonfat,140,0.3,0.2,0,10,170,20,0,20,14,0,200,2.65,0,Starbucks
+Steamed Milk,Grande,2%,200,8,4,0.2,30,190,19,0,19,13,0,200,2.65,0,Starbucks
+Steamed Milk,Grande,Whole,250,13,8,0.4,40,170,19,0,19,13,0,200,2.65,0,Starbucks
+Steamed Milk,Grande,Soy,150,6,1,0,0,150,12,2,9,11,0,200,2.65,0,Starbucks
+Steamed Milk,Grande,Coconut,150,9,9,0,0,170,15,0,14,1,0,200,2.65,0,Starbucks
+Steamed Milk,Venti,Nonfat,170,0.4,0.3,0,10,220,25,0,25,17,0,260,2.95,0,Starbucks
+Steamed Milk,Venti,2%,260,10,5,0.3,40,240,25,0,25,17,0,260,2.95,0,Starbucks
+Steamed Milk,Venti,Whole,310,17,10,0.5,50,220,25,0,25,16,0,260,2.95,0,Starbucks
+Steamed Milk,Venti,Soy,200,8,1,0,0,190,16,2,12,14,0,260,2.95,0,Starbucks
+Steamed Milk,Venti,Coconut,180,12,11,0,0,220,18,0,17,1,0,260,2.95,0,Starbucks
+White Hot Chocolate,Short,Nonfat,180,3,2.5,0,5,125,31,0,30,8,0,240,3.35,0,Starbucks
+White Hot Chocolate,Short,Nonfat,230,8,6,0.2,25,130,32,0,32,8,0,240,3.35,0,Starbucks
+White Hot Chocolate,Short,2%,210,6,4,0.1,15,135,30,0,30,8,0,240,3.35,0,Starbucks
+White Hot Chocolate,Short,2%,260,11,7,0.3,35,140,32,0,31,8,0,240,3.35,0,Starbucks
+White Hot Chocolate,Short,Whole,220,8,5,0.2,20,125,30,0,30,7,0,240,3.35,0,Starbucks
+White Hot Chocolate,Short,Whole,280,14,9,0.3,40,130,32,0,31,8,0,240,3.35,0,Starbucks
+White Hot Chocolate,Short,Soy,190,5,2.5,0,5,115,27,1,26,6,0,240,3.35,0,Starbucks
+White Hot Chocolate,Short,Soy,240,11,6,0.2,20,120,29,1,27,7,0,240,3.35,0,Starbucks
+White Hot Chocolate,Short,Coconut,180,7,6,0,5,125,28,0,28,2,0,240,3.35,0,Starbucks
+White Hot Chocolate,Short,Coconut,230,12,9,0.2,20,130,30,0,29,3,0,240,3.35,0,Starbucks
+White Hot Chocolate,Tall,Nonfat,270,4.5,3.5,0,10,190,46,0,46,12,0,350,3.45,0,Starbucks
+White Hot Chocolate,Tall,Nonfat,330,11,7,0.2,30,200,48,0,47,12,0,350,3.45,0,Starbucks
+White Hot Chocolate,Tall,2%,310,9,6,0.2,25,200,46,0,46,12,0,350,3.45,0,Starbucks
+White Hot Chocolate,Tall,2%,370,16,10,0.3,45,210,48,0,47,12,0,350,3.45,0,Starbucks
+White Hot Chocolate,Tall,Whole,340,13,8,0.3,30,190,46,0,46,11,0,350,3.45,0,Starbucks
+White Hot Chocolate,Tall,Whole,400,19,12,0.4,55,200,48,0,47,11,0,350,3.45,0,Starbucks
+White Hot Chocolate,Tall,Soy,280,8,4,0,5,180,41,1,39,10,0,350,3.45,0,Starbucks
+White Hot Chocolate,Tall,Soy,340,14,8,0.2,25,180,43,1,40,10,0,350,3.45,0,Starbucks
+White Hot Chocolate,Tall,Coconut,270,10,9,0,5,190,42,0,42,3,0,350,3.45,0,Starbucks
+White Hot Chocolate,Tall,Coconut,330,16,13,0.2,25,190,44,0,43,4,0,350,3.45,0,Starbucks
+White Hot Chocolate,Grande,Nonfat,360,6,5,0,10,250,61,0,61,15,0,440,3.95,0,Starbucks
+White Hot Chocolate,Grande,Nonfat,430,13,9,0.2,40,260,63,0,62,16,0,440,3.95,0,Starbucks
+White Hot Chocolate,Grande,2%,410,12,8,0.2,30,270,61,0,60,15,0,440,3.95,0,Starbucks
+White Hot Chocolate,Grande,2%,480,19,12,0.4,60,270,63,0,62,15,0,440,3.95,0,Starbucks
+White Hot Chocolate,Grande,Whole,450,17,11,0.3,40,250,61,0,60,15,0,440,3.95,0,Starbucks
+White Hot Chocolate,Grande,Whole,520,24,15,0.5,65,260,63,0,62,15,0,440,3.95,0,Starbucks
+White Hot Chocolate,Grande,Soy,370,11,5,0,5,230,55,1,52,13,0,440,3.95,0,Starbucks
+White Hot Chocolate,Grande,Soy,440,18,10,0.2,30,240,57,1,53,13,0,440,3.95,0,Starbucks
+White Hot Chocolate,Grande,Coconut,360,13,12,0,5,250,56,0,55,5,0,440,3.95,0,Starbucks
+White Hot Chocolate,Grande,Coconut,430,20,16,0.2,30,250,58,0,57,5,0,440,3.95,0,Starbucks
+White Hot Chocolate,Venti,Nonfat,450,7,6,0,15,320,77,0,77,20,0,540,4.15,0,Starbucks
+White Hot Chocolate,Venti,Nonfat,520,14,10,0.2,40,320,79,0,78,20,0,540,4.15,0,Starbucks
+White Hot Chocolate,Venti,2%,520,16,10,0.3,40,340,76,0,76,19,0,540,4.15,0,Starbucks
+White Hot Chocolate,Venti,2%,590,23,15,0.5,65,350,78,0,78,20,0,540,4.15,0,Starbucks
+White Hot Chocolate,Venti,Whole,570,21,14,0.4,50,320,76,0,76,19,0,540,4.15,0,Starbucks
+White Hot Chocolate,Venti,Whole,640,28,18,0.5,75,330,78,0,78,19,0,540,4.15,0,Starbucks
+White Hot Chocolate,Venti,Soy,470,14,7,0,5,290,69,2,65,16,0,540,4.15,0,Starbucks
+White Hot Chocolate,Venti,Soy,540,21,11,0.2,30,300,71,2,67,17,0,540,4.15,0,Starbucks
+White Hot Chocolate,Venti,Coconut,450,17,15,0,5,310,71,0,69,6,0,540,4.15,0,Starbucks
+White Hot Chocolate,Venti,Coconut,520,24,20,0.2,30,320,73,0,71,6,0,540,4.15,0,Starbucks
+Cappuccino,Small,Whole,120,7,4,0,20,85,9,0,9,6,71,120,2,35.5,McDonalds
+Cappuccino,Small,Whole,120,7,4,0,20,85,9,0,9,6,71,160,2.79,25.44802867,McDonalds
+Cappuccino,Small,Whole,120,7,4,0,20,85,9,0,9,6,71,210,3.19,22.25705329,McDonalds
+Cappuccino,Medium,Whole,140,8,4.5,0,25,105,11,0,11,8,142,120,2,71,McDonalds
+Cappuccino,Medium,Whole,140,8,4.5,0,25,105,11,0,11,8,142,160,2.79,50.89605735,McDonalds
+Cappuccino,Medium,Whole,140,8,4.5,0,25,105,11,0,11,8,142,210,3.19,44.51410658,McDonalds
+Cappuccino,Large,Whole,180,10,6,0,30,130,13,0,13,9,178,120,2,89,McDonalds
+Cappuccino,Large,Whole,180,10,6,0,30,130,13,0,13,9,178,160,2.79,63.79928315,McDonalds
+Cappuccino,Large,Whole,180,10,6,0,30,130,13,0,13,9,178,210,3.19,55.79937304,McDonalds
+Latte,Small,Whole,150,8,4.5,0,25,105,11,0,11,8,71,140,2,35.5,McDonalds
+Latte,Small,Whole,150,8,4.5,0,25,105,11,0,11,8,71,190,2.99,23.7458194,McDonalds
+Latte,Small,Whole,150,8,4.5,0,25,105,11,0,11,8,71,250,3.39,20.9439528,McDonalds
+Latte,Medium,Whole,180,10,6,0,30,130,13,0,13,10,142,140,2,71,McDonalds
+Latte,Medium,Whole,180,10,6,0,30,130,13,0,13,10,142,190,2.99,47.4916388,McDonalds
+Latte,Medium,Whole,180,10,6,0,30,130,13,0,13,10,142,250,3.39,41.8879056,McDonalds
+Latte,Large,Whole,210,11,7,0,35,150,16,0,16,11,178,140,2,89,McDonalds
+Latte,Large,Whole,210,11,7,0,35,150,16,0,16,11,178,190,2.99,59.53177258,McDonalds
+Latte,Large,Whole,210,11,7,0,35,150,16,0,16,11,178,250,3.39,52.50737463,McDonalds
+Caramel Cappuccino,Small,Whole,200,5,3,0,15,125,32,0,32,5,71,210,2,35.5,McDonalds
+Caramel Cappuccino,Small,Whole,200,5,3,0,15,125,32,0,32,5,71,260,2.79,25.44802867,McDonalds
+Caramel Cappuccino,Small,Whole,200,5,3,0,15,125,32,0,32,5,71,340,3.19,22.25705329,McDonalds
+Caramel Cappuccino,Medium,Whole,240,6,3.5,0,20,150,41,0,40,6,142,210,2,71,McDonalds
+Caramel Cappuccino,Medium,Whole,240,6,3.5,0,20,150,41,0,40,6,142,260,2.79,50.89605735,McDonalds
+Caramel Cappuccino,Medium,Whole,240,6,3.5,0,20,150,41,0,40,6,142,340,3.19,44.51410658,McDonalds
+Caramel Cappuccino,Large,Whole,290,8,4.5,0,25,190,49,0,49,8,178,210,2,89,McDonalds
+Caramel Cappuccino,Large,Whole,290,8,4.5,0,25,190,49,0,49,8,178,260,2.79,63.79928315,McDonalds
+Caramel Cappuccino,Large,Whole,290,8,4.5,0,25,190,49,0,49,8,178,340,3.19,55.79937304,McDonalds
+Caramel Latte,Small,Whole,230,7,4,0,20,140,35,0,35,7,71,250,2,35.5,McDonalds
+Caramel Latte,Small,Whole,230,7,4,0,20,140,35,0,35,7,71,320,2.99,23.7458194,McDonalds
+Caramel Latte,Small,Whole,230,7,4,0,20,140,35,0,35,7,71,400,3.39,20.9439528,McDonalds
+Caramel Latte,Medium,Whole,280,8,4.5,0,25,170,43,0,43,8,142,250,2,71,McDonalds
+Caramel Latte,Medium,Whole,280,8,4.5,0,25,170,43,0,43,8,142,320,2.99,47.4916388,McDonalds
+Caramel Latte,Medium,Whole,280,8,4.5,0,25,170,43,0,43,8,142,400,3.39,41.8879056,McDonalds
+Caramel Latte,Large,Whole,330,9,5,0,30,210,52,0,51,9,178,250,2,89,McDonalds
+Caramel Latte,Large,Whole,330,9,5,0,30,210,52,0,51,9,178,320,2.99,59.53177258,McDonalds
+Caramel Latte,Large,Whole,330,9,5,0,30,210,52,0,51,9,178,400,3.39,52.50737463,McDonalds
+Hazelnut Cappuccino,Small,Whole,200,5,3,0,15,70,34,0,34,5,71,200,2,35.5,McDonalds
+Hazelnut Cappuccino,Small,Whole,200,5,3,0,15,70,34,0,34,5,71,240,2.79,25.44802867,McDonalds
+Hazelnut Cappuccino,Small,Whole,200,5,3,0,15,70,34,0,34,5,71,320,3.19,22.25705329,McDonalds
+Hazelnut Cappuccino,Medium,Whole,240,6,3.5,0,20,85,42,0,42,6,142,200,2,71,McDonalds
+Hazelnut Cappuccino,Medium,Whole,240,6,3.5,0,20,85,42,0,42,6,142,240,2.79,50.89605735,McDonalds
+Hazelnut Cappuccino,Medium,Whole,240,6,3.5,0,20,85,42,0,42,6,142,320,3.19,44.51410658,McDonalds
+Hazelnut Cappuccino,Large,Whole,290,8,4.5,0,25,105,51,0,51,7,178,200,2,89,McDonalds
+Hazelnut Cappuccino,Large,Whole,290,8,4.5,0,25,105,51,0,51,7,178,240,2.79,63.79928315,McDonalds
+Hazelnut Cappuccino,Large,Whole,290,8,4.5,0,25,105,51,0,51,7,178,320,3.19,55.79937304,McDonalds
+Hazelnut Latte,Small,Whole,230,7,4,0,20,90,36,0,36,7,71,230,2,35.5,McDonalds
+Hazelnut Latte,Small,Whole,230,7,4,0,20,90,36,0,36,7,71,300,2.99,23.7458194,McDonalds
+Hazelnut Latte,Small,Whole,230,7,4,0,20,90,36,0,36,7,71,370,3.39,20.9439528,McDonalds
+Hazelnut Latte,Medium,Whole,280,8,4.5,0,25,110,45,0,45,8,142,230,2,71,McDonalds
+Hazelnut Latte,Medium,Whole,280,8,4.5,0,25,110,45,0,45,8,142,300,2.99,47.4916388,McDonalds
+Hazelnut Latte,Medium,Whole,280,8,4.5,0,25,110,45,0,45,8,142,370,3.39,41.8879056,McDonalds
+Hazelnut Latte,Large,Whole,330,9,5,0,30,130,53,0,53,9,178,230,2,89,McDonalds
+Hazelnut Latte,Large,Whole,330,9,5,0,30,130,53,0,53,9,178,300,2.99,59.53177258,McDonalds
+Hazelnut Latte,Large,Whole,330,9,5,0,30,130,53,0,53,9,178,370,3.39,52.50737463,McDonalds
+Vanilla Cappuccino,Small,Whole,200,5,3,0,15,70,34,0,34,5,71,190,2,35.5,McDonalds
+Vanilla Cappuccino,Small,Whole,200,5,3,0,15,70,34,0,34,5,71,230,2.79,25.44802867,McDonalds
+Vanilla Cappuccino,Small,Whole,200,5,3,0,15,70,34,0,34,5,71,310,3.19,22.25705329,McDonalds
+Vanilla Cappuccino,Medium,Whole,240,6,3.5,0,20,85,42,0,42,6,142,190,2,71,McDonalds
+Vanilla Cappuccino,Medium,Whole,240,6,3.5,0,20,85,42,0,42,6,142,230,2.79,50.89605735,McDonalds
+Vanilla Cappuccino,Medium,Whole,240,6,3.5,0,20,85,42,0,42,6,142,310,3.19,44.51410658,McDonalds
+Vanilla Cappuccino,Large,Whole,290,8,4.5,0,25,105,51,0,51,7,178,190,2,89,McDonalds
+Vanilla Cappuccino,Large,Whole,290,8,4.5,0,25,105,51,0,51,7,178,230,2.79,63.79928315,McDonalds
+Vanilla Cappuccino,Large,Whole,290,8,4.5,0,25,105,51,0,51,7,178,310,3.19,55.79937304,McDonalds
+Mocha,Small,Whole,280,11,6,0,20,125,40,0,33,6,86,300,2,43,McDonalds
+Mocha,Small,Whole,280,11,6,0,20,125,40,0,33,6,86,380,2.99,28.76254181,McDonalds
+Mocha,Small,Whole,280,11,6,0,20,125,40,0,33,6,86,470,3.39,25.36873156,McDonalds
+Mocha,Medium,Whole,330,12,7,0,25,150,48,0,41,7,167,300,2,83.5,McDonalds
+Mocha,Medium,Whole,330,12,7,0,25,150,48,0,41,7,167,380,2.99,55.85284281,McDonalds
+Mocha,Medium,Whole,330,12,7,0,25,150,48,0,41,7,167,470,3.39,49.26253687,McDonalds
+Mocha,Large,Whole,400,14,8,0.5,30,190,58,0,49,10,200,300,2,100,McDonalds
+Mocha,Large,Whole,400,14,8,0.5,30,190,58,0,49,10,200,380,2.99,66.88963211,McDonalds
+Mocha,Large,Whole,400,14,8,0.5,30,190,58,0,49,10,200,470,3.39,58.99705015,McDonalds
+Iced Latte,Small,Whole,80,4.5,2.5,0,15,65,6,0,6,4,71,90,2,35.5,McDonalds
+Iced Latte,Small,Whole,80,4.5,2.5,0,15,65,6,0,6,4,71,120,2.79,25.44802867,McDonalds
+Iced Latte,Small,Whole,80,4.5,2.5,0,15,65,6,0,6,4,71,170,3.19,22.25705329,McDonalds
+Iced Latte,Medium,Whole,100,6,3.5,0,15,80,8,0,8,6,142,90,2,71,McDonalds
+Iced Latte,Medium,Whole,100,6,3.5,0,15,80,8,0,8,6,142,120,2.79,50.89605735,McDonalds
+Iced Latte,Medium,Whole,100,6,3.5,0,15,80,8,0,8,6,142,170,3.19,44.51410658,McDonalds
+Iced Latte,Large,Whole,140,8,4.5,0,25,105,10,0,10,7,178,90,2,89,McDonalds
+Iced Latte,Large,Whole,140,8,4.5,0,25,105,10,0,10,7,178,120,2.79,63.79928315,McDonalds
+Iced Latte,Large,Whole,140,8,4.5,0,25,105,10,0,10,7,178,170,3.19,55.79937304,McDonalds
+Iced Caramel Latte,Small,Whole,160,3,1.5,0,10,100,29,0,29,3,71,180,2,35.5,McDonalds
+Iced Caramel Latte,Small,Whole,160,3,1.5,0,10,100,29,0,29,3,71,220,2.79,25.44802867,McDonalds
+Iced Caramel Latte,Small,Whole,160,3,1.5,0,10,100,29,0,29,3,71,330,3.19,22.25705329,McDonalds
+Iced Caramel Latte,Medium,Whole,180,4.5,2.5,0,15,120,31,0,31,4,142,180,2,71,McDonalds
+Iced Caramel Latte,Medium,Whole,180,4.5,2.5,0,15,120,31,0,31,4,142,220,2.79,50.89605735,McDonalds
+Iced Caramel Latte,Medium,Whole,180,4.5,2.5,0,15,120,31,0,31,4,142,330,3.19,44.51410658,McDonalds
+Iced Caramel Latte,Large,Whole,230,6,3.5,0,15,150,40,0,40,6,178,180,2,89,McDonalds
+Iced Caramel Latte,Large,Whole,230,6,3.5,0,15,150,40,0,40,6,178,220,2.79,63.79928315,McDonalds
+Iced Caramel Latte,Large,Whole,230,6,3.5,0,15,150,40,0,40,6,178,330,3.19,55.79937304,McDonalds
+Iced Hazelnut Latte,Small,Whole,160,3,1.5,0,10,45,31,0,31,3,71,170,2,35.5,McDonalds
+Iced Hazelnut Latte,Small,Whole,160,3,1.5,0,10,45,31,0,31,3,71,200,2.79,25.44802867,McDonalds
+Iced Hazelnut Latte,Small,Whole,160,3,1.5,0,10,45,31,0,31,3,71,310,3.19,22.25705329,McDonalds
+Iced Hazelnut Latte,Medium,Whole,180,4.5,2.5,0,15,65,33,0,33,4,142,170,2,71,McDonalds
+Iced Hazelnut Latte,Medium,Whole,180,4.5,2.5,0,15,65,33,0,33,4,142,200,2.79,50.89605735,McDonalds
+Iced Hazelnut Latte,Medium,Whole,180,4.5,2.5,0,15,65,33,0,33,4,142,310,3.19,44.51410658,McDonalds
+Iced Hazelnut Latte,Large,Whole,230,6,3.5,0,15,85,41,0,41,6,178,170,2,89,McDonalds
+Iced Hazelnut Latte,Large,Whole,230,6,3.5,0,15,85,41,0,41,6,178,200,2.79,63.79928315,McDonalds
+Iced Hazelnut Latte,Large,Whole,230,6,3.5,0,15,85,41,0,41,6,178,310,3.19,55.79937304,McDonalds
+Iced Mocha,Medium,Whole,310,13,8,0,25,140,42,0,35,7,167,280,2,83.5,McDonalds
+Iced Mocha,Medium,Whole,310,13,8,0,25,140,42,0,35,7,167,330,2.99,55.85284281,McDonalds
+Iced Mocha,Medium,Whole,310,13,8,0,25,140,42,0,35,7,167,460,3.39,49.26253687,McDonalds
+Caramel Mocha,Large,Whole,360,14,8,0.5,35,220,47,0,46,10,200,280,2,100,McDonalds
+Caramel Mocha,Large,Whole,360,14,8,0.5,35,220,47,0,46,10,200,330,2.99,66.88963211,McDonalds
+Caramel Mocha,Large,Whole,360,14,8,0.5,35,220,47,0,46,10,200,420,3.39,58.99705015,McDonalds
+Caramel Mocha,Medium,Whole,290,12,7,0,25,180,39,0,38,8,167,280,2,83.5,McDonalds
+Caramel Mocha,Medium,Whole,290,12,7,0,25,180,39,0,38,8,167,330,2.99,55.85284281,McDonalds
+Caramel Mocha,Medium,Whole,290,12,7,0,25,180,39,0,38,8,167,420,3.39,49.26253687,McDonalds
+Caramel Mocha,Small,Whole,250,11,6,0,25,150,33,0,31,7,86,280,2,43,McDonalds
+Caramel Mocha,Small,Whole,250,11,6,0,25,150,33,0,31,7,86,330,2.99,28.76254181,McDonalds
+Caramel Mocha,Small,Whole,250,11,6,0,25,150,33,0,31,7,86,420,3.39,25.36873156,McDonalds
+Iced Caramel Mocha,Large,Whole,380,16,9,0.5,35,210,48,0,46,10,200,230,2,100,McDonalds
+Iced Caramel Mocha,Large,Whole,380,16,9,0.5,35,210,48,0,46,10,200,300,2.99,66.88963211,McDonalds
+Iced Caramel Mocha,Large,Whole,380,16,9,0.5,35,210,48,0,46,10,200,410,3.39,58.99705015,McDonalds
+Iced Caramel Mocha,Medium,Whole,300,14,8,0,30,160,36,0,33,8,167,230,2,83.5,McDonalds
+Iced Caramel Mocha,Medium,Whole,300,14,8,0,30,160,36,0,33,8,167,300,2.99,55.85284281,McDonalds
+Iced Caramel Mocha,Medium,Whole,300,14,8,0,30,160,36,0,33,8,167,410,3.39,49.26253687,McDonalds
+Iced Caramel Mocha,Small,Whole,240,12,7,0,25,130,29,0,26,6,86,230,2,43,McDonalds
+Iced Caramel Mocha,Small,Whole,240,12,7,0,25,130,29,0,26,6,86,300,2.99,28.76254181,McDonalds
+Iced Caramel Mocha,Small,Whole,240,12,7,0,25,130,29,0,26,6,86,410,3.39,25.36873156,McDonalds
