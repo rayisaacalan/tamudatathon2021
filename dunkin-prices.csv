@@ -1,126 +1,81 @@
-NAME,SIZE,CALS,PRICE
-"Coffee (Original Blend, Dark Roast, Decaf)",S,5-130Cal,$1.79
-"Coffee (Original Blend, Dark Roast, Decaf)",M,10-190Cal,$2.09
-"Coffee (Original Blend, Dark Roast, Decaf)",L,10-260Cal,$2.39
-"Coffee (Original Blend, Dark Roast, Decaf)",XL,15-320Cal,$2.69
-Espresso (Regular or Decaf),,5Cal,$1.19
-Add Espresso shot to any Coffee Drink,,5Cal,$1.00
-Add Espresso shot to any Espresso Drink,,5Cal,$0.99
-Latte (Regular or Decaf),S,120Cal,$2.69
-Latte (Regular or Decaf),M,170Cal,$3.19
-Latte (Regular or Decaf),L,230Cal,$3.59
-Cappuccino (Regular or Decaf),S,80Cal,$2.69
-Cappuccino (Regular or Decaf),M,120Cal,$3.19
-Cappuccino (Regular or Decaf),L,160Cal,$3.59
-Macchiato (Regular or Decaf),S,80Cal,$2.99
-Macchiato (Regular or Decaf),M,120Cal,$3.59
-Macchiato (Regular or Decaf),L,160Cal,$4.19
-"Iced Coffee (Original Blend, Dark Roast, Decaf)",S,10-130Cal,$2.19
-"Iced Coffee (Original Blend, Dark Roast, Decaf)",M,15-200Cal,$2.69
-"Iced Coffee (Original Blend, Dark Roast, Decaf)",L,20-270Cal,$3.19
-Cold Brew,S,10-140Cal,$2.59
-Cold Brew,M,15-200Cal,$3.09
-Cold Brew,L,20-270Cal,$3.59
-Iced Latte (Regular or Decaf),S,127Cal,$3.19
-Iced Latte (Regular or Decaf),M,170Cal,$3.69
-Iced Latte (Regular or Decaf),L,230Cal,$4.09
-Iced Macchiato (Regular or Decaf),S,80Cal,$3.39
-Iced Macchiato (Regular or Decaf),M,120Cal,$3.89
-Iced Macchiato (Regular or Decaf),L,160Cal,$4.39
-Coffee Coolatta,S,400Cal,$2.99
-Coffee Coolatta,M,600Cal,$3.99
-Coffee Coolatta,L,800Cal,$4.49
-"Box O' Joe (Original Blend, Dark Roast, Decaf)",10 cups,50Cal,$15.99
-Box O' Joe (Hot Chocolate),10 cups,220Cal,$18.99
-"Coolatta (Strawberry, Orange, Vanilla Bean, Caramel, Mocha)",S,240-420Cal,$2.99
-"Coolatta (Strawberry, Orange, Vanilla Bean, Caramel, Mocha)",M,360-630Cal,$3.99
-"Coolatta (Strawberry, Orange, Vanilla Bean, Caramel, Mocha)",L,470-840Cal,$4.99
-"Cosmic Coolatta (Strawberry, Pineapple, Grape)",S,230-260Cal,$2.99
-"Cosmic Coolatta (Strawberry, Pineapple, Grape)",M,350-400Cal,$3.99
-"Cosmic Coolatta (Strawberry, Pineapple, Grape)",L,460-530Cal,$4.99
-"Smoothies (Strawberry Banana, Mango, Orange, Wildberry)",S,280-290Cal,$3.79
-"Smoothies (Strawberry Banana, Mango, Orange, Wildberry)",M,420-440Cal,$3.99
-"Smoothies (Strawberry Banana, Mango, Orange, Wildberry)",L,560-590Cal,$4.99
-"Iced Tea (Unsweetened) (Plain, Raspberry, Blueberry)",S,5Cal,$0.99
-"Iced Tea (Unsweetened) (Plain, Raspberry, Blueberry)",M,5Cal,$1.29
-"Iced Tea (Unsweetened) (Plain, Raspberry, Blueberry)",L,5Cal,$1.59
-"Iced Tea (Sweetened) (Plain, Raspberry, Blueberry)",S,5-70Cal,$0.99
-"Iced Tea (Sweetened) (Plain, Raspberry, Blueberry)",M,5-110Cal,$1.29
-"Iced Tea (Sweetened) (Plain, Raspberry, Blueberry)",L,10-140Cal,$1.59
-Iced Tea (Green),S,70Cal,$1.49
-Iced Tea (Green),M,120Cal,$1.99
-Iced Tea (Green),L,150Cal,$2.49
-Sweet Tea,S,160Cal,$1.49
-Sweet Tea,M,230Cal,$1.99
-Sweet Tea,L,310Cal,$2.49
-"Tea (Black, Green)",S,0Cal,$1.39
-"Tea (Black, Green)",M,0Cal,$1.59
-"Tea (Black, Green)",L,0Cal,$1.79
-"Tea (Black, Green)",XL,0Cal,$1.99
-Vanilla Chai,M,330Cal,$2.99
-"Hot Chocolate (Original, Mint, Dunkaccino)",S,210-240Cal,$1.99
-"Hot Chocolate (Original, Mint, Dunkaccino)",M,300-350Cal,$2.39
-"Hot Chocolate (Original, Mint, Dunkaccino)",L,410-490Cal,$2.79
-"Hot Chocolate (Original, Mint, Dunkaccino)",XL,500Cal,$2.99
-Frozen Chocolate -Original Hot Chocolate,S,500Cal,$2.99
-Frozen Chocolate -Original Hot Chocolate,M,700Cal,$3.99
-Frozen Chocolate -Original Hot Chocolate,L,920Cal,$4.99
-Classic Donut,1pc,230-480Cal,$1.19
-Classic Donut (1/2 Dozen),6pc,Varies,$5.39
-Classic Donut (Dozen),12pc,Varies,$8.49
-Square Donut,1pc,340-370Cal,$1.49
-Deluxe Donut,1pc,300-410Cal,$2.49
-Fancy Donut,1pc,270-490Cal,$1.59
-Munchkins,10ct,60-90Cal,$2.25
-Munchkins,25ct,60-90Cal,$5.39
-Munchkins,50ct,60-90Cal,$8.49
-Muffin,1pc,410-590Cal,$1.59
-Muffin,4pc,Varies,$5.99
-Bagel,1pc,310-590Cal,$1.49
-Bagel with Cream Cheese,1pc,410-520Cal,$2.59
-Bagels,6pc,Varies,$7.99
-Bagels with Cream Cheese,6pc,Varies,$10.68
-Bagels,12pc,Varies,$10.99
-Bagels with Cream Cheese,12pc,Varies,$16.37
-Croissant,1pc,340Cal,$1.59
-Chorizo Burrito Bowl,NA,350Cal,$4.99
-Fire Roasted Veggie Burrito Bowl,NA,250Cal,$4.99
-Big N' Toasted,NA,570Cal,$4.49
-Angus Steak,NA,570Cal,$4.49
-"Sausage, Egg & Cheese on a Croissant",NA,570Cal,$3.99
-"Bacon, Egg & Cheese on a Plain Bagel",NA,470Cal,$3.99
-"Turkey Sausage, Egg & Cheese on a Flatbread",NA,420Cal,$3.99
-Chicken Salad on a Croissant,NA,580Cal,$3.99
-Ham & Cheese on a Flatbread,NA,330Cal,$3.89
-"Ham, Egg & Cheese on an English Muffin",NA,270Cal,$3.99
-Veggie Egg White on a Flatbread,NA,320Cal,$3.99
-Chicken Bacon on a Croissant,NA,730Cal,$4.29
-"Turkey, Cheddar & Bacon on a Flatbread",NA,380Cal,$3.99
-Deluxe Grilled Cheese (Ham),NA,530Cal,$4.49
-Deluxe Grilled Cheese (Bacon),NA,560Cal,$4.49
-"Wake Up Wrap (Sausage Bacon, Turkey Sausage or Ham)",NA,170-260Cal,$1.59
-HOT DRINKS:,,,
-Pumpkin Coffee,S,110-170Cal,$1.79
-Pumpkin Coffee,M,170-250Cal,$2.09
-Pumpkin Coffee,L,220-340Cal,$2.39
-Pumpkin Latte,S,120Cal,$3.09
-Pumpkin Latte,M,170Cal,$3.59
-Pumpkin Latte,L,230Cal,$3.99
-Cinnamon Sugar Pumpkin Signature Latte,S,310Cal,$3.19
-Cinnamon Sugar Pumpkin Signature Latte,M,420Cal,$3.69
-Cinnamon Sugar Pumpkin Signature Latte,L,540Cal,$4.09
-COLD DRINKS:,,,
-Pumpkin Iced Coffee,S,110-170Cal,$2.19
-Pumpkin Iced Coffee,M,170-250Cal,$2.69
-Pumpkin Iced Coffee,L,220-340Cal,$3.19
-Pumpkin Frozen Coffee,S,630Cal,$2.99
-Pumpkin Frozen Coffee,M,890Cal,$3.99
-Pumpkin Frozen Coffee,L,1160Cal,$4.99
-Cinnamon Sugar Pumpkin Iced Signature Latte,S,310Cal,$3.69
-Cinnamon Sugar Pumpkin Iced Signature Latte,M,420Cal,$4.19
-Cinnamon Sugar Pumpkin Iced Signature Latte,L,540Cal,$4.59
-BAKERY:,,,
-Pumpkin Donut,,340Cal,$1.19
-Pumpkin Muffin,,550Cal,$1.79
-5pc Pumpkin Munchkin Donut Holes,,350Cal,$1.25
-10pc Pumpkin Munchkin Donut Holes,,700Cal,$2.50
+﻿NAME,SIZE,SIZE,CALS,PRICE
+Cappuccino,S,Small,80Cal,$2.69 
+Cappuccino,M,Medium,120Cal,$3.19 
+Cappuccino,L,Large,160Cal,$3.59 
+Cinnamon Sugar Pumpkin Iced Signature Latte,S,Small,310Cal,$3.69 
+Cinnamon Sugar Pumpkin Iced Signature Latte,M,Medium,420Cal,$4.19 
+Cinnamon Sugar Pumpkin Iced Signature Latte,L,Large,540Cal,$4.59 
+Cinnamon Sugar Pumpkin Signature Latte,S,Small,310Cal,$3.19 
+Cinnamon Sugar Pumpkin Signature Latte,M,Medium,420Cal,$3.69 
+Cinnamon Sugar Pumpkin Signature Latte,L,Large,540Cal,$4.09 
+Hot Coffee,S,Small,5-130Cal,$1.79 
+Hot Coffee,M,Medium,10-190Cal,$2.09 
+Hot Coffee,L,Large,10-260Cal,$2.39 
+Hot Coffee,XL,XLarge,15-320Cal,$2.69 
+Coffee Coolatta,S,Small,400Cal,$2.99 
+Coffee Coolatta,M,Medium,600Cal,$3.99 
+Coffee Coolatta,L,Large,800Cal,$4.49 
+Cold Brew,S,Small,10-140Cal,$2.59 
+Cold Brew,M,Medium,15-200Cal,$3.09 
+Cold Brew,L,Large,20-270Cal,$3.59 
+"Coolatta (Strawberry, Orange, Vanilla Bean, Caramel, Mocha)",S,Small,240-420Cal,$2.99 
+"Coolatta (Strawberry, Orange, Vanilla Bean, Caramel, Mocha)",M,Medium,360-630Cal,$3.99 
+"Coolatta (Strawberry, Orange, Vanilla Bean, Caramel, Mocha)",L,Large,470-840Cal,$4.99 
+"Cosmic Coolatta (Strawberry, Pineapple, Grape)",S,Small,230-260Cal,$2.99 
+"Cosmic Coolatta (Strawberry, Pineapple, Grape)",M,Medium,350-400Cal,$3.99 
+"Cosmic Coolatta (Strawberry, Pineapple, Grape)",L,Large,460-530Cal,$4.99 
+Espresso,,,5Cal,$1.19 
+Frozen Chocolate -Original Hot Chocolate,S,Small,500Cal,$2.99 
+Frozen Chocolate -Original Hot Chocolate,M,Medium,700Cal,$3.99 
+Frozen Chocolate -Original Hot Chocolate,L,Large,920Cal,$4.99 
+"Hot Chocolate (Original, Mint, Dunkaccino)",S,Small,210-240Cal,$1.99 
+"Hot Chocolate (Original, Mint, Dunkaccino)",M,Medium,300-350Cal,$2.39 
+"Hot Chocolate (Original, Mint, Dunkaccino)",L,Large,410-490Cal,$2.79 
+"Hot Chocolate (Original, Mint, Dunkaccino)",XL,XLarge,500Cal,$2.99 
+"Iced Coffee (Original Blend, Dark Roast, Decaf)",S,Small,10-130Cal,$2.19 
+"Iced Coffee (Original Blend, Dark Roast, Decaf)",M,Medium,15-200Cal,$2.69 
+"Iced Coffee (Original Blend, Dark Roast, Decaf)",L,Large,20-270Cal,$3.19 
+Iced Latte (Regular or Decaf),S,Small,127Cal,$3.19 
+Iced Latte (Regular or Decaf),M,Medium,170Cal,$3.69 
+Iced Latte (Regular or Decaf),L,Large,230Cal,$4.09 
+Iced Macchiato (Regular or Decaf),S,Small,80Cal,$3.39 
+Iced Macchiato (Regular or Decaf),M,Medium,120Cal,$3.89 
+Iced Macchiato (Regular or Decaf),L,Large,160Cal,$4.39 
+Iced Tea (Green),S,Small,70Cal,$1.49 
+Iced Tea (Green),M,Medium,120Cal,$1.99 
+Iced Tea (Green),L,Large,150Cal,$2.49 
+Iced Tea,S,Small,5-70Cal,$0.99 
+Iced Tea,M,Medium,5-110Cal,$1.29 
+Iced Tea,L,Large,10-140Cal,$1.59 
+Iced Tea,S,Small,5Cal,$0.99 
+Iced Tea,M,Medium,5Cal,$1.29 
+Iced Tea,L,Large,5Cal,$1.59 
+Latte,S,Small,120Cal,$2.69 
+Latte,M,Medium,170Cal,$3.19 
+Latte,L,Large,230Cal,$3.59 
+Macchiato,S,Small,80Cal,$2.99 
+Macchiato,M,Medium,120Cal,$3.59 
+Macchiato,L,Large,160Cal,$4.19 
+Pumpkin Coffee,S,Small,110-170Cal,$1.79 
+Pumpkin Coffee,M,Medium,170-250Cal,$2.09 
+Pumpkin Coffee,L,Large,220-340Cal,$2.39 
+Pumpkin Frozen Coffee,S,Small,630Cal,$2.99 
+Pumpkin Frozen Coffee,M,Medium,890Cal,$3.99 
+Pumpkin Frozen Coffee,L,Large,1160Cal,$4.99 
+Pumpkin Iced Coffee,S,Small,110-170Cal,$2.19 
+Pumpkin Iced Coffee,M,Medium,170-250Cal,$2.69 
+Pumpkin Iced Coffee,L,Large,220-340Cal,$3.19 
+Pumpkin Latte,S,Small,120Cal,$3.09 
+Pumpkin Latte,M,Medium,170Cal,$3.59 
+Pumpkin Latte,L,Large,230Cal,$3.99 
+"Smoothies (Strawberry Banana, Mango, Orange, Wildberry)",S,Small,280-290Cal,$3.79 
+"Smoothies (Strawberry Banana, Mango, Orange, Wildberry)",M,Medium,420-440Cal,$3.99 
+"Smoothies (Strawberry Banana, Mango, Orange, Wildberry)",L,Large,560-590Cal,$4.99 
+Sweet Tea,S,Small,160Cal,$1.49 
+Sweet Tea,M,Medium,230Cal,$1.99 
+Sweet Tea,L,Large,310Cal,$2.49 
+"Tea (Black, Green)",S,Small,0Cal,$1.39 
+"Tea (Black, Green)",M,Medium,0Cal,$1.59 
+"Tea (Black, Green)",L,Large,0Cal,$1.79 
+"Tea (Black, Green)",XL,XLarge,0Cal,$1.99 
+Vanilla Chai,M,Medium,330Cal,$2.99 

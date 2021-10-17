@@ -1,476 +1,476 @@
-"","NAME","SIZE","MILK","SERVING_SIZE_ml","CALORIES","TOTAL_FAT_g","SATURATED_FAT_g","TRANS_FAT_g","CHOLESTEROL_mg","SODIUM_mg","TOTAL_CARB_g","DIETARY_FIBER_g","SUGAR_g","PROTEIN_g","CALCIUM_mg","CALCIUM_pcdv","IRON_mg","IRON_pcdv","CAFFEINE_mg"
-"1","Iced Green Tea Sweetened ","Medium",NA,"709",100,0,0,0,0,10,25,0,25,1,6,0,0,0,64
-"2","Iced Green Tea Sweetened ","Small",NA,"354",70,0,0,0,0,10,16,0,16,1,5,0,0,0,42
-"3","Iced Green Tea Unsweetened ","Large",NA,"946",5,0,0,0,0,15,0,0,0,1,10,0.01,0,0,91
-"4","Iced Green Tea Unsweetened ","Medium",NA,"709",5,0,0,0,0,10,0,0,0,1,6,0,0,0,64
-"5","Iced Green Tea Unsweetened ","Small",NA,"354",5,0,0,0,0,10,0,0,0,1,5,0,0,0,42
-"6","Iced Tea Sweetened ","Large",NA,"946",140,0,0,0,0,25,35,0,33,0,10,0.01,0,0,90
-"7","Iced Tea Sweetened ","Medium",NA,"709",100,0,0,0,0,20,26,0,25,0,6,0,0,0,67
-"8","Iced Tea Sweetened ","Small",NA,"354",70,0,0,0,0,15,17,0,16,0,5,0,0,0,45
-"9","Iced Tea Sweetened Blueberry Flavored Tea ","Large",NA,"946",150,0,0,0,0,25,38,0,33,0,10,0.01,0,0,90
-"10","Iced Tea Sweetened Blueberry Flavored Tea ","Medium",NA,"709",110,0,0,0,0,20,28,0,25,0,6,0,0,0,67
-"11","Iced Tea Sweetened Blueberry Flavored Tea ","Small",NA,"354",80,0,0,0,0,15,19,0,17,0,5,0,0,0,45
-"12","Iced Tea Sweetened Raspberry Flavored ","Large",NA,"946",150,0,0,0,0,25,38,0,33,0,10,0.01,0,0,90
-"13","Iced Tea Sweetened Raspberry Flavored ","Medium",NA,"709",110,0,0,0,0,20,29,0,25,0,6,0,0,0,67
-"14","Iced Tea Sweetened Raspberry Flavored ","Small",NA,"354",80,0,0,0,0,15,19,0,17,0,5,0,0,0,45
-"15","Iced Tea Unsweetened ","Large",NA,"946",5,0,0,0,0,25,2,0,0,0,10,0.01,0,0,90
-"16","Iced Tea Unsweetened ","Medium",NA,"709",5,0,0,0,0,20,1,0,0,0,6,0,0,0,67
-"17","Iced Tea Unsweetened ","Small",NA,"354",5,0,0,0,0,15,1,0,0,0,5,0,0,0,45
-"18","Iced Tea Unsweetened Blueberry Flavored Tea ","Large",NA,"946",20,0,0,0,0,25,5,0,0,0,10,0.01,0,0,90
-"19","Iced Tea Unsweetened Blueberry Flavored Tea ","Medium",NA,"709",15,0,0,0,0,20,3,0,0,0,6,0,0,0,67
-"20","Iced Tea Unsweetened Blueberry Flavored Tea ","Small",NA,"354",10,0,0,0,0,15,2,0,0,0,5,0,0,0,45
-"21","Iced Tea Unsweetened Raspberry Flavored ","Large",NA,"946",20,0,0,0,0,25,5,0,0,0,10,0.01,0,0,90
-"22","Iced Tea Unsweetened Raspberry Flavored ","Medium",NA,"709",15,0,0,0,0,20,4,0,0,0,6,0,0,0,67
-"23","Iced Tea Unsweetened Raspberry Flavored ","Small",NA,"354",10,0,0,0,0,15,3,0,0,0,5,0,0,0,45
-"24","Sweet Iced Tea ","Large",NA,"946",310,0,0,0,0,25,79,0,78,0,10,0.01,0,0,90
-"25","Sweet Iced Tea ","Medium",NA,"709",230,0,0,0,0,20,60,0,58,0,7,0.01,0,0,67
-"26","Sweet Iced Tea ","Small",NA,"354",150,0,0,0,0,15,40,0,39,0,5,0,0,0,45
-"27","Sweet Iced Tea Blueberry Flavored ","Large",NA,"946",330,0,0,0,0,30,86,0,81,0,10,0.01,0,0,90
-"28","Sweet Iced Tea Blueberry Flavored ","Medium",NA,"709",250,0,0,0,0,20,64,0,60,0,7,0.01,0,0,67
-"29","Sweet Iced Tea Blueberry Flavored ","Small",NA,"354",170,0,0,0,0,15,43,0,40,0,5,0,0,0,45
-"30","Sweet Iced Tea Raspberry Flavored ","Large",NA,"946",330,0,0,0,0,30,86,0,81,0,10,0.01,0,0,90
-"31","Sweet Iced Tea Raspberry Flavored ","Medium",NA,"709",250,0,0,0,0,20,65,0,60,0,7,0.01,0,0,67
-"32","Sweet Iced Tea Raspberry Flavored ","Small",NA,"354",170,0,0,0,0,15,43,0,40,0,5,0,0,0,45
-"33","Caramel Swirl Iced Macchiato with Skim Milk ","Large","Nonfat","946",310,0,0,0,10,200,66,0,63,11,420,0.32,0,0,371
-"34","Caramel Swirl Iced Macchiato with Skim Milk ","Medium","Nonfat","709",240,0,0,0,5,150,49,0,47,8,314,0.24,0,0,284
-"35","Caramel Swirl Iced Macchiato with Skim Milk ","Small","Nonfat","354",160,0,0,0,5,105,33,0,32,6,211,0.16,0,0,237
-"36","Caramel Swirl Iced Macchiato with Whole Milk ","Large","Whole","946",380,8,4.5,0,30,200,65,0,63,11,397,0.31,0,0,371
-"37","Caramel Swirl Iced Macchiato with Whole Milk ","Medium","Whole","709",290,6,3.5,0,20,150,49,0,47,8,297,0.23,0,0,284
-"38","Caramel Swirl Iced Macchiato with Whole Milk ","Small","Whole","354",190,4,2.5,0,15,105,33,0,31,5,199,0.15,0,0,237
-"39","French Vanilla Swirl Iced Macchiato with Skim Milk ","Large","Nonfat","946",310,0,0,0,10,190,65,0,61,11,401,0.31,0,0,371
-"40","French Vanilla Swirl Iced Macchiato with Skim Milk ","Medium","Nonfat","709",230,0,0,0,5,150,49,0,46,8,300,0.23,0,0,284
-"41","French Vanilla Swirl Iced Macchiato with Skim Milk ","Small","Nonfat","354",160,0,0,0,5,100,33,0,30,5,201,0.15,0,0,237
-"42","French Vanilla Swirl Iced Macchiato with Whole Milk ","Large","Whole","946",380,8,4.5,0,30,200,65,0,60,10,378,0.29,0,0,371
-"43","French Vanilla Swirl Iced Macchiato with Whole Milk ","Medium","Whole","709",280,6,3.5,0,20,150,49,0,45,8,283,0.22,0,0,284
-"44","French Vanilla Swirl Iced Macchiato with Whole Milk ","Small","Whole","354",190,4,2.5,0,15,100,33,0,30,5,189,0.15,0,0,237
-"45","Hazelnut Swirl Iced Macchiato with Skim Milk ","Large","Nonfat","946",310,0,0,0,10,190,65,0,61,11,401,0.31,0,0,371
-"46","Hazelnut Swirl Iced Macchiato with Skim Milk ","Medium","Nonfat","709",230,0,0,0,5,150,49,0,46,8,300,0.23,0,0,284
-"47","Hazelnut Swirl Iced Macchiato with Skim Milk ","Small","Nonfat","354",160,0,0,0,5,100,33,0,30,5,201,0.15,0,0,237
-"48","Hazelnut Swirl Iced Macchiato with Whole Milk ","Large","Whole","946",380,8,4.5,0,30,200,65,0,60,10,378,0.29,0,0,371
-"49","Hazelnut Swirl Iced Macchiato with Whole Milk ","Medium","Whole","709",280,6,3.5,0,20,150,49,0,45,8,283,0.22,0,0,284
-"50","Hazelnut Swirl Iced Macchiato with Whole Milk ","Small","Whole","354",190,4,2.5,0,15,100,33,0,30,5,189,0.15,0,0,237
-"51","Iced Macchiato with Skim Milk ","Large","Nonfat","946",90,0,0,0,5,135,14,0,12,8,317,0.24,0,0,371
-"52","Iced Macchiato with Skim Milk ","Medium","Nonfat","709",70,0,0,0,5,100,11,0,9,6,237,0.18,0,0,284
-"53","Iced Macchiato with Skim Milk ","Small","Nonfat","354",50,0,0,0,0,70,7,0,6,4,159,0.12,0,0,237
-"54","Iced Macchiato with Skim Milk and Sugar ","Large","Nonfat","946",230,0,0,0,5,135,49,0,47,8,317,0.24,0,0,371
-"55","Iced Macchiato with Skim Milk and Sugar ","Medium","Nonfat","709",170,0,0,0,5,100,37,0,35,6,237,0.18,0,0,284
-"56","Iced Macchiato with Skim Milk and Sugar ","Small","Nonfat","354",120,0,0,0,0,70,25,0,23,4,159,0.12,0,0,237
-"57","Iced Macchiato with Whole Milk ","Large","Whole","946",160,8,4.5,0,25,135,14,0,12,8,294,0.23,0,0,371
-"58","Iced Macchiato with Whole Milk ","Medium","Whole","709",120,6,3.5,0,20,105,10,0,9,6,220,0.17,0,0,284
-"59","Iced Macchiato with Whole Milk ","Small","Whole","354",80,4,2.5,0,10,70,7,0,6,4,147,0.11,0,0,237
-"60","Iced Macchiato with Whole Milk and Sugar ","Large","Whole","946",290,8,4.5,0,25,140,49,0,46,8,294,0.23,0,0,371
-"61","Iced Macchiato with Whole Milk and Sugar ","Small","Whole","354",150,4,2.5,0,10,70,25,0,23,4,148,0.11,0,0,237
-"62","Iced Macchiato with Whole Milk and Sugar","Medium","Whole","709",220,6,3.5,0,20,105,37,0,35,6,220,0.17,0,0,284
-"63","Mocha Swirl Iced Macchiato with Skim Milk ","Large","Nonfat","946",300,1,0.5,0,5,160,65,2,58,10,327,0.25,2,0.11,371
-"64","Mocha Swirl Iced Macchiato with Skim Milk ","Medium","Nonfat","709",230,1,0.5,0,5,125,49,2,43,7,245,0.19,2,0.11,284
-"65","Mocha Swirl Iced Macchiato with Skim Milk ","Small","Nonfat","354",150,0.5,0,0,0,85,33,1,29,5,164,0.13,1,0.06,237
-"66","Mocha Swirl Iced Macchiato with Whole Milk ","Large","Whole","946",370,9,5,0,25,170,64,2,57,9,305,0.23,2,0.11,371
-"67","Mocha Swirl Iced Macchiato with Whole Milk ","Medium","Whole","709",280,7,4,0,20,125,48,2,43,7,228,0.18,2,0.11,284
-"68","Mocha Swirl Iced Macchiato with Whole Milk ","Small","Whole","354",180,4.5,2.5,0,10,85,32,1,29,5,153,0.12,1,0.06,237
-"69","Iced Green Tea Sweetened ","Large",NA,"946",140,0,0,0,0,15,33,0,33,1,10,0.01,0,0,91
-"70","Caramel Swirl Iced Latte with Skim Milk ","Small","Nonfat","354",180,0,0,0,5,125,36,0,35,8,284,0.22,0,0,118
-"71","Caramel Swirl Iced Latte with Whole Milk ","Large","Whole","946",450,12,7,0,40,250,70,0,69,14,534,0.41,0,0,252
-"72","Caramel Swirl Iced Latte with Whole Milk ","Medium","Whole","709",340,9,5,0,30,190,53,0,52,11,400,0.31,0,0,166
-"73","Caramel Swirl Iced Latte with Whole Milk ","Small","Whole","354",230,6,3.5,0,20,125,35,0,34,7,267,0.21,0,0,118
-"74","French Vanilla Swirl Iced Latte with Skim Milk ","Large","Nonfat","946",350,0,0,0,10,240,71,0,67,15,549,0.42,0,0,252
-"75","French Vanilla Swirl Iced Latte with Skim Milk ","Medium","Nonfat","709",260,0,0,0,10,180,53,0,50,11,411,0.32,0,0,166
-"76","French Vanilla Swirl Iced Latte with Skim Milk ","Small","Nonfat","354",170,0,0,0,5,120,35,0,33,7,275,0.21,0,0,118
-"77","French Vanilla Swirl Iced Latte with Whole Milk ","Large","Whole","946",450,12,7,0,40,240,70,0,66,14,515,0.4,0,0,252
-"78","French Vanilla Swirl Iced Latte with Whole Milk ","Medium","Whole","709",330,9,5,0,30,180,52,0,50,11,385,0.3,0,0,166
-"79","French Vanilla Swirl Iced Latte with Whole Milk ","Small","Whole","354",220,6,3.5,0,20,120,35,0,33,7,258,0.2,0,0,118
-"80","Hazelnut Swirl Iced Latte with Skim Milk ","Large","Nonfat","946",350,0,0,0,10,240,71,0,67,15,549,0.42,0,0,252
-"81","Hazelnut Swirl Iced Latte with Skim Milk ","Medium","Nonfat","709",260,0,0,0,10,180,53,0,50,11,411,0.32,0,0,166
-"82","Hazelnut Swirl Iced Latte with Skim Milk ","Small","Nonfat","354",170,0,0,0,5,120,35,0,33,7,275,0.21,0,0,118
-"83","Hazelnut Swirl Iced Latte with Whole Milk ","Large","Whole","946",450,12,7,0,40,240,70,0,66,14,515,0.4,0,0,252
-"84","Hazelnut Swirl Iced Latte with Whole Milk ","Medium","Whole","709",340,9,5,0,30,180,53,0,50,11,385,0.3,0,0,166
-"85","Hazelnut Swirl Iced Latte with Whole Milk ","Small","Whole","354",220,6,3.5,0,20,120,35,0,33,7,258,0.2,0,0,118
-"86","Iced Latte with AlmondMilk ","Large","Almond","946",130,3.5,0,0,0,260,23,1,20,2,715,0.55,1,0.06,252
-"87","Iced Latte with AlmondMilk ","Medium","Almond","709",100,3,0,0,0,190,17,1,15,1,536,0.41,1,0.06,166
-"88","Iced Latte with AlmondMilk ","Small","Almond","354",70,2,0,0,0,130,11,0,10,1,358,0.28,1,0.06,118
-"89","Iced Latte with Skim Milk ","Large","Nonfat","946",130,0,0,0,5,180,20,0,18,12,465,0.36,0,0,252
-"90","Iced Latte with Skim Milk ","Medium","Nonfat","709",100,0,0,0,5,135,15,0,14,9,348,0.27,0,0,166
-"91","Iced Latte with Skim Milk ","Small","Nonfat","354",70,0,0,0,5,90,10,0,9,6,233,0.18,0,0,118
-"92","Iced Latte with Skim Milk and Sugar ","Large","Nonfat","946",270,0,0,0,5,180,54,0,53,12,465,0.36,0,0,252
-"93","Iced Latte with Skim Milk and Sugar ","Medium","Nonfat","709",200,0,0,0,5,135,41,0,40,9,348,0.27,0,0,166
-"94","Iced Latte with Skim Milk and Sugar ","Small","Nonfat","354",130,0,0,0,5,90,27,0,26,6,233,0.18,0,0,118
-"95","Iced Latte with Whole Milk ","Large","Whole","946",230,12,7,0,35,180,19,0,18,12,431,0.33,0,0,252
-"96","Iced Latte with Whole Milk ","Medium","Whole","709",170,9,5,0,25,135,14,0,13,9,322,0.25,0,0,166
-"97","Iced Latte with Whole Milk ","Small","Whole","354",120,6,3.5,0,20,90,9,0,9,6,216,0.17,0,0,118
-"98","Iced Latte with Whole Milk and Sugar ","Large","Whole","946",370,12,7,0,35,180,54,0,52,12,431,0.33,0,0,252
-"99","Iced Latte with Whole Milk and Sugar ","Medium","Whole","709",270,9,5,0,25,135,40,0,39,9,323,0.25,0,0,166
-"100","Iced Latte with Whole Milk and Sugar ","Small","Whole","354",180,6,3.5,0,20,90,27,0,26,6,216,0.17,0,0,118
-"101","Mocha Swirl Iced Latte with Skim Milk ","Large","Nonfat","946",340,1,0.5,0,5,210,70,2,64,14,476,0.37,2,0.11,252
-"102","Mocha Swirl Iced Latte with Skim Milk ","Medium","Nonfat","709",250,1,0.5,0,5,160,52,2,48,10,356,0.27,1,0.06,166
-"103","Mocha Swirl Iced Latte with Skim Milk ","Small","Nonfat","354",170,0.5,0,0,5,105,35,1,32,7,238,0.18,1,0.06,118
-"104","Mocha Swirl Iced Latte with Whole Milk ","Large","Whole","946",440,13,7,0,35,220,69,2,63,13,442,0.34,2,0.11,252
-"105","Mocha Swirl Iced Latte with Whole Milk ","Medium","Whole","709",330,10,6,0,25,160,52,2,47,10,330,0.25,1,0.06,166
-"106","Mocha Swirl Iced Latte with Whole Milk ","Small","Whole","354",220,6,3.5,0,20,110,35,1,32,7,221,0.17,1,0.06,118
-"107","Signature Caramel Craze Iced Latte with Skim Milk ","Large","Nonfat","946",430,6,3.5,0,30,250,79,0,75,16,586,0.45,0,0,252
-"108","Signature Caramel Craze Iced Latte with Skim Milk ","Medium","Nonfat","709",340,5,3,0,25,190,61,0,57,12,442,0.34,0,0,166
-"109","Signature Caramel Craze Iced Latte with Skim Milk ","Small","Nonfat","354",250,5,3,0,20,130,43,0,40,8,303,0.23,0,0,118
-"110","Signature Caramel Craze Iced Latte with Whole Milk ","Large","Whole","946",530,17,10,0.5,60,250,79,0,74,15,551,0.42,0,0,252
-"111","Signature Caramel Craze Iced Latte with Whole Milk ","Medium","Whole","709",410,14,8,0,45,190,61,0,57,11,416,0.32,0,0,166
-"112","Signature Caramel Craze Iced Latte with Whole Milk ","Small","Whole","354",300,11,6,0,35,130,43,0,39,8,285,0.22,0,0,118
-"113","Signature Cocoa Mocha Iced Latte with Skim Milk ","Large","Nonfat","946",420,6,4,0,25,220,78,2,69,15,495,0.38,2,0.11,252
-"114","Signature Cocoa Mocha Iced Latte with Skim Milk ","Medium","Nonfat","709",330,6,3.5,0,20,160,60,2,52,11,373,0.29,2,0.11,166
-"115","Signature Cocoa Mocha Iced Latte with Skim Milk ","Small","Nonfat","354",250,5,3.5,0,20,115,43,1,36,8,255,0.2,1,0.06,118
-"116","Signature Cocoa Mocha Iced Latte with Whole Milk ","Large","Whole","946",520,18,11,0.5,55,220,77,2,68,14,460,0.35,2,0.11,252
-"117","Signature Cocoa Mocha Iced Latte with Whole Milk ","Medium","Whole","709",400,14,9,0,45,170,60,2,52,10,347,0.27,2,0.11,166
-"118","Signature Cocoa Mocha Iced Latte with Whole Milk ","Small","Whole","354",300,11,7,0,35,115,42,1,36,7,238,0.18,1,0.06,118
-"119","Caramel Swirl Iced Coffee ","Large",NA,"946",230,0,0,0,5,85,52,0,51,3,123,0.09,0,0,396
-"120","Caramel Swirl Iced Coffee ","Medium",NA,"709",170,0,0,0,5,65,39,0,38,3,92,0.07,0,0,297
-"121","Caramel Swirl Iced Coffee ","Small",NA,"354",110,0,0,0,0,45,26,0,26,2,62,0.05,0,0,198
-"122","Caramel Swirl Iced Coffee with Cream ","Large","Cream","946",340,12,6,0,40,130,53,0,53,5,177,0.14,0,0,396
-"123","Caramel Swirl Iced Coffee with Cream ","Medium","Cream","709",260,9,4.5,0,30,95,40,0,40,4,132,0.1,0,0,297
-"124","Caramel Swirl Iced Coffee with Cream ","Small","Cream","354",170,6,3,0,20,65,27,0,26,3,89,0.07,0,0,198
-"125","French Vanilla Swirl Iced Coffee ","Large",NA,"946",220,0,0,0,5,80,51,0,49,3,104,0.08,0,0,396
-"126","French Vanilla Swirl Iced Coffee ","Medium",NA,"709",170,0,0,0,5,60,38,0,37,2,77,0.06,0,0,297
-"127","French Vanilla Swirl Iced Coffee ","Small",NA,"354",110,0,0,0,0,40,26,0,24,2,52,0.04,0,0,198
-"128","French Vanilla Swirl Iced Coffee with Cream ","Large","Cream","946",340,12,6,0,40,120,53,0,50,5,157,0.12,0,0,396
-"129","French Vanilla Swirl Iced Coffee with Cream ","Medium","Cream","709",250,9,4.5,0,30,90,40,0,38,4,118,0.09,0,0,297
-"130","French Vanilla Swirl Iced Coffee with Cream ","Small","Cream","354",170,6,3,0,20,60,26,0,25,2,79,0.06,0,0,198
-"131","Hazelnut Swirl Iced Coffee ","Large",NA,"946",220,0,0,0,5,80,51,0,49,3,104,0.08,0,0,396
-"132","Hazelnut Swirl Iced Coffee ","Medium",NA,"709",170,0,0,0,5,60,38,0,37,2,77,0.06,0,0,297
-"133","Hazelnut Swirl Iced Coffee ","Small",NA,"354",110,0,0,0,0,40,26,0,24,2,53,0.04,0,0,198
-"134","Hazelnut Swirl Iced Coffee with Cream ","Large","Cream","946",340,12,6,0,40,120,53,0,50,5,157,0.12,0,0,396
-"135","Hazelnut Swirl Iced Coffee with Cream ","Medium","Cream","709",250,9,4.5,0,30,90,40,0,38,4,118,0.09,0,0,297
-"136","Hazelnut Swirl Iced Coffee with Cream ","Small","Cream","354",170,6,3,0,20,60,27,0,25,2,79,0.06,0,0,198
-"137","Iced Coffee ","Large",NA,"946",5,0,0,0,0,20,0,0,0,1,21,0.02,0,0,396
-"138","Iced Coffee ","Medium",NA,"709",5,0,0,0,0,15,0,0,0,0,15,0.01,0,0,297
-"139","Iced Coffee ","Small",NA,"354",5,0,0,0,0,10,0,0,0,0,11,0.01,0,0,198
-"140","Iced Coffee with AlmondMilk ","Large","Almond","946",35,1,0,0,0,75,5,0,5,1,193,0.15,0,0,396
-"141","Iced Coffee with AlmondMilk ","Medium","Almond","709",25,0.5,0,0,0,50,4,0,3,1,130,0.1,0,0,297
-"142","Iced Coffee with AlmondMilk ","Small","Almond","354",15,0,0,0,0,30,2,0,2,0,68,0.05,0,0,198
-"143","Iced Coffee with Cream ","Large","Cream","946",120,12,6,0,35,65,2,0,2,2,75,0.06,0,0,396
-"144","Iced Coffee with Cream ","Medium","Cream","709",90,9,4.5,0,25,45,1,0,1,2,55,0.04,0,0,297
-"145","Iced Coffee with Cream ","Small","Cream","354",60,6,3,0,20,30,1,0,1,1,37,0.03,0,0,198
-"146","Iced Coffee with Cream and Sugar ","Large","Cream","946",260,12,6,0,35,65,37,0,36,2,75,0.06,0,0,396
-"147","Iced Coffee with Cream and Sugar ","Medium","Cream","709",190,9,4.5,0,25,45,27,0,27,2,55,0.04,0,0,297
-"148","Iced Coffee with Cream and Sugar ","Small","Cream","354",130,6,3,0,20,30,18,0,18,1,38,0.03,0,0,198
-"149","Iced Coffee with Skim Milk ","Large","Nonfat","946",25,0,0,0,0,45,3,0,3,3,94,0.07,0,0,396
-"150","Iced Coffee with Skim Milk ","Medium","Nonfat","709",20,0,0,0,0,35,2,0,2,2,70,0.05,0,0,297
-"151","Iced Coffee with Skim Milk ","Small","Nonfat","354",15,0,0,0,0,25,2,0,2,1,47,0.04,0,0,198
-"152","Iced Coffee with Skim Milk and Sugar ","Large","Nonfat","946",160,0,0,0,0,45,38,0,38,3,95,0.07,0,0,396
-"153","Iced Coffee with Skim Milk and Sugar ","Medium","Nonfat","709",120,0,0,0,0,35,28,0,28,2,70,0.05,0,0,297
-"154","Iced Coffee with Skim Milk and Sugar ","Small","Nonfat","354",80,0,0,0,0,25,19,0,19,1,47,0.04,0,0,198
-"155","Iced Coffee with Sugar ","Large",NA,"946",140,0,0,0,0,20,35,0,35,1,21,0.02,0,0,396
-"156","Iced Coffee with Sugar ","Medium",NA,"709",110,0,0,0,0,15,26,0,26,0,15,0.01,0,0,297
-"157","Iced Coffee with Sugar ","Small",NA,"354",70,0,0,0,0,10,17,0,17,0,11,0.01,0,0,198
-"158","Iced Coffee with Whole Milk ","Large","Whole","946",40,2,1,0,5,45,3,0,3,3,89,0.07,0,0,396
-"159","Iced Coffee with Whole Milk ","Medium","Whole","709",30,1.5,1,0,5,35,2,0,2,2,66,0.05,0,0,297
-"160","Iced Coffee with Whole Milk ","Small","Whole","354",20,1,0.5,0,5,25,1,0,1,1,44,0.03,0,0,198
-"161","Iced Coffee with Whole Milk and Sugar ","Large","Whole","946",180,2,1,0,5,45,38,0,38,3,89,0.07,0,0,396
-"162","Iced Coffee with Whole Milk and Sugar ","Medium","Whole","709",130,1.5,1,0,5,35,28,0,28,2,66,0.05,0,0,297
-"163","Iced Coffee with Whole Milk and Sugar ","Small","Whole","354",90,1,0.5,0,5,25,19,0,19,1,45,0.03,0,0,198
-"164","Mocha Swirl Iced Coffee Large","Large",NA,"946",210,1,0,0,0,50,50,2,46,2,31,0.02,2,0.11,396
-"165","Mocha Swirl Iced Coffee Medium","Medium",NA,"709",160,0.5,0,0,0,35,38,2,34,2,23,0.02,1,0.06,297
-"166","Mocha Swirl Iced Coffee Small","Small",NA,"354",110,0,0,0,0,25,25,1,23,1,16,0.01,1,0.06,198
-"167","Mocha Swirl Iced Coffee with Cream ","Large","Cream","946",330,12,7,0,35,90,52,2,47,4,84,0.06,2,0.11,396
-"168","Mocha Swirl Iced Coffee with Cream ","Medium","Cream","709",240,9,5,0,25,65,39,2,35,3,63,0.05,1,0.06,297
-"169","Mocha Swirl Iced Coffee with Cream ","Small","Cream","354",160,6,3.5,0,20,45,26,1,24,2,43,0.03,1,0.06,198
-"170","Caramel Swirl Iced Latte with Skim Milk ","Large","Nonfat","946",350,0,0,0,10,250,71,0,69,15,568,0.44,0,0,252
-"171","Caramel Swirl Iced Latte with Skim Milk ","Medium","Nonfat","709",260,0,0,0,10,190,53,0,52,11,426,0.33,0,0,166
-"172","French Vanilla Swirl Iced Cappuccino with Skim Milk ","Large","Nonfat","946",310,0,0,0,10,190,65,0,61,11,400,0.31,0,0,252
-"173","French Vanilla Swirl Iced Cappuccino with Skim Milk ","Medium","Nonfat","709",230,0,0,0,5,140,48,0,46,8,299,0.23,0,0,166
-"174","French Vanilla Swirl Iced Cappuccino with Skim Milk ","Small","Nonfat","354",150,0,0,0,5,95,32,0,30,5,200,0.15,0,0,118
-"175","French Vanilla Swirl Iced Cappuccino with Whole Milk ","Large","Whole","946",370,8,4.5,0,30,190,64,0,60,10,377,0.29,0,0,252
-"176","French Vanilla Swirl Iced Cappuccino with Whole Milk ","Medium","Whole","709",280,6,3.5,0,20,140,48,0,45,8,282,0.22,0,0,166
-"177","French Vanilla Swirl Iced Cappuccino with Whole Milk ","Small","Whole","354",190,4,2.5,0,15,95,32,0,30,5,189,0.15,0,0,118
-"178","Hazelnut Swirl Iced Cappuccino with Skim Milk ","Large","Nonfat","946",310,0,0,0,10,190,65,0,61,11,400,0.31,0,0,252
-"179","Hazelnut Swirl Iced Cappuccino with Skim Milk ","Medium","Nonfat","709",230,0,0,0,5,140,49,0,46,8,299,0.23,0,0,166
-"180","Hazelnut Swirl Iced Cappuccino with Skim Milk ","Small","Nonfat","354",150,0,0,0,5,95,32,0,30,5,200,0.15,0,0,118
-"181","Hazelnut Swirl Iced Cappuccino with Whole Milk ","Large","Whole","946",370,8,4.5,0,30,190,64,0,60,10,377,0.29,0,0,252
-"182","Hazelnut Swirl Iced Cappuccino with Whole Milk ","Medium","Whole","709",280,6,3.5,0,20,140,48,0,45,8,282,0.22,0,0,166
-"183","Hazelnut Swirl Iced Cappuccino with Whole Milk ","Small","Whole","354",190,4,2.5,0,15,95,32,0,30,5,189,0.15,0,0,118
-"184","Iced Cappuccino with Skim Milk ","Large","Nonfat","946",90,0,0,0,5,130,13,0,12,8,316,0.24,0,0,252
-"185","Iced Cappuccino with Skim Milk ","Medium","Nonfat","709",70,0,0,0,5,95,10,0,9,6,236,0.18,0,0,166
-"186","Iced Cappuccino with Skim Milk ","Small","Nonfat","354",45,0,0,0,0,65,7,0,6,4,158,0.12,0,0,118
-"187","Iced Cappuccino with Skim Milk and Sugar ","Large","Nonfat","946",230,0,0,0,5,130,48,0,47,8,316,0.24,0,0,252
-"188","Iced Cappuccino with Skim Milk and Sugar ","Medium","Nonfat","709",170,0,0,0,5,95,36,0,35,6,236,0.18,0,0,166
-"189","Iced Cappuccino with Skim Milk and Sugar ","Small","Nonfat","354",110,0,0,0,0,65,24,0,23,4,158,0.12,0,0,118
-"190","Iced Cappuccino with Whole Milk ","Large","Whole","946",160,8,4.5,0,25,130,13,0,12,8,293,0.23,0,0,252
-"191","Iced Cappuccino with Whole Milk ","Medium","Whole","709",120,6,3.5,0,20,100,10,0,9,6,219,0.17,0,0,166
-"192","Iced Cappuccino with Whole Milk ","Small","Whole","354",80,4,2.5,0,10,65,7,0,6,4,147,0.11,0,0,118
-"193","Iced Cappuccino with Whole Milk and Sugar ","Large","Whole","946",290,8,4.5,0,25,130,48,0,46,8,293,0.23,0,0,252
-"194","Iced Cappuccino with Whole Milk and Sugar ","Medium","Whole","709",220,6,3.5,0,20,100,36,0,35,6,219,0.17,0,0,166
-"195","Iced Cappuccino with Whole Milk and Sugar ","Small","Whole","354",150,4,2.5,0,10,65,24,0,23,4,147,0.11,0,0,118
-"196","Mocha Swirl Iced Cappuccino with Skim Milk ","Large","Nonfat","946",300,1,0.5,0,5,160,64,2,58,10,327,0.25,2,0.11,252
-"197","Mocha Swirl Iced Cappuccino with Skim Milk ","Medium","Nonfat","709",220,1,0.5,0,5,115,48,2,43,7,244,0.19,1,0.06,166
-"198","Mocha Swirl Iced Cappuccino with Skim Milk ","Small","Nonfat","354",150,0.5,0,0,0,80,32,1,29,5,164,0.13,1,0.06,118
-"199","Mocha Swirl Iced Cappuccino with Whole Milk ","Large","Whole","946",360,9,5,0,25,160,63,2,57,9,304,0.23,2,0.11,252
-"200","Mocha Swirl Iced Cappuccino with Whole Milk ","Medium","Whole","709",270,7,4,0,20,120,48,2,43,7,227,0.17,1,0.06,166
-"201","Mocha Swirl Iced Cappuccino with Whole Milk ","Small","Whole","354",180,4.5,2.5,0,10,80,32,1,29,5,152,0.12,1,0.06,118
-"202","Iced Americano ","Large",NA,"946",10,0,0,0,0,40,2,0,0,0,25,0.02,0,0,371
-"203","Iced Americano ","Medium",NA,"709",10,0,0,0,0,30,2,0,0,0,18,0.01,0,0,284
-"204","Iced Americano ","Small",NA,"354",5,0,0,0,0,25,1,0,0,0,13,0.01,0,0,237
-"205","Caramel Swirl Iced Cappuccino with Skim Milk ","Large","Nonfat","946",310,0,0,0,10,200,65,0,63,11,419,0.32,0,0,252
-"206","Caramel Swirl Iced Cappuccino with Skim Milk ","Medium","Nonfat","709",230,0,0,0,5,150,49,0,47,8,314,0.24,0,0,166
-"207","Caramel Swirl Iced Cappuccino with Skim Milk ","Small","Nonfat","354",160,0,0,0,5,100,33,0,32,6,210,0.16,0,0,118
-"208","Caramel Swirl Iced Cappuccino with Whole Milk ","Large","Whole","946",380,8,4.5,0,30,200,65,0,63,11,396,0.3,0,0,252
-"209","Caramel Swirl Iced Cappuccino with Whole Milk ","Medium","Whole","709",280,6,3.5,0,20,150,48,0,47,8,296,0.23,0,0,166
-"210","Caramel Swirl Iced Cappuccino with Whole Milk ","Small","Whole","354",190,4,2.5,0,15,100,32,0,31,5,198,0.15,0,0,118
-"211","Caramel Swirl Hot Macchiato with Skim Milk ","Large","Nonfat","591",310,0,0,0,10,190,66,0,63,11,404,0.31,0,0,371
-"212","Caramel Swirl Hot Macchiato with Skim Milk ","Medium","Nonfat","414",240,0,0,0,5,140,49,0,47,8,303,0.23,0,0,284
-"213","Caramel Swirl Hot Macchiato with Skim Milk ","Small","Nonfat","295",160,0,0,0,5,95,33,0,32,6,203,0.16,0,0,237
-"214","Caramel Swirl Hot Macchiato with Whole Milk ","Large","Whole","591",380,8,4.5,0,30,190,65,0,63,11,381,0.29,0,0,371
-"215","Caramel Swirl Hot Macchiato with Whole Milk ","Medium","Whole","414",290,6,3.5,0,20,140,49,0,47,8,286,0.22,0,0,284
-"216","Caramel Swirl Hot Macchiato with Whole Milk ","Small","Whole","295",190,4,2.5,0,15,95,33,0,31,5,191,0.15,0,0,237
-"217","French Vanilla Swirl Hot Macchiato with Skim Milk ","Large","Nonfat","591",310,0,0,0,10,180,65,0,61,11,385,0.3,0,0,371
-"218","French Vanilla Swirl Hot Macchiato with Skim Milk ","Medium","Nonfat","414",230,0,0,0,5,135,49,0,46,8,289,0.22,0,0,284
-"219","French Vanilla Swirl Hot Macchiato with Skim Milk ","Small","Nonfat","295",160,0,0,0,5,90,33,0,30,5,193,0.15,0,0,237
-"220","French Vanilla Swirl Hot Macchiato with Whole Milk ","Large","Whole","591",380,8,4.5,0,30,180,65,0,60,10,362,0.28,0,0,371
-"221","French Vanilla Swirl Hot Macchiato with Whole Milk ","Medium","Whole","414",280,6,3.5,0,20,135,49,0,45,8,272,0.21,0,0,284
-"222","French Vanilla Swirl Hot Macchiato with Whole Milk ","Small","Whole","295",190,4,2.5,0,15,95,33,0,30,5,181,0.14,0,0,237
-"223","Hazelnut Swirl Hot Macchiato with Skim Milk ","Large","Nonfat","591",310,0,0,0,10,180,65,0,61,11,385,0.3,0,0,371
-"224","Hazelnut Swirl Hot Macchiato with Skim Milk ","Medium","Nonfat","414",230,0,0,0,5,135,49,0,46,8,289,0.22,0,0,284
-"225","Hazelnut Swirl Hot Macchiato with Skim Milk ","Small","Nonfat","295",160,0,0,0,5,90,33,0,30,5,193,0.15,0,0,237
-"226","Hazelnut Swirl Hot Macchiato with Whole Milk ","Large","Whole","591",380,8,4.5,0,30,180,65,0,60,10,362,0.28,0,0,371
-"227","Hazelnut Swirl Hot Macchiato with Whole Milk ","Medium","Whole","414",280,6,3.5,0,20,135,49,0,45,8,272,0.21,0,0,284
-"228","Hazelnut Swirl Hot Macchiato with Whole Milk ","Small","Whole","295",190,4,2.5,0,15,95,33,0,30,5,181,0.14,0,0,237
-"229","Hot Macchiato with Skim Milk ","Large","Nonfat","591",90,0,0,0,5,120,14,0,12,8,301,0.23,0,0,371
-"230","Hot Macchiato with Skim Milk ","Medium","Nonfat","414",70,0,0,0,5,90,11,0,9,6,226,0.17,0,0,284
-"231","Hot Macchiato with Skim Milk ","Small","Nonfat","295",50,0,0,0,0,65,7,0,6,4,151,0.12,0,0,237
-"232","Hot Macchiato with Skim Milk and Sugar ","Large","Nonfat","591",230,0,0,0,5,120,49,0,47,8,301,0.23,0,0,371
-"233","Hot Macchiato with Skim Milk and Sugar ","Medium","Nonfat","414",170,0,0,0,5,90,37,0,35,6,226,0.17,0,0,284
-"234","Hot Macchiato with Skim Milk and Sugar ","Small","Nonfat","295",120,0,0,0,0,65,25,0,23,4,151,0.12,0,0,237
-"235","Hot Macchiato with Whole Milk ","Large","Whole","591",160,8,4.5,0,25,120,14,0,12,8,278,0.21,0,0,371
-"236","Hot Macchiato with Whole Milk ","Medium","Whole","414",120,6,3.5,0,20,90,10,0,9,6,209,0.16,0,0,284
-"237","Hot Macchiato with Whole Milk ","Small","Whole","295",80,4,2.5,0,10,65,7,0,6,4,139,0.11,0,0,237
-"238","Hot Macchiato with Whole Milk and Sugar ","Large","Whole","591",290,8,4.5,0,25,120,49,0,46,8,278,0.21,0,0,371
-"239","Hot Macchiato with Whole Milk and Sugar ","Medium","Whole","414",220,6,3.5,0,20,90,37,0,35,6,209,0.16,0,0,284
-"240","Hot Macchiato with Whole Milk and Sugar ","Small","Whole","295",150,4,2.5,0,10,65,25,0,23,4,140,0.11,0,0,237
-"241","Mocha Swirl Hot Macchiato with Skim Milk ","Large","Nonfat","591",300,1,0.5,0,5,150,65,2,58,10,312,0.24,2,0.11,371
-"242","Mocha Swirl Hot Macchiato with Skim Milk ","Medium","Nonfat","414",230,1,0.5,0,5,110,49,2,43,7,234,0.18,2,0.11,284
-"243","Mocha Swirl Hot Macchiato with Skim Milk ","Small","Nonfat","295",150,0.5,0,0,0,75,33,1,29,5,156,0.12,1,0.06,237
-"244","Mocha Swirl Hot Macchiato with Whole Milk ","Large","Whole","591",370,9,5,0,25,150,64,2,57,9,289,0.22,2,0.11,371
-"245","Mocha Swirl Hot Macchiato with Whole Milk ","Medium","Whole","414",280,7,4,0,20,115,48,2,43,7,217,0.17,2,0.11,284
-"246","Mocha Swirl Hot Macchiato with Whole Milk ","Small","Whole","295",180,4.5,2.5,0,10,80,32,1,29,5,145,0.11,1,0.06,237
-"247","Caramel Swirl Hot Latte with Skim Milk ","Large","Nonfat","591",350,0,0,0,10,230,71,0,69,15,553,0.43,0,0,252
-"248","Caramel Swirl Hot Latte with Skim Milk ","Medium","Nonfat","414",260,0,0,0,10,170,53,0,52,11,415,0.32,0,0,166
-"249","Caramel Swirl Hot Latte with Skim Milk ","Small","Nonfat","295",180,0,0,0,5,115,36,0,35,8,276,0.21,0,0,118
-"250","Caramel Swirl Hot Latte with Whole Milk ","Large","Whole","591",450,12,7,0,40,240,70,0,69,14,518,0.4,0,0,252
-"251","Caramel Swirl Hot Latte with Whole Milk ","Medium","Whole","414",340,9,5,0,30,180,53,0,52,11,389,0.3,0,0,166
-"252","Caramel Swirl Hot Latte with Whole Milk ","Small","Whole","295",230,6,3.5,0,20,120,35,0,34,7,259,0.2,0,0,118
-"253","French Vanilla Swirl Hot Latte with Skim Milk ","Large","Nonfat","591",350,0,0,0,10,220,71,0,67,15,534,0.41,0,0,252
-"254","French Vanilla Swirl Hot Latte with Skim Milk ","Medium","Nonfat","414",260,0,0,0,10,170,53,0,50,11,400,0.31,0,0,166
-"255","French Vanilla Swirl Hot Latte with Skim Milk ","Small","Nonfat","295",170,0,0,0,5,110,35,0,33,7,267,0.21,0,0,118
-"256","French Vanilla Swirl Hot Latte with Whole Milk ","Large","Whole","591",450,12,7,0,40,230,70,0,66,14,499,0.38,0,0,252
-"257","French Vanilla Swirl Hot Latte with Whole Milk ","Medium","Whole","414",330,9,5,0,30,170,52,0,50,11,374,0.29,0,0,166
-"258","French Vanilla Swirl Hot Latte with Whole Milk ","Small","Whole","295",220,6,3.5,0,20,115,35,0,33,7,250,0.19,0,0,118
-"259","Hazelnut Swirl Hot Latte with Skim Milk ","Large","Nonfat","591",350,0,0,0,10,220,71,0,67,15,534,0.41,0,0,252
-"260","Hazelnut Swirl Hot Latte with Skim Milk ","Medium","Nonfat","414",260,0,0,0,10,170,53,0,50,11,400,0.31,0,0,166
-"261","Hazelnut Swirl Hot Latte with Skim Milk ","Small","Nonfat","295",170,0,0,0,5,110,35,0,33,7,267,0.21,0,0,118
-"262","Hazelnut Swirl Hot Latte with Whole Milk ","Large","Whole","591",450,12,7,0,40,230,70,0,66,14,499,0.38,0,0,252
-"263","Hazelnut Swirl Hot Latte with Whole Milk ","Medium","Whole","414",340,9,5,0,30,170,53,0,50,11,374,0.29,0,0,166
-"264","Hazelnut Swirl Hot Latte with Whole Milk ","Small","Whole","295",220,6,3.5,0,20,115,35,0,33,7,250,0.19,0,0,118
-"265","Hot Latte with AlmondMilk ","Large","Almond","591",130,3.5,0,0,0,240,23,1,20,2,699,0.54,1,0.06,252
-"266","Hot Latte with AlmondMilk ","Medium","Almond","414",100,3,0,0,0,180,17,1,15,1,525,0.4,1,0.06,166
-"267","Hot Latte with AlmondMilk ","Small","Almond","295",70,2,0,0,0,120,11,0,10,1,350,0.27,1,0.06,118
-"268","Hot Latte with Skim Milk ","Large","Nonfat","591",130,0,0,0,5,170,20,0,18,12,450,0.35,0,0,252
-"269","Hot Latte with Skim Milk ","Medium","Nonfat","414",100,0,0,0,5,125,15,0,14,9,337,0.26,0,0,166
-"270","Hot Latte with Skim Milk ","Small","Nonfat","295",70,0,0,0,5,85,10,0,9,6,225,0.17,0,0,118
-"271","Hot Latte with Skim Milk and Sugar ","Large","Nonfat","591",270,0,0,0,5,170,54,0,53,12,450,0.35,0,0,252
-"272","Hot Latte with Skim Milk and Sugar ","Medium","Nonfat","414",200,0,0,0,5,125,41,0,40,9,337,0.26,0,0,166
-"273","Hot Latte with Skim Milk and Sugar ","Small","Nonfat","295",130,0,0,0,5,85,27,0,26,6,225,0.17,0,0,118
-"274","Hot Latte with Whole Milk ","Large","Whole","591",230,12,7,0,35,170,19,0,18,12,415,0.32,0,0,252
-"275","Hot Latte with Whole Milk ","Medium","Whole","414",170,9,5,0,25,125,14,0,13,9,311,0.24,0,0,166
-"276","Hot Latte with Whole Milk ","Small","Whole","295",120,6,3.5,0,20,85,9,0,9,6,208,0.16,0,0,118
-"277","Hot Latte with Whole Milk and Sugar ","Large","Whole","591",370,12,7,0,35,170,54,0,52,12,416,0.32,0,0,252
-"278","Hot Latte with Whole Milk and Sugar ","Medium","Whole","414",270,9,5,0,25,125,40,0,39,9,312,0.24,0,0,166
-"279","Hot Latte with Whole Milk and Sugar ","Small","Whole","295",180,6,3.5,0,20,85,27,0,26,6,208,0.16,0,0,118
-"280","Mocha Swirl Hot Latte with Skim Milk ","Large","Nonfat","591",340,1,0.5,0,5,200,70,2,64,14,460,0.35,2,0.11,252
-"281","Mocha Swirl Hot Latte with Skim Milk ","Medium","Nonfat","414",250,1,0.5,0,5,150,52,2,48,10,345,0.27,1,0.06,166
-"282","Mocha Swirl Hot Latte with Skim Milk ","Small","Nonfat","295",170,0.5,0,0,5,100,35,1,32,7,230,0.18,1,0.06,118
-"283","Mocha Swirl Hot Latte with Whole Milk ","Large","Whole","591",440,13,7,0,35,200,69,2,63,13,426,0.33,2,0.11,252
-"284","Mocha Swirl Hot Latte with Whole Milk ","Medium","Whole","414",330,10,6,0,25,150,52,2,47,10,319,0.25,1,0.06,166
-"285","Mocha Swirl Hot Latte with Whole Milk ","Small","Whole","295",220,6,3.5,0,20,100,35,1,32,7,213,0.16,1,0.06,118
-"286","Signature Caramel Craze Hot Latte with Skim Milk ","Large","Nonfat","591",440,6,3.5,0,30,240,80,0,75,16,576,0.44,0,0,252
-"287","Signature Caramel Craze Hot Latte with Skim Milk ","Medium","Nonfat","414",340,5,3,0,25,180,61,0,57,12,436,0.34,0,0,166
-"288","Signature Caramel Craze Hot Latte with Skim Milk ","Small","Nonfat","295",250,5,3,0,20,125,43,0,40,8,298,0.23,0,0,118
-"289","Signature Caramel Craze Hot Latte with Whole Milk ","Large","Whole","591",530,17,10,0.5,60,250,79,0,74,15,542,0.42,0,0,252
-"290","Signature Caramel Craze Hot Latte with Whole Milk ","Medium","Whole","414",410,14,8,0,45,190,61,0,57,11,410,0.32,0,0,166
-"291","Signature Caramel Craze Hot Latte with Whole Milk ","Small","Whole","295",300,11,6,0,35,130,43,0,39,8,281,0.22,0,0,118
-"292","Signature Cocoa Mocha Hot Latte with Skim Milk ","Large","Nonfat","591",420,6,4,0,25,210,79,2,69,15,480,0.37,2,0.11,252
-"293","Signature Cocoa Mocha Hot Latte with Skim Milk ","Medium","Nonfat","414",330,6,3.5,0,20,160,61,2,53,11,363,0.28,2,0.11,166
-"294","Signature Cocoa Mocha Hot Latte with Skim Milk ","Small","Nonfat","295",250,5,3.5,0,20,110,43,1,37,8,248,0.19,1,0.06,118
-"295","Signature Cocoa Mocha Hot Latte with Whole Milk ","Large","Whole","591",520,18,11,0.5,55,210,78,2,68,14,445,0.34,2,0.11,252
-"296","Signature Cocoa Mocha Hot Latte with Whole Milk ","Medium","Whole","414",400,14,9,0,45,160,60,2,52,10,337,0.26,2,0.11,166
-"297","Signature Cocoa Mocha Hot Latte with Whole Milk ","Small","Whole","295",300,11,7,0,35,110,43,1,36,7,230,0.18,1,0.06,118
-"298","Caramel Swirl Hot Coffee with Black ","Large",NA,"591",230,0,0,0,5,75,52,0,51,3,113,0.09,0,0,300
-"299","Caramel Swirl Hot Coffee with Black ","Medium",NA,"414",170,0,0,0,5,60,39,0,38,3,85,0.07,0,0,210
-"300","Caramel Swirl Hot Coffee with Black ","Small",NA,"295",110,0,0,0,0,40,26,0,26,2,57,0.04,0,0,150
-"301","Caramel Swirl Hot Coffee with Cream ","Large","Cream","591",340,12,6,0,40,120,53,0,53,5,167,0.13,0,0,300
-"302","Caramel Swirl Hot Coffee with Cream ","Medium","Cream","414",260,9,4.5,0,30,90,40,0,40,4,126,0.1,0,0,210
-"303","Caramel Swirl Hot Coffee with Cream ","Small","Cream","295",170,6,3,0,20,60,27,0,26,3,84,0.06,0,0,150
-"304","French Vanilla Swirl Hot Coffee ","Large",NA,"591",220,0,0,0,5,70,51,0,49,3,93,0.07,0,0,300
-"305","French Vanilla Swirl Hot Coffee ","Medium",NA,"414",170,0,0,0,5,50,38,0,37,2,71,0.05,0,0,210
-"306","French Vanilla Swirl Hot Coffee ","Small",NA,"295",110,0,0,0,0,35,26,0,24,2,48,0.04,0,0,150
-"307","French Vanilla Swirl Hot Coffee with Cream ","Large","Cream","591",340,12,6,0,40,110,53,0,50,5,147,0.11,0,0,300
-"308","French Vanilla Swirl Hot Coffee with Cream ","Medium","Cream","414",250,9,4.5,0,30,85,40,0,38,4,111,0.09,0,0,210
-"309","French Vanilla Swirl Hot Coffee with Cream ","Small","Cream","295",170,6,3,0,20,55,26,0,25,2,75,0.06,0,0,150
-"310","Hazelnut Swirl Hot Coffee ","Large",NA,"591",220,0,0,0,5,70,51,0,49,3,93,0.07,0,0,300
-"311","Hazelnut Swirl Hot Coffee ","Medium",NA,"414",170,0,0,0,5,50,38,0,37,2,71,0.05,0,0,210
-"312","Hazelnut Swirl Hot Coffee ","Small",NA,"295",110,0,0,0,0,35,26,0,24,2,48,0.04,0,0,150
-"313","Hazelnut Swirl Hot Coffee with Cream ","Large","Cream","591",340,12,6,0,40,110,53,0,50,5,147,0.11,0,0,300
-"314","Hazelnut Swirl Hot Coffee with Cream ","Medium","Cream","414",250,9,4.5,0,30,85,40,0,38,4,111,0.09,0,0,210
-"315","Hazelnut Swirl Hot Coffee with Cream ","Small","Cream","295",170,6,3,0,20,55,27,0,25,2,75,0.06,0,0,150
-"316","Hot Coffee ","Large",NA,"591",5,0,0,0,0,10,0,0,0,1,11,0.01,0,0,300
-"317","Hot Coffee ","Medium",NA,"414",5,0,0,0,0,10,0,0,0,1,8,0.01,0,0,210
-"318","Hot Coffee ","Small",NA,"295",5,0,0,0,0,5,0,0,0,0,6,0,0,0,150
-"319","Hot Coffee with AlmondMilk ","Large","Almond","591",35,1,0,0,0,65,5,0,5,1,183,0.14,0,0,300
-"320","Hot Coffee with AlmondMilk ","Medium","Almond","414",25,0.5,0,0,0,45,4,0,3,1,123,0.09,0,0,210
-"321","Hot Coffee with AlmondMilk ","Small","Almond","295",15,0,0,0,0,25,2,0,2,0,63,0.05,0,0,150
-"322","Hot Coffee with Cream ","Large","Cream","591",120,12,6,0,35,55,2,0,2,2,64,0.05,0,0,300
-"323","Hot Coffee with Cream ","Medium","Cream","414",90,9,4.5,0,25,40,1,0,1,2,49,0.04,0,0,210
-"324","Hot Coffee with Cream ","Small","Cream","295",60,6,3,0,20,30,1,0,1,1,33,0.03,0,0,150
-"325","Hot Coffee with Cream and Sugar ","Large","Cream","591",260,12,6,0,35,55,37,0,36,2,65,0.05,0,0,300
-"326","Hot Coffee with Cream and Sugar ","Medium","Cream","414",190,9,4.5,0,25,40,27,0,27,2,49,0.04,0,0,210
-"327","Hot Coffee with Cream and Sugar ","Small","Cream","295",130,6,3,0,20,30,18,0,18,1,34,0.03,0,0,150
-"328","Hot Coffee with Skim Milk ","Large","Nonfat","591",25,0,0,0,0,35,3,0,3,3,84,0.06,0,0,300
-"329","Hot Coffee with Skim Milk ","Medium","Nonfat","414",20,0,0,0,0,25,2,0,2,2,64,0.05,0,0,210
-"330","Hot Coffee with Skim Milk ","Small","Nonfat","295",15,0,0,0,0,20,2,0,2,1,43,0.03,0,0,150
-"331","Hot Coffee with Skim Milk and Sugar ","Large","Nonfat","591",160,0,0,0,0,35,38,0,38,3,85,0.07,0,0,300
-"332","Hot Coffee with Skim Milk and Sugar ","Medium","Nonfat","414",120,0,0,0,0,25,28,0,28,2,64,0.05,0,0,210
-"333","Hot Coffee with Skim Milk and Sugar ","Small","Nonfat","295",80,0,0,0,0,20,19,0,19,1,43,0.03,0,0,150
-"334","Hot Coffee with Sugar ","Large",NA,"591",140,0,0,0,0,10,35,0,35,1,11,0.01,0,0,300
-"335","Hot Coffee with Sugar ","Medium",NA,"414",110,0,0,0,0,10,26,0,26,1,9,0.01,0,0,210
-"336","Hot Coffee with Sugar ","Small",NA,"295",70,0,0,0,0,5,17,0,17,0,7,0.01,0,0,150
-"337","Hot Coffee with Whole Milk ","Large","Whole","591",40,2,1,0,5,35,3,0,3,2,78,0.06,0,0,300
-"338","Hot Coffee with Whole Milk ","Medium","Whole","414",30,1.5,1,0,5,25,2,0,2,2,59,0.05,0,0,210
-"339","Hot Coffee with Whole Milk ","Small","Whole","295",20,1,0.5,0,5,20,1,0,1,1,40,0.03,0,0,150
-"340","Hot Coffee with Whole Milk and Sugar ","Large","Whole","591",190,2,1,0,5,35,42,0,42,2,79,0.06,0,0,300
-"341","Hot Coffee with Whole Milk and Sugar ","Medium","Whole","414",130,1.5,1,0,5,30,28,0,28,2,60,0.05,0,0,210
-"342","Hot Coffee with Whole Milk and Sugar ","Small","Whole","295",90,1,0.5,0,5,20,19,0,19,1,40,0.03,0,0,150
-"343","Mocha Swirl Hot Coffee ","Large",NA,"591",210,1,0,0,0,40,50,2,46,2,20,0.02,2,0.11,300
-"344","Mocha Swirl Hot Coffee ","Medium",NA,"414",160,0.5,0,0,0,30,38,2,34,2,16,0.01,1,0.06,210
-"345","Mocha Swirl Hot Coffee ","Small",NA,"295",110,0,0,0,0,20,25,1,23,1,11,0.01,1,0.06,150
-"346","Mocha Swirl Hot Coffee with Cream ","Large","Cream","591",330,12,7,0,35,80,52,2,47,4,74,0.06,2,0.11,300
-"347","Mocha Swirl Hot Coffee with Cream ","Medium","Cream","414",240,9,5,0,25,60,39,2,35,3,56,0.04,1,0.06,210
-"348","Mocha Swirl Hot Coffee with Cream ","Small","Cream","295",160,6,3.5,0,20,40,26,1,24,2,38,0.03,1,0.06,150
-"349","Dunkaccino ","Large",NA,"591",490,21,17,0,10,470,73,1,53,4,94,0.07,1,0.06,119
-"350","Dunkaccino ","Medium",NA,"414",350,15,12,0,5,340,52,1,38,3,67,0.05,0,0,85
-"351","Dunkaccino ","Small",NA,"295",240,10,8,0,5,230,36,0,26,2,46,0.04,0,0,58
-"352","French Vanilla Dunkaccino(R) ","Large",NA,"591",470,21,17,0,10,460,70,1,50,3,65,0.05,1,0.06,119
-"353","French Vanilla Dunkaccino(R) ","Medium",NA,"414",350,16,13,0,5,350,53,1,38,2,49,0.04,0,0,85
-"354","French Vanilla Dunkaccino(R) ","Small",NA,"295",230,10,8,0,5,230,35,0,25,2,33,0.03,0,0,58
-"355","Hot Chocolate with Espresso Shot ","Large",NA,"591",400,12,11,0,0,390,71,3,55,3,61,0.05,1,0.06,18
-"356","Hot Chocolate with Espresso Shot ","Medium",NA,"414",280,9,8,0,0,280,51,2,39,2,43,0.03,0,0,13
-"357","Hot Chocolate with Espresso Shot ","Small",NA,"295",190,6,5,0,0,190,35,1,27,2,30,0.02,0,0,9
-"358","Mint Hot Chocolate ","Large",NA,"591",400,13,12,0,0,350,72,3,57,3,32,0.02,0,0,16
-"359","Mint Hot Chocolate ","Medium",NA,"414",300,10,9,0,0,260,52,2,42,2,23,0.02,0,0,12
-"360","Mint Hot Chocolate ","Small",NA,"295",210,7,6,0,0,180,36,1,29,1,16,0.01,0,0,8
-"361","OREO Hot Chocolate ","Large",NA,"591",460,10,8,0,0,500,88,3,70,6,138,0.11,4,0.22,18
-"362","OREO Hot Chocolate ","Medium",NA,"414",350,8,6,0,0,380,66,2,53,4,103,0.08,3,0.17,13
-"363","OREO Hot Chocolate ","Small",NA,"295",230,5,4,0,0,250,44,1,35,3,69,0.05,2,0.11,9
-"364","Original Hot Chocolate ","Large",NA,"591",460,14,13,0,0,440,82,3,65,4,70,0.05,1,0.06,18
-"365","Original Hot Chocolate ","Medium",NA,"414",330,10,9,0,0,320,59,2,46,3,50,0.04,0,0,13
-"366","Original Hot Chocolate ","Small",NA,"295",220,7,6,0,0,210,40,2,32,2,34,0.03,0,0,9
-"367","Cappuccino with Skim Milk ","Large","Nonfat","591",90,0,0,0,5,115,13,0,12,8,300,0.23,0,0,252
-"368","Cappuccino with Skim Milk ","Medium","Nonfat","414",70,0,0,0,5,85,10,0,9,6,225,0.17,0,0,166
-"369","Cappuccino with Skim Milk ","Small","Nonfat","295",45,0,0,0,0,55,7,0,6,4,150,0.12,0,0,118
-"370","Cappuccino with Skim Milk and Sugar ","Large","Nonfat","591",230,0,0,0,5,115,48,0,47,8,301,0.23,0,0,252
-"371","Cappuccino with Skim Milk and Sugar ","Medium","Nonfat","414",170,0,0,0,5,85,36,0,35,6,225,0.17,0,0,166
-"372","Cappuccino with Skim Milk and Sugar ","Small","Nonfat","295",110,0,0,0,0,55,24,0,23,4,150,0.12,0,0,118
-"373","Cappuccino with Whole Milk ","Large","Whole","591",160,8,4.5,0,25,115,13,0,12,8,277,0.21,0,0,252
-"374","Cappuccino with Whole Milk ","Medium","Whole","414",120,6,3.5,0,20,85,10,0,9,6,208,0.16,0,0,166
-"375","Cappuccino with Whole Milk ","Small","Whole","295",80,4,2.5,0,10,60,7,0,6,4,139,0.11,0,0,118
-"376","Cappuccino with Whole Milk and Sugar ","Large","Whole","591",290,8,4.5,0,25,115,48,0,46,8,278,0.21,0,0,252
-"377","Cappuccino with Whole Milk and Sugar ","Medium","Whole","414",220,6,3.5,0,20,85,36,0,35,6,208,0.16,0,0,166
-"378","Cappuccino with Whole Milk and Sugar ","Small","Whole","295",150,4,2.5,0,10,60,24,0,23,4,139,0.11,0,0,118
-"379","Caramel Swirl Hot Cappuccino with Skim Milk ","Large","Nonfat","591",310,0,0,0,10,180,65,0,63,11,404,0.31,0,0,252
-"380","Caramel Swirl Hot Cappuccino with Skim Milk ","Medium","Nonfat","414",230,0,0,0,5,135,49,0,47,8,303,0.23,0,0,166
-"381","Caramel Swirl Hot Cappuccino with Skim Milk ","Small","Nonfat","295",160,0,0,0,5,90,33,0,32,6,202,0.16,0,0,118
-"382","Caramel Swirl Hot Cappuccino with Whole Milk ","Large","Whole","591",380,8,4.5,0,30,180,65,0,63,11,381,0.29,0,0,252
-"383","Caramel Swirl Hot Cappuccino with Whole Milk ","Medium","Whole","414",280,6,3.5,0,20,135,48,0,47,8,285,0.22,0,0,166
-"384","Caramel Swirl Hot Cappuccino with Whole Milk ","Small","Whole","295",190,4,2.5,0,15,90,32,0,31,5,190,0.15,0,0,118
-"385","French Vanilla Swirl Hot Cappuccino with Skim Milk ","Large","Nonfat","591",310,0,0,0,10,170,65,0,61,11,384,0.3,0,0,252
-"386","French Vanilla Swirl Hot Cappuccino with Skim Milk ","Medium","Nonfat","414",230,0,0,0,5,130,48,0,46,8,288,0.22,0,0,166
-"387","French Vanilla Swirl Hot Cappuccino with Skim Milk ","Small","Nonfat","295",150,0,0,0,5,85,32,0,30,5,192,0.15,0,0,118
-"388","French Vanilla Swirl Hot Cappuccino with Whole Milk ","Large","Whole","591",370,8,4.5,0,30,170,64,0,60,10,361,0.28,0,0,252
-"389","French Vanilla Swirl Hot Cappuccino with Whole Milk ","Medium","Whole","414",280,6,3.5,0,20,130,48,0,45,8,271,0.21,0,0,166
-"390","French Vanilla Swirl Hot Cappuccino with Whole Milk ","Small","Whole","295",190,4,2.5,0,15,85,32,0,30,5,181,0.14,0,0,118
-"391","Hazelnut Swirl Hot Cappuccino with Skim Milk ","Large","Nonfat","591",310,0,0,0,10,170,65,0,61,11,384,0.3,0,0,252
-"392","Hazelnut Swirl Hot Cappuccino with Skim Milk ","Medium","Nonfat","414",230,0,0,0,5,130,49,0,46,8,288,0.22,0,0,166
-"393","Hazelnut Swirl Hot Cappuccino with Skim Milk ","Small","Nonfat","295",150,0,0,0,5,85,32,0,30,5,192,0.15,0,0,118
-"394","Hazelnut Swirl Hot Cappuccino with Whole Milk ","Large","Whole","591",370,8,4.5,0,30,170,64,0,60,10,361,0.28,0,0,252
-"395","Hazelnut Swirl Hot Cappuccino with Whole Milk ","Medium","Whole","414",280,6,3.5,0,20,130,48,0,45,8,271,0.21,0,0,166
-"396","Hazelnut Swirl Hot Cappuccino with Whole Milk ","Small","Whole","295",190,4,2.5,0,15,85,32,0,30,5,181,0.14,0,0,118
-"397","Mocha Swirl Hot Cappuccino with Skim Milk ","Large","Nonfat","591",300,1,0.5,0,5,140,64,2,58,10,311,0.24,2,0.11,252
-"398","Mocha Swirl Hot Cappuccino with Skim Milk ","Medium","Nonfat","414",220,1,0.5,0,5,105,48,2,43,7,233,0.18,1,0.06,166
-"399","Mocha Swirl Hot Cappuccino with Skim Milk ","Small","Nonfat","295",150,0.5,0,0,0,70,32,1,29,5,156,0.12,1,0.06,118
-"400","Mocha Swirl Hot Cappuccino with Whole Milk ","Large","Whole","591",360,9,5,0,25,140,63,2,57,9,288,0.22,2,0.11,252
-"401","Mocha Swirl Hot Cappuccino with Whole Milk ","Medium","Whole","414",270,7,4,0,20,110,48,2,43,7,216,0.17,1,0.06,166
-"402","Mocha Swirl Hot Cappuccino with Whole Milk ","Small","Whole","295",180,4.5,2.5,0,10,70,32,1,29,5,144,0.11,1,0.06,118
-"403","Americano ","Large",NA,"591",10,0,0,0,0,30,2,0,0,0,15,0.01,0,0,371
-"404","Americano ","Medium",NA,"414",10,0,0,0,0,25,2,0,0,0,12,0.01,0,0,284
-"405","Americano ","Small",NA,"295",5,0,0,0,0,15,1,0,0,0,7,0.01,0,0,237
-"406","Frozen Dunkaccino ","Large",NA,"591",930,22,15,0,40,350,177,3,159,10,294,0.23,3,0.17,119
-"407","Frozen Dunkaccino ","Medium",NA,"414",710,17,12,0,35,260,134,3,119,8,223,0.17,2,0.11,85
-"408","Frozen Dunkaccino ","Small",NA,"295",510,13,9,0,25,180,94,2,83,5,155,0.12,1,0.06,58
-"409","Caramel Swirl Frozen Coffee with Cream ","Large","Cream","946",1120,40,22,1.5,130,290,180,0,172,10,346,0.27,2,0.11,393
-"410","Caramel Swirl Frozen Coffee with Cream ","Medium","Cream","709",860,31,17,1,100,220,139,0,132,8,267,0.21,2,0.11,295
-"411","Caramel Swirl Frozen Coffee with Cream ","Small","Cream","354",610,22,12,0.5,70,160,97,0,92,6,190,0.15,1,0.06,196
-"412","Caramel Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","946",830,5,3.5,0,25,240,184,0,176,11,405,0.31,2,0.11,393
-"413","Caramel Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","709",650,4.5,3,0,25,180,142,0,135,9,312,0.24,2,0.11,295
-"414","Caramel Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","354",470,4.5,3,0,20,130,99,0,94,6,220,0.17,1,0.06,196
-"415","Caramel Swirl Frozen Coffee with Whole Milk ","Large","Whole","946",880,11,7,0,40,240,184,0,175,11,388,0.3,2,0.11,393
-"416","Caramel Swirl Frozen Coffee with Whole Milk ","Medium","Whole","709",680,9,6,0,35,180,141,0,134,8,299,0.23,2,0.11,295
-"417","Caramel Swirl Frozen Coffee with Whole Milk ","Small","Whole","354",490,8,4.5,0,30,130,99,0,94,6,211,0.16,1,0.06,196
-"418","French Vanilla Swirl Frozen Coffee with Cream ","Large","Cream","946",1110,40,22,1.5,130,280,180,0,169,10,326,0.25,2,0.11,393
-"419","French Vanilla Swirl Frozen Coffee with Cream ","Medium","Cream","709",860,31,17,1,100,220,138,0,130,8,253,0.19,2,0.11,295
-"420","French Vanilla Swirl Frozen Coffee with Cream ","Small","Cream","354",610,22,12,0.5,70,150,97,0,91,6,181,0.14,1,0.06,196
-"421","French Vanilla Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","946",830,5,3.5,0,25,230,184,0,173,11,386,0.3,2,0.11,393
-"422","French Vanilla Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","709",640,4.5,3,0,20,180,141,0,133,9,297,0.23,2,0.11,295
-"423","French Vanilla Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","354",460,4.5,3,0,20,125,99,0,93,6,210,0.16,1,0.06,196
-"424","French Vanilla Swirl Frozen Coffee with Whole Milk ","Large","Whole","946",880,11,7,0,40,230,183,0,173,11,369,0.28,2,0.11,393
-"425","French Vanilla Swirl Frozen Coffee with Whole Milk ","Medium","Whole","709",680,9,6,0,35,180,141,0,132,8,284,0.22,2,0.11,295
-"426","French Vanilla Swirl Frozen Coffee with Whole Milk ","Small","Whole","354",490,8,4.5,0,30,125,99,0,92,6,202,0.16,1,0.06,196
-"427","Frozen Coffee with Cream ","Large","Cream","946",780,35,18,1,105,200,113,0,108,7,204,0.16,2,0.11,393
-"428","Frozen Coffee with Cream ","Medium","Cream","709",590,26,14,1,80,150,85,0,81,5,153,0.12,2,0.11,295
-"429","Frozen Coffee with Cream ","Small","Cream","354",390,17,9,0.5,55,100,57,0,54,3,102,0.08,1,0.06,196
-"430","Frozen Coffee with Skim Milk ","Large","Nonfat","946",500,0,0,0,5,150,117,0,112,8,263,0.2,2,0.11,393
-"431","Frozen Coffee with Skim Milk ","Medium","Nonfat","709",370,0,0,0,5,115,88,0,84,6,198,0.15,2,0.11,295
-"432","Frozen Coffee with Skim Milk ","Small","Nonfat","354",250,0,0,0,0,75,59,0,56,4,132,0.1,1,0.06,196
-"433","Frozen Coffee with Whole Milk ","Large","Whole","946",550,6,3.5,0,20,150,117,0,111,7,246,0.19,2,0.11,393
-"434","Frozen Coffee with Whole Milk ","Medium","Whole","709",410,4.5,2.5,0,15,115,88,0,84,5,185,0.14,2,0.11,295
-"435","Frozen Coffee with Whole Milk ","Small","Whole","354",270,3,1.5,0,10,75,58,0,56,4,123,0.09,1,0.06,196
-"436","Hazelnut Swirl Frozen Coffee with Cream ","Large","Cream","946",1110,40,22,1.5,130,280,180,0,169,10,326,0.25,2,0.11,393
-"437","Hazelnut Swirl Frozen Coffee with Cream ","Medium","Cream","709",860,31,17,1,100,220,138,0,130,8,253,0.19,2,0.11,295
-"438","Hazelnut Swirl Frozen Coffee with Cream ","Small","Cream","354",610,22,12,0.5,70,150,97,0,91,6,181,0.14,1,0.06,196
-"439","Hazelnut Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","946",830,5,3.5,0,25,230,184,0,173,11,386,0.3,2,0.11,393
-"440","Hazelnut Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","709",640,4.5,3,0,20,180,141,0,133,9,297,0.23,2,0.11,295
-"441","Hazelnut Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","354",470,4.5,3,0,20,125,99,0,93,6,210,0.16,1,0.06,196
-"442","Hazelnut Swirl Frozen Coffee with Whole Milk ","Large","Whole","946",880,11,7,0,40,230,184,0,173,11,369,0.28,2,0.11,393
-"443","Hazelnut Swirl Frozen Coffee with Whole Milk ","Medium","Whole","709",680,9,6,0,35,180,141,0,132,8,284,0.22,2,0.11,295
-"444","Hazelnut Swirl Frozen Coffee with Whole Milk ","Small","Whole","354",490,8,4.5,0,30,125,99,0,92,6,202,0.16,1,0.06,196
-"445","Mocha Swirl Frozen Coffee with Cream ","Large","Cream","946",1100,41,22,1.5,125,240,179,3,165,9,235,0.18,4,0.22,393
-"446","Mocha Swirl Frozen Coffee with Cream ","Medium","Cream","709",850,31,17,1,95,190,137,2,126,7,180,0.14,3,0.17,295
-"447","Mocha Swirl Frozen Coffee with Cream ","Small","Cream","354",600,22,13,0.5,70,125,97,2,88,5,126,0.1,2,0.11,196
-"448","Mocha Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","946",820,6,4,0,20,190,183,3,169,10,294,0.23,4,0.22,393
-"449","Mocha Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","709",630,5,3.5,0,20,150,140,2,129,8,224,0.17,3,0.17,295
-"450","Mocha Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","354",460,5,3.5,0,15,100,99,2,90,5,155,0.12,2,0.11,196
-"451","Mocha Swirl Frozen Coffee with Whole Milk ","Large","Whole","946",870,12,7,0,35,190,183,3,169,9,277,0.21,4,0.22,393
-"452","Mocha Swirl Frozen Coffee with Whole Milk ","Medium","Whole","709",670,10,6,0,30,150,140,2,129,7,211,0.16,3,0.17,295
-"453","Mocha Swirl Frozen Coffee with Whole Milk ","Small","Whole","354",480,8,5,0,25,100,98,2,90,5,147,0.11,2,0.11,196
-"454","Caramel Swirl Frozen Chocolate ","Large",NA,"591",900,17,12,0,40,380,176,1,165,11,392,0.3,0,0,8
-"455","Caramel Swirl Frozen Chocolate ","Medium",NA,"414",700,14,10,0,35,290,135,1,126,9,302,0.23,0,0,6
-"456","Caramel Swirl Frozen Chocolate ","Small",NA,"295",500,11,8,0,30,200,95,1,88,6,213,0.16,0,0,5
-"457","French Vanilla Swirl Frozen Chocolate ","Large",NA,"591",900,17,12,0,40,370,175,1,162,11,372,0.29,0,0,8
-"458","French Vanilla Swirl Frozen Chocolate ","Medium",NA,"414",700,14,10,0,35,280,135,1,124,9,287,0.22,0,0,6
-"459","French Vanilla Swirl Frozen Chocolate ","Small",NA,"295",500,11,8,0,30,190,95,1,87,6,204,0.16,0,0,5
-"460","Frozen Chocolate ","Large",NA,"591",890,18,13,0,35,330,175,4,158,10,281,0.22,2,0.11,8
-"461","Frozen Chocolate ","Medium",NA,"414",690,15,10,0,30,250,134,3,121,7,214,0.16,2,0.11,6
-"462","Frozen Chocolate ","Small",NA,"295",490,11,8,0,25,170,94,2,84,5,149,0.11,1,0.06,5
-"463","Hazelnut Swirl Frozen Chocolate ","Large",NA,"591",900,17,12,0,40,370,176,1,162,11,372,0.29,0,0,8
-"464","Hazelnut Swirl Frozen Chocolate ","Medium",NA,"414",700,14,10,0,35,280,135,1,124,9,287,0.22,0,0,6
-"465","Hazelnut Swirl Frozen Chocolate ","Small",NA,"295",500,11,8,0,30,190,95,1,87,6,204,0.16,0,0,5
-"466","Cold Brew Coffee ","Large",NA,"591",5,0,0,0,0,20,0,0,0,1,21,0.02,0,0,347
-"467","Cold Brew Coffee ","Medium",NA,"414",5,0,0,0,0,15,0,0,0,0,15,0.01,0,0,260
-"468","Cold Brew Coffee ","Small",NA,"295",5,0,0,0,0,10,0,0,0,0,11,0.01,0,0,174
-"469","Cold Brew Coffee with Cream ","Large","Cream","591",120,12,6,0,35,65,2,0,2,2,75,0.06,0,0,347
-"470","Cold Brew Coffee with Cream ","Medium","Cream","414",90,9,4.5,0,25,45,1,0,1,2,55,0.04,0,0,260
-"471","Cold Brew Coffee with Cream ","Small","Cream","295",60,6,3,0,20,30,1,0,1,1,37,0.03,0,0,174
-"472","Cold Brew Coffee with Cream and Sugar ","Large","Cream","591",260,12,6,0,35,65,37,0,36,2,75,0.06,0,0,347
-"473","Cold Brew Coffee with Cream and Sugar ","Medium","Cream","414",190,9,4.5,0,25,45,27,0,27,2,55,0.04,0,0,260
-"474","Cold Brew Coffee with Cream and Sugar ","Small","Cream","295",130,6,3,0,20,30,18,0,18,1,38,0.03,0,0,174
-"475","Nitro Cold Brew Coffee ","Small",NA,"295",5,0,0,0,0,5,0,0,0,0,6,0,0,0,174
+﻿NAME,SIZE,MILK,SERVING_SIZE_ml,CALORIES,TOTAL_FAT_g,SATURATED_FAT_g,TRANS_FAT_g,CHOLESTEROL_mg,SODIUM_mg,TOTAL_CARB_g,DIETARY_FIBER_g,SUGAR_g,PROTEIN_g,CALCIUM_mg,CALCIUM_pcdv,IRON_mg,IRON_pcdv,CAFFEINE_mg
+Americano,Large,NA,591,10,0,0,0,0,30,2,0,0,0,15,0.01,0,0,371
+Americano,Medium,NA,414,10,0,0,0,0,25,2,0,0,0,12,0.01,0,0,284
+Americano,Small,NA,295,5,0,0,0,0,15,1,0,0,0,7,0.01,0,0,237
+Cappuccino,Large,Nonfat,591,90,0,0,0,5,115,13,0,12,8,300,0.23,0,0,252
+Cappuccino,Medium,Nonfat,414,70,0,0,0,5,85,10,0,9,6,225,0.17,0,0,166
+Cappuccino,Small,Nonfat,295,45,0,0,0,0,55,7,0,6,4,150,0.12,0,0,118
+Cappuccino,Large,Nonfat,591,230,0,0,0,5,115,48,0,47,8,301,0.23,0,0,252
+Cappuccino,Medium,Nonfat,414,170,0,0,0,5,85,36,0,35,6,225,0.17,0,0,166
+Cappuccino,Small,Nonfat,295,110,0,0,0,0,55,24,0,23,4,150,0.12,0,0,118
+Cappuccino,Large,Whole,591,160,8,4.5,0,25,115,13,0,12,8,277,0.21,0,0,252
+Cappuccino,Medium,Whole,414,120,6,3.5,0,20,85,10,0,9,6,208,0.16,0,0,166
+Cappuccino,Small,Whole,295,80,4,2.5,0,10,60,7,0,6,4,139,0.11,0,0,118
+Cappuccino,Large,Whole,591,290,8,4.5,0,25,115,48,0,46,8,278,0.21,0,0,252
+Cappuccino,Medium,Whole,414,220,6,3.5,0,20,85,36,0,35,6,208,0.16,0,0,166
+Cappuccino,Small,Whole,295,150,4,2.5,0,10,60,24,0,23,4,139,0.11,0,0,118
+Caramel Swirl Frozen Chocolate,Large,NA,591,900,17,12,0,40,380,176,1,165,11,392,0.3,0,0,8
+Caramel Swirl Frozen Chocolate,Medium,NA,414,700,14,10,0,35,290,135,1,126,9,302,0.23,0,0,6
+Caramel Swirl Frozen Chocolate,Small,NA,295,500,11,8,0,30,200,95,1,88,6,213,0.16,0,0,5
+Caramel Swirl Frozen Coffee,Large,Cream,946,1120,40,22,1.5,130,290,180,0,172,10,346,0.27,2,0.11,393
+Caramel Swirl Frozen Coffee,Medium,Cream,709,860,31,17,1,100,220,139,0,132,8,267,0.21,2,0.11,295
+Caramel Swirl Frozen Coffee,Small,Cream,354,610,22,12,0.5,70,160,97,0,92,6,190,0.15,1,0.06,196
+Caramel Swirl Frozen Coffee,Large,Nonfat,946,830,5,3.5,0,25,240,184,0,176,11,405,0.31,2,0.11,393
+Caramel Swirl Frozen Coffee,Medium,Nonfat,709,650,4.5,3,0,25,180,142,0,135,9,312,0.24,2,0.11,295
+Caramel Swirl Frozen Coffee,Small,Nonfat,354,470,4.5,3,0,20,130,99,0,94,6,220,0.17,1,0.06,196
+Caramel Swirl Frozen Coffee,Large,Whole,946,880,11,7,0,40,240,184,0,175,11,388,0.3,2,0.11,393
+Caramel Swirl Frozen Coffee,Medium,Whole,709,680,9,6,0,35,180,141,0,134,8,299,0.23,2,0.11,295
+Caramel Swirl Frozen Coffee,Small,Whole,354,490,8,4.5,0,30,130,99,0,94,6,211,0.16,1,0.06,196
+Caramel Swirl Hot Cappuccino,Large,Nonfat,591,310,0,0,0,10,180,65,0,63,11,404,0.31,0,0,252
+Caramel Swirl Hot Cappuccino,Medium,Nonfat,414,230,0,0,0,5,135,49,0,47,8,303,0.23,0,0,166
+Caramel Swirl Hot Cappuccino,Small,Nonfat,295,160,0,0,0,5,90,33,0,32,6,202,0.16,0,0,118
+Caramel Swirl Hot Cappuccino,Large,Whole,591,380,8,4.5,0,30,180,65,0,63,11,381,0.29,0,0,252
+Caramel Swirl Hot Cappuccino,Medium,Whole,414,280,6,3.5,0,20,135,48,0,47,8,285,0.22,0,0,166
+Caramel Swirl Hot Cappuccino,Small,Whole,295,190,4,2.5,0,15,90,32,0,31,5,190,0.15,0,0,118
+Caramel Swirl Hot Coffee,Large,NA,591,230,0,0,0,5,75,52,0,51,3,113,0.09,0,0,300
+Caramel Swirl Hot Coffee,Medium,NA,414,170,0,0,0,5,60,39,0,38,3,85,0.07,0,0,210
+Caramel Swirl Hot Coffee,Small,NA,295,110,0,0,0,0,40,26,0,26,2,57,0.04,0,0,150
+Caramel Swirl Hot Coffee,Large,Cream,591,340,12,6,0,40,120,53,0,53,5,167,0.13,0,0,300
+Caramel Swirl Hot Coffee,Medium,Cream,414,260,9,4.5,0,30,90,40,0,40,4,126,0.1,0,0,210
+Caramel Swirl Hot Coffee,Small,Cream,295,170,6,3,0,20,60,27,0,26,3,84,0.06,0,0,150
+Caramel Swirl Hot Coffee,Large,Nonfat,591,350,0,0,0,10,230,71,0,69,15,553,0.43,0,0,252
+Caramel Swirl Hot Coffee,Medium,Nonfat,414,260,0,0,0,10,170,53,0,52,11,415,0.32,0,0,166
+Caramel Swirl Hot Coffee,Small,Nonfat,295,180,0,0,0,5,115,36,0,35,8,276,0.21,0,0,118
+Caramel Swirl Hot Coffee,Large,Whole,591,450,12,7,0,40,240,70,0,69,14,518,0.4,0,0,252
+Caramel Swirl Hot Coffee,Medium,Whole,414,340,9,5,0,30,180,53,0,52,11,389,0.3,0,0,166
+Caramel Swirl Hot Coffee,Small,Whole,295,230,6,3.5,0,20,120,35,0,34,7,259,0.2,0,0,118
+Caramel Swirl Hot Macchiato,Large,Nonfat,591,310,0,0,0,10,190,66,0,63,11,404,0.31,0,0,371
+Caramel Swirl Hot Macchiato,Medium,Nonfat,414,240,0,0,0,5,140,49,0,47,8,303,0.23,0,0,284
+Caramel Swirl Hot Macchiato,Small,Nonfat,295,160,0,0,0,5,95,33,0,32,6,203,0.16,0,0,237
+Caramel Swirl Hot Macchiato,Large,Whole,591,380,8,4.5,0,30,190,65,0,63,11,381,0.29,0,0,371
+Caramel Swirl Hot Macchiato,Medium,Whole,414,290,6,3.5,0,20,140,49,0,47,8,286,0.22,0,0,284
+Caramel Swirl Hot Macchiato,Small,Whole,295,190,4,2.5,0,15,95,33,0,31,5,191,0.15,0,0,237
+Caramel Swirl Iced Cappuccino,Large,Nonfat,946,310,0,0,0,10,200,65,0,63,11,419,0.32,0,0,252
+Caramel Swirl Iced Cappuccino,Medium,Nonfat,709,230,0,0,0,5,150,49,0,47,8,314,0.24,0,0,166
+Caramel Swirl Iced Cappuccino,Small,Nonfat,354,160,0,0,0,5,100,33,0,32,6,210,0.16,0,0,118
+Caramel Swirl Iced Cappuccino,Large,Whole,946,380,8,4.5,0,30,200,65,0,63,11,396,0.3,0,0,252
+Caramel Swirl Iced Cappuccino,Medium,Whole,709,280,6,3.5,0,20,150,48,0,47,8,296,0.23,0,0,166
+Caramel Swirl Iced Cappuccino,Small,Whole,354,190,4,2.5,0,15,100,32,0,31,5,198,0.15,0,0,118
+Caramel Swirl Iced Coffee,Large,NA,946,230,0,0,0,5,85,52,0,51,3,123,0.09,0,0,396
+Caramel Swirl Iced Coffee,Medium,NA,709,170,0,0,0,5,65,39,0,38,3,92,0.07,0,0,297
+Caramel Swirl Iced Coffee,Small,NA,354,110,0,0,0,0,45,26,0,26,2,62,0.05,0,0,198
+Caramel Swirl Iced Coffee,Large,Cream,946,340,12,6,0,40,130,53,0,53,5,177,0.14,0,0,396
+Caramel Swirl Iced Coffee,Medium,Cream,709,260,9,4.5,0,30,95,40,0,40,4,132,0.1,0,0,297
+Caramel Swirl Iced Coffee,Small,Cream,354,170,6,3,0,20,65,27,0,26,3,89,0.07,0,0,198
+Caramel Swirl Iced Latte,Small,Nonfat,354,180,0,0,0,5,125,36,0,35,8,284,0.22,0,0,118
+Caramel Swirl Iced Latte,Large,Nonfat,946,350,0,0,0,10,250,71,0,69,15,568,0.44,0,0,252
+Caramel Swirl Iced Latte,Medium,Nonfat,709,260,0,0,0,10,190,53,0,52,11,426,0.33,0,0,166
+Caramel Swirl Iced Latte,Large,Whole,946,450,12,7,0,40,250,70,0,69,14,534,0.41,0,0,252
+Caramel Swirl Iced Latte,Medium,Whole,709,340,9,5,0,30,190,53,0,52,11,400,0.31,0,0,166
+Caramel Swirl Iced Latte,Small,Whole,354,230,6,3.5,0,20,125,35,0,34,7,267,0.21,0,0,118
+Caramel Swirl Iced Macchiato,Large,Nonfat,946,310,0,0,0,10,200,66,0,63,11,420,0.32,0,0,371
+Caramel Swirl Iced Macchiato,Medium,Nonfat,709,240,0,0,0,5,150,49,0,47,8,314,0.24,0,0,284
+Caramel Swirl Iced Macchiato,Small,Nonfat,354,160,0,0,0,5,105,33,0,32,6,211,0.16,0,0,237
+Caramel Swirl Iced Macchiato,Large,Whole,946,380,8,4.5,0,30,200,65,0,63,11,397,0.31,0,0,371
+Caramel Swirl Iced Macchiato,Medium,Whole,709,290,6,3.5,0,20,150,49,0,47,8,297,0.23,0,0,284
+Caramel Swirl Iced Macchiato,Small,Whole,354,190,4,2.5,0,15,105,33,0,31,5,199,0.15,0,0,237
+Cold Brew Coffee,Large,NA,591,5,0,0,0,0,20,0,0,0,1,21,0.02,0,0,347
+Cold Brew Coffee,Medium,NA,414,5,0,0,0,0,15,0,0,0,0,15,0.01,0,0,260
+Cold Brew Coffee,Small,NA,295,5,0,0,0,0,10,0,0,0,0,11,0.01,0,0,174
+Cold Brew Coffee,Large,Cream,591,120,12,6,0,35,65,2,0,2,2,75,0.06,0,0,347
+Cold Brew Coffee,Medium,Cream,414,90,9,4.5,0,25,45,1,0,1,2,55,0.04,0,0,260
+Cold Brew Coffee,Small,Cream,295,60,6,3,0,20,30,1,0,1,1,37,0.03,0,0,174
+Cold Brew Coffee,Large,Cream,591,260,12,6,0,35,65,37,0,36,2,75,0.06,0,0,347
+Cold Brew Coffee,Medium,Cream,414,190,9,4.5,0,25,45,27,0,27,2,55,0.04,0,0,260
+Cold Brew Coffee,Small,Cream,295,130,6,3,0,20,30,18,0,18,1,38,0.03,0,0,174
+Dunkaccino,Large,NA,591,490,21,17,0,10,470,73,1,53,4,94,0.07,1,0.06,119
+Dunkaccino,Medium,NA,414,350,15,12,0,5,340,52,1,38,3,67,0.05,0,0,85
+Dunkaccino,Small,NA,295,240,10,8,0,5,230,36,0,26,2,46,0.04,0,0,58
+French Vanilla Dunkaccino,Large,NA,591,470,21,17,0,10,460,70,1,50,3,65,0.05,1,0.06,119
+French Vanilla Dunkaccino,Medium,NA,414,350,16,13,0,5,350,53,1,38,2,49,0.04,0,0,85
+French Vanilla Dunkaccino,Small,NA,295,230,10,8,0,5,230,35,0,25,2,33,0.03,0,0,58
+French Vanilla Swirl Frozen Chocolate,Large,NA,591,900,17,12,0,40,370,175,1,162,11,372,0.29,0,0,8
+French Vanilla Swirl Frozen Chocolate,Medium,NA,414,700,14,10,0,35,280,135,1,124,9,287,0.22,0,0,6
+French Vanilla Swirl Frozen Chocolate,Small,NA,295,500,11,8,0,30,190,95,1,87,6,204,0.16,0,0,5
+French Vanilla Swirl Frozen Coffee,Large,Cream,946,1110,40,22,1.5,130,280,180,0,169,10,326,0.25,2,0.11,393
+French Vanilla Swirl Frozen Coffee,Medium,Cream,709,860,31,17,1,100,220,138,0,130,8,253,0.19,2,0.11,295
+French Vanilla Swirl Frozen Coffee,Small,Cream,354,610,22,12,0.5,70,150,97,0,91,6,181,0.14,1,0.06,196
+French Vanilla Swirl Frozen Coffee,Large,Nonfat,946,830,5,3.5,0,25,230,184,0,173,11,386,0.3,2,0.11,393
+French Vanilla Swirl Frozen Coffee,Medium,Nonfat,709,640,4.5,3,0,20,180,141,0,133,9,297,0.23,2,0.11,295
+French Vanilla Swirl Frozen Coffee,Small,Nonfat,354,460,4.5,3,0,20,125,99,0,93,6,210,0.16,1,0.06,196
+French Vanilla Swirl Frozen Coffee,Large,Whole,946,880,11,7,0,40,230,183,0,173,11,369,0.28,2,0.11,393
+French Vanilla Swirl Frozen Coffee,Medium,Whole,709,680,9,6,0,35,180,141,0,132,8,284,0.22,2,0.11,295
+French Vanilla Swirl Frozen Coffee,Small,Whole,354,490,8,4.5,0,30,125,99,0,92,6,202,0.16,1,0.06,196
+French Vanilla Swirl Hot Cappuccino,Large,Nonfat,591,310,0,0,0,10,170,65,0,61,11,384,0.3,0,0,252
+French Vanilla Swirl Hot Cappuccino,Medium,Nonfat,414,230,0,0,0,5,130,48,0,46,8,288,0.22,0,0,166
+French Vanilla Swirl Hot Cappuccino,Small,Nonfat,295,150,0,0,0,5,85,32,0,30,5,192,0.15,0,0,118
+French Vanilla Swirl Hot Cappuccino,Large,Whole,591,370,8,4.5,0,30,170,64,0,60,10,361,0.28,0,0,252
+French Vanilla Swirl Hot Cappuccino,Medium,Whole,414,280,6,3.5,0,20,130,48,0,45,8,271,0.21,0,0,166
+French Vanilla Swirl Hot Cappuccino,Small,Whole,295,190,4,2.5,0,15,85,32,0,30,5,181,0.14,0,0,118
+French Vanilla Swirl Hot Coffee,Large,NA,591,220,0,0,0,5,70,51,0,49,3,93,0.07,0,0,300
+French Vanilla Swirl Hot Coffee,Medium,NA,414,170,0,0,0,5,50,38,0,37,2,71,0.05,0,0,210
+French Vanilla Swirl Hot Coffee,Small,NA,295,110,0,0,0,0,35,26,0,24,2,48,0.04,0,0,150
+French Vanilla Swirl Hot Coffee,Large,Cream,591,340,12,6,0,40,110,53,0,50,5,147,0.11,0,0,300
+French Vanilla Swirl Hot Coffee,Medium,Cream,414,250,9,4.5,0,30,85,40,0,38,4,111,0.09,0,0,210
+French Vanilla Swirl Hot Coffee,Small,Cream,295,170,6,3,0,20,55,26,0,25,2,75,0.06,0,0,150
+French Vanilla Swirl Hot Latte,Large,Nonfat,591,350,0,0,0,10,220,71,0,67,15,534,0.41,0,0,252
+French Vanilla Swirl Hot Latte,Medium,Nonfat,414,260,0,0,0,10,170,53,0,50,11,400,0.31,0,0,166
+French Vanilla Swirl Hot Latte,Small,Nonfat,295,170,0,0,0,5,110,35,0,33,7,267,0.21,0,0,118
+French Vanilla Swirl Hot Latte,Large,Whole,591,450,12,7,0,40,230,70,0,66,14,499,0.38,0,0,252
+French Vanilla Swirl Hot Latte,Medium,Whole,414,330,9,5,0,30,170,52,0,50,11,374,0.29,0,0,166
+French Vanilla Swirl Hot Latte,Small,Whole,295,220,6,3.5,0,20,115,35,0,33,7,250,0.19,0,0,118
+French Vanilla Swirl Hot Macchiato,Large,Nonfat,591,310,0,0,0,10,180,65,0,61,11,385,0.3,0,0,371
+French Vanilla Swirl Hot Macchiato,Medium,Nonfat,414,230,0,0,0,5,135,49,0,46,8,289,0.22,0,0,284
+French Vanilla Swirl Hot Macchiato,Small,Nonfat,295,160,0,0,0,5,90,33,0,30,5,193,0.15,0,0,237
+French Vanilla Swirl Hot Macchiato,Large,Whole,591,380,8,4.5,0,30,180,65,0,60,10,362,0.28,0,0,371
+French Vanilla Swirl Hot Macchiato,Medium,Whole,414,280,6,3.5,0,20,135,49,0,45,8,272,0.21,0,0,284
+French Vanilla Swirl Hot Macchiato,Small,Whole,295,190,4,2.5,0,15,95,33,0,30,5,181,0.14,0,0,237
+French Vanilla Swirl Iced Cappuccino,Large,Nonfat,946,310,0,0,0,10,190,65,0,61,11,400,0.31,0,0,252
+French Vanilla Swirl Iced Cappuccino,Medium,Nonfat,709,230,0,0,0,5,140,48,0,46,8,299,0.23,0,0,166
+French Vanilla Swirl Iced Cappuccino,Small,Nonfat,354,150,0,0,0,5,95,32,0,30,5,200,0.15,0,0,118
+French Vanilla Swirl Iced Cappuccino,Large,Whole,946,370,8,4.5,0,30,190,64,0,60,10,377,0.29,0,0,252
+French Vanilla Swirl Iced Cappuccino,Medium,Whole,709,280,6,3.5,0,20,140,48,0,45,8,282,0.22,0,0,166
+French Vanilla Swirl Iced Cappuccino,Small,Whole,354,190,4,2.5,0,15,95,32,0,30,5,189,0.15,0,0,118
+French Vanilla Swirl Iced Coffee,Large,NA,946,220,0,0,0,5,80,51,0,49,3,104,0.08,0,0,396
+French Vanilla Swirl Iced Coffee,Medium,NA,709,170,0,0,0,5,60,38,0,37,2,77,0.06,0,0,297
+French Vanilla Swirl Iced Coffee,Small,NA,354,110,0,0,0,0,40,26,0,24,2,52,0.04,0,0,198
+French Vanilla Swirl Iced Coffee,Large,Cream,946,340,12,6,0,40,120,53,0,50,5,157,0.12,0,0,396
+French Vanilla Swirl Iced Coffee,Medium,Cream,709,250,9,4.5,0,30,90,40,0,38,4,118,0.09,0,0,297
+French Vanilla Swirl Iced Coffee,Small,Cream,354,170,6,3,0,20,60,26,0,25,2,79,0.06,0,0,198
+French Vanilla Swirl Iced Latte,Large,Nonfat,946,350,0,0,0,10,240,71,0,67,15,549,0.42,0,0,252
+French Vanilla Swirl Iced Latte,Medium,Nonfat,709,260,0,0,0,10,180,53,0,50,11,411,0.32,0,0,166
+French Vanilla Swirl Iced Latte,Small,Nonfat,354,170,0,0,0,5,120,35,0,33,7,275,0.21,0,0,118
+French Vanilla Swirl Iced Latte,Large,Whole,946,450,12,7,0,40,240,70,0,66,14,515,0.4,0,0,252
+French Vanilla Swirl Iced Latte,Medium,Whole,709,330,9,5,0,30,180,52,0,50,11,385,0.3,0,0,166
+French Vanilla Swirl Iced Latte,Small,Whole,354,220,6,3.5,0,20,120,35,0,33,7,258,0.2,0,0,118
+French Vanilla Swirl Iced Macchiato,Large,Nonfat,946,310,0,0,0,10,190,65,0,61,11,401,0.31,0,0,371
+French Vanilla Swirl Iced Macchiato,Medium,Nonfat,709,230,0,0,0,5,150,49,0,46,8,300,0.23,0,0,284
+French Vanilla Swirl Iced Macchiato,Small,Nonfat,354,160,0,0,0,5,100,33,0,30,5,201,0.15,0,0,237
+French Vanilla Swirl Iced Macchiato,Large,Whole,946,380,8,4.5,0,30,200,65,0,60,10,378,0.29,0,0,371
+French Vanilla Swirl Iced Macchiato,Medium,Whole,709,280,6,3.5,0,20,150,49,0,45,8,283,0.22,0,0,284
+French Vanilla Swirl Iced Macchiato,Small,Whole,354,190,4,2.5,0,15,100,33,0,30,5,189,0.15,0,0,237
+Frozen Chocolate,Large,NA,591,890,18,13,0,35,330,175,4,158,10,281,0.22,2,0.11,8
+Frozen Chocolate,Medium,NA,414,690,15,10,0,30,250,134,3,121,7,214,0.16,2,0.11,6
+Frozen Chocolate,Small,NA,295,490,11,8,0,25,170,94,2,84,5,149,0.11,1,0.06,5
+Frozen Coffee,Large,Cream,946,780,35,18,1,105,200,113,0,108,7,204,0.16,2,0.11,393
+Frozen Coffee,Medium,Cream,709,590,26,14,1,80,150,85,0,81,5,153,0.12,2,0.11,295
+Frozen Coffee,Small,Cream,354,390,17,9,0.5,55,100,57,0,54,3,102,0.08,1,0.06,196
+Frozen Coffee,Large,Nonfat,946,500,0,0,0,5,150,117,0,112,8,263,0.2,2,0.11,393
+Frozen Coffee,Medium,Nonfat,709,370,0,0,0,5,115,88,0,84,6,198,0.15,2,0.11,295
+Frozen Coffee,Small,Nonfat,354,250,0,0,0,0,75,59,0,56,4,132,0.1,1,0.06,196
+Frozen Coffee,Large,Whole,946,550,6,3.5,0,20,150,117,0,111,7,246,0.19,2,0.11,393
+Frozen Coffee,Medium,Whole,709,410,4.5,2.5,0,15,115,88,0,84,5,185,0.14,2,0.11,295
+Frozen Coffee,Small,Whole,354,270,3,1.5,0,10,75,58,0,56,4,123,0.09,1,0.06,196
+Frozen Dunkaccino,Large,NA,591,930,22,15,0,40,350,177,3,159,10,294,0.23,3,0.17,119
+Frozen Dunkaccino,Medium,NA,414,710,17,12,0,35,260,134,3,119,8,223,0.17,2,0.11,85
+Frozen Dunkaccino,Small,NA,295,510,13,9,0,25,180,94,2,83,5,155,0.12,1,0.06,58
+Hazelnut Swirl Frozen Chocolate,Large,NA,591,900,17,12,0,40,370,176,1,162,11,372,0.29,0,0,8
+Hazelnut Swirl Frozen Chocolate,Medium,NA,414,700,14,10,0,35,280,135,1,124,9,287,0.22,0,0,6
+Hazelnut Swirl Frozen Chocolate,Small,NA,295,500,11,8,0,30,190,95,1,87,6,204,0.16,0,0,5
+Hazelnut Swirl Frozen Coffee,Large,Cream,946,1110,40,22,1.5,130,280,180,0,169,10,326,0.25,2,0.11,393
+Hazelnut Swirl Frozen Coffee,Medium,Cream,709,860,31,17,1,100,220,138,0,130,8,253,0.19,2,0.11,295
+Hazelnut Swirl Frozen Coffee,Small,Cream,354,610,22,12,0.5,70,150,97,0,91,6,181,0.14,1,0.06,196
+Hazelnut Swirl Frozen Coffee,Large,Nonfat,946,830,5,3.5,0,25,230,184,0,173,11,386,0.3,2,0.11,393
+Hazelnut Swirl Frozen Coffee,Medium,Nonfat,709,640,4.5,3,0,20,180,141,0,133,9,297,0.23,2,0.11,295
+Hazelnut Swirl Frozen Coffee,Small,Nonfat,354,470,4.5,3,0,20,125,99,0,93,6,210,0.16,1,0.06,196
+Hazelnut Swirl Frozen Coffee,Large,Whole,946,880,11,7,0,40,230,184,0,173,11,369,0.28,2,0.11,393
+Hazelnut Swirl Frozen Coffee,Medium,Whole,709,680,9,6,0,35,180,141,0,132,8,284,0.22,2,0.11,295
+Hazelnut Swirl Frozen Coffee,Small,Whole,354,490,8,4.5,0,30,125,99,0,92,6,202,0.16,1,0.06,196
+Hazelnut Swirl Hot Cappuccino,Large,Nonfat,591,310,0,0,0,10,170,65,0,61,11,384,0.3,0,0,252
+Hazelnut Swirl Hot Cappuccino,Medium,Nonfat,414,230,0,0,0,5,130,49,0,46,8,288,0.22,0,0,166
+Hazelnut Swirl Hot Cappuccino,Small,Nonfat,295,150,0,0,0,5,85,32,0,30,5,192,0.15,0,0,118
+Hazelnut Swirl Hot Cappuccino,Large,Whole,591,370,8,4.5,0,30,170,64,0,60,10,361,0.28,0,0,252
+Hazelnut Swirl Hot Cappuccino,Medium,Whole,414,280,6,3.5,0,20,130,48,0,45,8,271,0.21,0,0,166
+Hazelnut Swirl Hot Cappuccino,Small,Whole,295,190,4,2.5,0,15,85,32,0,30,5,181,0.14,0,0,118
+Hazelnut Swirl Hot Coffee,Large,NA,591,220,0,0,0,5,70,51,0,49,3,93,0.07,0,0,300
+Hazelnut Swirl Hot Coffee,Medium,NA,414,170,0,0,0,5,50,38,0,37,2,71,0.05,0,0,210
+Hazelnut Swirl Hot Coffee,Small,NA,295,110,0,0,0,0,35,26,0,24,2,48,0.04,0,0,150
+Hazelnut Swirl Hot Coffee,Large,Cream,591,340,12,6,0,40,110,53,0,50,5,147,0.11,0,0,300
+Hazelnut Swirl Hot Coffee,Medium,Cream,414,250,9,4.5,0,30,85,40,0,38,4,111,0.09,0,0,210
+Hazelnut Swirl Hot Coffee,Small,Cream,295,170,6,3,0,20,55,27,0,25,2,75,0.06,0,0,150
+Hazelnut Swirl Hot Latte,Large,Nonfat,591,350,0,0,0,10,220,71,0,67,15,534,0.41,0,0,252
+Hazelnut Swirl Hot Latte,Medium,Nonfat,414,260,0,0,0,10,170,53,0,50,11,400,0.31,0,0,166
+Hazelnut Swirl Hot Latte,Small,Nonfat,295,170,0,0,0,5,110,35,0,33,7,267,0.21,0,0,118
+Hazelnut Swirl Hot Latte,Large,Whole,591,450,12,7,0,40,230,70,0,66,14,499,0.38,0,0,252
+Hazelnut Swirl Hot Latte,Medium,Whole,414,340,9,5,0,30,170,53,0,50,11,374,0.29,0,0,166
+Hazelnut Swirl Hot Latte,Small,Whole,295,220,6,3.5,0,20,115,35,0,33,7,250,0.19,0,0,118
+Hazelnut Swirl Hot Macchiato,Large,Nonfat,591,310,0,0,0,10,180,65,0,61,11,385,0.3,0,0,371
+Hazelnut Swirl Hot Macchiato,Medium,Nonfat,414,230,0,0,0,5,135,49,0,46,8,289,0.22,0,0,284
+Hazelnut Swirl Hot Macchiato,Small,Nonfat,295,160,0,0,0,5,90,33,0,30,5,193,0.15,0,0,237
+Hazelnut Swirl Hot Macchiato,Large,Whole,591,380,8,4.5,0,30,180,65,0,60,10,362,0.28,0,0,371
+Hazelnut Swirl Hot Macchiato,Medium,Whole,414,280,6,3.5,0,20,135,49,0,45,8,272,0.21,0,0,284
+Hazelnut Swirl Hot Macchiato,Small,Whole,295,190,4,2.5,0,15,95,33,0,30,5,181,0.14,0,0,237
+Hazelnut Swirl Iced Cappuccino,Large,Nonfat,946,310,0,0,0,10,190,65,0,61,11,400,0.31,0,0,252
+Hazelnut Swirl Iced Cappuccino,Medium,Nonfat,709,230,0,0,0,5,140,49,0,46,8,299,0.23,0,0,166
+Hazelnut Swirl Iced Cappuccino,Small,Nonfat,354,150,0,0,0,5,95,32,0,30,5,200,0.15,0,0,118
+Hazelnut Swirl Iced Cappuccino,Large,Whole,946,370,8,4.5,0,30,190,64,0,60,10,377,0.29,0,0,252
+Hazelnut Swirl Iced Cappuccino,Medium,Whole,709,280,6,3.5,0,20,140,48,0,45,8,282,0.22,0,0,166
+Hazelnut Swirl Iced Cappuccino,Small,Whole,354,190,4,2.5,0,15,95,32,0,30,5,189,0.15,0,0,118
+Hazelnut Swirl Iced Coffee,Large,NA,946,220,0,0,0,5,80,51,0,49,3,104,0.08,0,0,396
+Hazelnut Swirl Iced Coffee,Medium,NA,709,170,0,0,0,5,60,38,0,37,2,77,0.06,0,0,297
+Hazelnut Swirl Iced Coffee,Small,NA,354,110,0,0,0,0,40,26,0,24,2,53,0.04,0,0,198
+Hazelnut Swirl Iced Coffee,Large,Cream,946,340,12,6,0,40,120,53,0,50,5,157,0.12,0,0,396
+Hazelnut Swirl Iced Coffee,Medium,Cream,709,250,9,4.5,0,30,90,40,0,38,4,118,0.09,0,0,297
+Hazelnut Swirl Iced Coffee,Small,Cream,354,170,6,3,0,20,60,27,0,25,2,79,0.06,0,0,198
+Hazelnut Swirl Iced Latte,Large,Nonfat,946,350,0,0,0,10,240,71,0,67,15,549,0.42,0,0,252
+Hazelnut Swirl Iced Latte,Medium,Nonfat,709,260,0,0,0,10,180,53,0,50,11,411,0.32,0,0,166
+Hazelnut Swirl Iced Latte,Small,Nonfat,354,170,0,0,0,5,120,35,0,33,7,275,0.21,0,0,118
+Hazelnut Swirl Iced Latte,Large,Whole,946,450,12,7,0,40,240,70,0,66,14,515,0.4,0,0,252
+Hazelnut Swirl Iced Latte,Medium,Whole,709,340,9,5,0,30,180,53,0,50,11,385,0.3,0,0,166
+Hazelnut Swirl Iced Latte,Small,Whole,354,220,6,3.5,0,20,120,35,0,33,7,258,0.2,0,0,118
+Hazelnut Swirl Iced Macchiato,Large,Nonfat,946,310,0,0,0,10,190,65,0,61,11,401,0.31,0,0,371
+Hazelnut Swirl Iced Macchiato,Medium,Nonfat,709,230,0,0,0,5,150,49,0,46,8,300,0.23,0,0,284
+Hazelnut Swirl Iced Macchiato,Small,Nonfat,354,160,0,0,0,5,100,33,0,30,5,201,0.15,0,0,237
+Hazelnut Swirl Iced Macchiato,Large,Whole,946,380,8,4.5,0,30,200,65,0,60,10,378,0.29,0,0,371
+Hazelnut Swirl Iced Macchiato,Medium,Whole,709,280,6,3.5,0,20,150,49,0,45,8,283,0.22,0,0,284
+Hazelnut Swirl Iced Macchiato,Small,Whole,354,190,4,2.5,0,15,100,33,0,30,5,189,0.15,0,0,237
+Hot Chocolate with Espresso Shot,Large,NA,591,400,12,11,0,0,390,71,3,55,3,61,0.05,1,0.06,18
+Hot Chocolate with Espresso Shot,Medium,NA,414,280,9,8,0,0,280,51,2,39,2,43,0.03,0,0,13
+Hot Chocolate with Espresso Shot,Small,NA,295,190,6,5,0,0,190,35,1,27,2,30,0.02,0,0,9
+Hot Coffee,Large,NA,591,5,0,0,0,0,10,0,0,0,1,11,0.01,0,0,300
+Hot Coffee,Medium,NA,414,5,0,0,0,0,10,0,0,0,1,8,0.01,0,0,210
+Hot Coffee,Small,NA,295,5,0,0,0,0,5,0,0,0,0,6,0,0,0,150
+Hot Coffee,Large,Almond,591,35,1,0,0,0,65,5,0,5,1,183,0.14,0,0,300
+Hot Coffee,Medium,Almond,414,25,0.5,0,0,0,45,4,0,3,1,123,0.09,0,0,210
+Hot Coffee,Small,Almond,295,15,0,0,0,0,25,2,0,2,0,63,0.05,0,0,150
+Hot Coffee,Large,Cream,591,120,12,6,0,35,55,2,0,2,2,64,0.05,0,0,300
+Hot Coffee,Medium,Cream,414,90,9,4.5,0,25,40,1,0,1,2,49,0.04,0,0,210
+Hot Coffee,Small,Cream,295,60,6,3,0,20,30,1,0,1,1,33,0.03,0,0,150
+Hot Coffee,Large,Cream,591,260,12,6,0,35,55,37,0,36,2,65,0.05,0,0,300
+Hot Coffee,Medium,Cream,414,190,9,4.5,0,25,40,27,0,27,2,49,0.04,0,0,210
+Hot Coffee,Small,Cream,295,130,6,3,0,20,30,18,0,18,1,34,0.03,0,0,150
+Hot Coffee,Large,Nonfat,591,25,0,0,0,0,35,3,0,3,3,84,0.06,0,0,300
+Hot Coffee,Medium,Nonfat,414,20,0,0,0,0,25,2,0,2,2,64,0.05,0,0,210
+Hot Coffee,Small,Nonfat,295,15,0,0,0,0,20,2,0,2,1,43,0.03,0,0,150
+Hot Coffee,Large,Nonfat,591,160,0,0,0,0,35,38,0,38,3,85,0.07,0,0,300
+Hot Coffee,Medium,Nonfat,414,120,0,0,0,0,25,28,0,28,2,64,0.05,0,0,210
+Hot Coffee,Small,Nonfat,295,80,0,0,0,0,20,19,0,19,1,43,0.03,0,0,150
+Hot Coffee,Large,NA,591,140,0,0,0,0,10,35,0,35,1,11,0.01,0,0,300
+Hot Coffee,Medium,NA,414,110,0,0,0,0,10,26,0,26,1,9,0.01,0,0,210
+Hot Coffee,Small,NA,295,70,0,0,0,0,5,17,0,17,0,7,0.01,0,0,150
+Hot Coffee,Large,Whole,591,40,2,1,0,5,35,3,0,3,2,78,0.06,0,0,300
+Hot Coffee,Medium,Whole,414,30,1.5,1,0,5,25,2,0,2,2,59,0.05,0,0,210
+Hot Coffee,Small,Whole,295,20,1,0.5,0,5,20,1,0,1,1,40,0.03,0,0,150
+Hot Coffee,Large,Whole,591,190,2,1,0,5,35,42,0,42,2,79,0.06,0,0,300
+Hot Coffee,Medium,Whole,414,130,1.5,1,0,5,30,28,0,28,2,60,0.05,0,0,210
+Hot Coffee,Small,Whole,295,90,1,0.5,0,5,20,19,0,19,1,40,0.03,0,0,150
+Hot Latte,Large,Almond,591,130,3.5,0,0,0,240,23,1,20,2,699,0.54,1,0.06,252
+Hot Latte,Medium,Almond,414,100,3,0,0,0,180,17,1,15,1,525,0.4,1,0.06,166
+Hot Latte,Small,Almond,295,70,2,0,0,0,120,11,0,10,1,350,0.27,1,0.06,118
+Hot Latte,Large,Nonfat,591,130,0,0,0,5,170,20,0,18,12,450,0.35,0,0,252
+Hot Latte,Medium,Nonfat,414,100,0,0,0,5,125,15,0,14,9,337,0.26,0,0,166
+Hot Latte,Small,Nonfat,295,70,0,0,0,5,85,10,0,9,6,225,0.17,0,0,118
+Hot Latte,Large,Nonfat,591,270,0,0,0,5,170,54,0,53,12,450,0.35,0,0,252
+Hot Latte,Medium,Nonfat,414,200,0,0,0,5,125,41,0,40,9,337,0.26,0,0,166
+Hot Latte,Small,Nonfat,295,130,0,0,0,5,85,27,0,26,6,225,0.17,0,0,118
+Hot Latte,Large,Whole,591,230,12,7,0,35,170,19,0,18,12,415,0.32,0,0,252
+Hot Latte,Medium,Whole,414,170,9,5,0,25,125,14,0,13,9,311,0.24,0,0,166
+Hot Latte,Small,Whole,295,120,6,3.5,0,20,85,9,0,9,6,208,0.16,0,0,118
+Hot Latte,Large,Whole,591,370,12,7,0,35,170,54,0,52,12,416,0.32,0,0,252
+Hot Latte,Medium,Whole,414,270,9,5,0,25,125,40,0,39,9,312,0.24,0,0,166
+Hot Latte,Small,Whole,295,180,6,3.5,0,20,85,27,0,26,6,208,0.16,0,0,118
+Hot Macchiato,Large,Nonfat,591,90,0,0,0,5,120,14,0,12,8,301,0.23,0,0,371
+Hot Macchiato,Medium,Nonfat,414,70,0,0,0,5,90,11,0,9,6,226,0.17,0,0,284
+Hot Macchiato,Small,Nonfat,295,50,0,0,0,0,65,7,0,6,4,151,0.12,0,0,237
+Hot Macchiato,Large,Nonfat,591,230,0,0,0,5,120,49,0,47,8,301,0.23,0,0,371
+Hot Macchiato,Medium,Nonfat,414,170,0,0,0,5,90,37,0,35,6,226,0.17,0,0,284
+Hot Macchiato,Small,Nonfat,295,120,0,0,0,0,65,25,0,23,4,151,0.12,0,0,237
+Hot Macchiato,Large,Whole,591,160,8,4.5,0,25,120,14,0,12,8,278,0.21,0,0,371
+Hot Macchiato,Medium,Whole,414,120,6,3.5,0,20,90,10,0,9,6,209,0.16,0,0,284
+Hot Macchiato,Small,Whole,295,80,4,2.5,0,10,65,7,0,6,4,139,0.11,0,0,237
+Hot Macchiato,Large,Whole,591,290,8,4.5,0,25,120,49,0,46,8,278,0.21,0,0,371
+Hot Macchiato,Medium,Whole,414,220,6,3.5,0,20,90,37,0,35,6,209,0.16,0,0,284
+Hot Macchiato,Small,Whole,295,150,4,2.5,0,10,65,25,0,23,4,140,0.11,0,0,237
+Iced Americano,Large,NA,946,10,0,0,0,0,40,2,0,0,0,25,0.02,0,0,371
+Iced Americano,Medium,NA,709,10,0,0,0,0,30,2,0,0,0,18,0.01,0,0,284
+Iced Americano,Small,NA,354,5,0,0,0,0,25,1,0,0,0,13,0.01,0,0,237
+Iced Cappuccino,Large,Nonfat,946,90,0,0,0,5,130,13,0,12,8,316,0.24,0,0,252
+Iced Cappuccino,Medium,Nonfat,709,70,0,0,0,5,95,10,0,9,6,236,0.18,0,0,166
+Iced Cappuccino,Small,Nonfat,354,45,0,0,0,0,65,7,0,6,4,158,0.12,0,0,118
+Iced Cappuccino,Large,Nonfat,946,230,0,0,0,5,130,48,0,47,8,316,0.24,0,0,252
+Iced Cappuccino,Medium,Nonfat,709,170,0,0,0,5,95,36,0,35,6,236,0.18,0,0,166
+Iced Cappuccino,Small,Nonfat,354,110,0,0,0,0,65,24,0,23,4,158,0.12,0,0,118
+Iced Cappuccino,Large,Whole,946,160,8,4.5,0,25,130,13,0,12,8,293,0.23,0,0,252
+Iced Cappuccino,Medium,Whole,709,120,6,3.5,0,20,100,10,0,9,6,219,0.17,0,0,166
+Iced Cappuccino,Small,Whole,354,80,4,2.5,0,10,65,7,0,6,4,147,0.11,0,0,118
+Iced Cappuccino,Large,Whole,946,290,8,4.5,0,25,130,48,0,46,8,293,0.23,0,0,252
+Iced Cappuccino,Medium,Whole,709,220,6,3.5,0,20,100,36,0,35,6,219,0.17,0,0,166
+Iced Cappuccino,Small,Whole,354,150,4,2.5,0,10,65,24,0,23,4,147,0.11,0,0,118
+Iced Coffee,Large,NA,946,5,0,0,0,0,20,0,0,0,1,21,0.02,0,0,396
+Iced Coffee,Medium,NA,709,5,0,0,0,0,15,0,0,0,0,15,0.01,0,0,297
+Iced Coffee,Small,NA,354,5,0,0,0,0,10,0,0,0,0,11,0.01,0,0,198
+Iced Coffee,Large,Almond,946,35,1,0,0,0,75,5,0,5,1,193,0.15,0,0,396
+Iced Coffee,Medium,Almond,709,25,0.5,0,0,0,50,4,0,3,1,130,0.1,0,0,297
+Iced Coffee,Small,Almond,354,15,0,0,0,0,30,2,0,2,0,68,0.05,0,0,198
+Iced Coffee,Large,Cream,946,120,12,6,0,35,65,2,0,2,2,75,0.06,0,0,396
+Iced Coffee,Medium,Cream,709,90,9,4.5,0,25,45,1,0,1,2,55,0.04,0,0,297
+Iced Coffee,Small,Cream,354,60,6,3,0,20,30,1,0,1,1,37,0.03,0,0,198
+Iced Coffee,Large,Cream,946,260,12,6,0,35,65,37,0,36,2,75,0.06,0,0,396
+Iced Coffee,Medium,Cream,709,190,9,4.5,0,25,45,27,0,27,2,55,0.04,0,0,297
+Iced Coffee,Small,Cream,354,130,6,3,0,20,30,18,0,18,1,38,0.03,0,0,198
+Iced Coffee,Large,Nonfat,946,25,0,0,0,0,45,3,0,3,3,94,0.07,0,0,396
+Iced Coffee,Medium,Nonfat,709,20,0,0,0,0,35,2,0,2,2,70,0.05,0,0,297
+Iced Coffee,Small,Nonfat,354,15,0,0,0,0,25,2,0,2,1,47,0.04,0,0,198
+Iced Coffee,Large,Nonfat,946,160,0,0,0,0,45,38,0,38,3,95,0.07,0,0,396
+Iced Coffee,Medium,Nonfat,709,120,0,0,0,0,35,28,0,28,2,70,0.05,0,0,297
+Iced Coffee,Small,Nonfat,354,80,0,0,0,0,25,19,0,19,1,47,0.04,0,0,198
+Iced Coffee,Large,NA,946,140,0,0,0,0,20,35,0,35,1,21,0.02,0,0,396
+Iced Coffee,Medium,NA,709,110,0,0,0,0,15,26,0,26,0,15,0.01,0,0,297
+Iced Coffee,Small,NA,354,70,0,0,0,0,10,17,0,17,0,11,0.01,0,0,198
+Iced Coffee,Large,Whole,946,40,2,1,0,5,45,3,0,3,3,89,0.07,0,0,396
+Iced Coffee,Medium,Whole,709,30,1.5,1,0,5,35,2,0,2,2,66,0.05,0,0,297
+Iced Coffee,Small,Whole,354,20,1,0.5,0,5,25,1,0,1,1,44,0.03,0,0,198
+Iced Coffee,Large,Whole,946,180,2,1,0,5,45,38,0,38,3,89,0.07,0,0,396
+Iced Coffee,Medium,Whole,709,130,1.5,1,0,5,35,28,0,28,2,66,0.05,0,0,297
+Iced Coffee,Small,Whole,354,90,1,0.5,0,5,25,19,0,19,1,45,0.03,0,0,198
+Iced Green Tea,Medium,NA,709,100,0,0,0,0,10,25,0,25,1,6,0,0,0,64
+Iced Green Tea,Small,NA,354,70,0,0,0,0,10,16,0,16,1,5,0,0,0,42
+Iced Green Tea,Large,NA,946,140,0,0,0,0,15,33,0,33,1,10,0.01,0,0,91
+Iced Green Tea,Large,NA,946,5,0,0,0,0,15,0,0,0,1,10,0.01,0,0,91
+Iced Green Tea,Medium,NA,709,5,0,0,0,0,10,0,0,0,1,6,0,0,0,64
+Iced Green Tea,Small,NA,354,5,0,0,0,0,10,0,0,0,1,5,0,0,0,42
+Iced Latte,Large,Almond,946,130,3.5,0,0,0,260,23,1,20,2,715,0.55,1,0.06,252
+Iced Latte,Medium,Almond,709,100,3,0,0,0,190,17,1,15,1,536,0.41,1,0.06,166
+Iced Latte,Small,Almond,354,70,2,0,0,0,130,11,0,10,1,358,0.28,1,0.06,118
+Iced Latte,Large,Nonfat,946,130,0,0,0,5,180,20,0,18,12,465,0.36,0,0,252
+Iced Latte,Medium,Nonfat,709,100,0,0,0,5,135,15,0,14,9,348,0.27,0,0,166
+Iced Latte,Small,Nonfat,354,70,0,0,0,5,90,10,0,9,6,233,0.18,0,0,118
+Iced Latte,Large,Nonfat,946,270,0,0,0,5,180,54,0,53,12,465,0.36,0,0,252
+Iced Latte,Medium,Nonfat,709,200,0,0,0,5,135,41,0,40,9,348,0.27,0,0,166
+Iced Latte,Small,Nonfat,354,130,0,0,0,5,90,27,0,26,6,233,0.18,0,0,118
+Iced Latte,Large,Whole,946,230,12,7,0,35,180,19,0,18,12,431,0.33,0,0,252
+Iced Latte,Medium,Whole,709,170,9,5,0,25,135,14,0,13,9,322,0.25,0,0,166
+Iced Latte,Small,Whole,354,120,6,3.5,0,20,90,9,0,9,6,216,0.17,0,0,118
+Iced Latte,Large,Whole,946,370,12,7,0,35,180,54,0,52,12,431,0.33,0,0,252
+Iced Latte,Medium,Whole,709,270,9,5,0,25,135,40,0,39,9,323,0.25,0,0,166
+Iced Latte,Small,Whole,354,180,6,3.5,0,20,90,27,0,26,6,216,0.17,0,0,118
+Iced Macchiato,Large,Nonfat,946,90,0,0,0,5,135,14,0,12,8,317,0.24,0,0,371
+Iced Macchiato,Medium,Nonfat,709,70,0,0,0,5,100,11,0,9,6,237,0.18,0,0,284
+Iced Macchiato,Small,Nonfat,354,50,0,0,0,0,70,7,0,6,4,159,0.12,0,0,237
+Iced Macchiato,Large,Nonfat,946,230,0,0,0,5,135,49,0,47,8,317,0.24,0,0,371
+Iced Macchiato,Medium,Nonfat,709,170,0,0,0,5,100,37,0,35,6,237,0.18,0,0,284
+Iced Macchiato,Small,Nonfat,354,120,0,0,0,0,70,25,0,23,4,159,0.12,0,0,237
+Iced Macchiato,Large,Whole,946,160,8,4.5,0,25,135,14,0,12,8,294,0.23,0,0,371
+Iced Macchiato,Medium,Whole,709,120,6,3.5,0,20,105,10,0,9,6,220,0.17,0,0,284
+Iced Macchiato,Small,Whole,354,80,4,2.5,0,10,70,7,0,6,4,147,0.11,0,0,237
+Iced Macchiato,Medium,Whole,709,220,6,3.5,0,20,105,37,0,35,6,220,0.17,0,0,284
+Iced Macchiato,Large,Whole,946,290,8,4.5,0,25,140,49,0,46,8,294,0.23,0,0,371
+Iced Macchiato,Small,Whole,354,150,4,2.5,0,10,70,25,0,23,4,148,0.11,0,0,237
+Iced Tea,Large,NA,946,140,0,0,0,0,25,35,0,33,0,10,0.01,0,0,90
+Iced Tea,Medium,NA,709,100,0,0,0,0,20,26,0,25,0,6,0,0,0,67
+Iced Tea,Small,NA,354,70,0,0,0,0,15,17,0,16,0,5,0,0,0,45
+Iced Tea,Large,NA,946,150,0,0,0,0,25,38,0,33,0,10,0.01,0,0,90
+Iced Tea,Medium,NA,709,110,0,0,0,0,20,28,0,25,0,6,0,0,0,67
+Iced Tea,Small,NA,354,80,0,0,0,0,15,19,0,17,0,5,0,0,0,45
+Iced Tea,Large,NA,946,150,0,0,0,0,25,38,0,33,0,10,0.01,0,0,90
+Iced Tea,Medium,NA,709,110,0,0,0,0,20,29,0,25,0,6,0,0,0,67
+Iced Tea,Small,NA,354,80,0,0,0,0,15,19,0,17,0,5,0,0,0,45
+Iced Tea,Large,NA,946,5,0,0,0,0,25,2,0,0,0,10,0.01,0,0,90
+Iced Tea,Medium,NA,709,5,0,0,0,0,20,1,0,0,0,6,0,0,0,67
+Iced Tea,Small,NA,354,5,0,0,0,0,15,1,0,0,0,5,0,0,0,45
+Iced Tea,Large,NA,946,20,0,0,0,0,25,5,0,0,0,10,0.01,0,0,90
+Iced Tea,Medium,NA,709,15,0,0,0,0,20,3,0,0,0,6,0,0,0,67
+Iced Tea,Small,NA,354,10,0,0,0,0,15,2,0,0,0,5,0,0,0,45
+Iced Tea,Large,NA,946,20,0,0,0,0,25,5,0,0,0,10,0.01,0,0,90
+Iced Tea,Medium,NA,709,15,0,0,0,0,20,4,0,0,0,6,0,0,0,67
+Iced Tea,Small,NA,354,10,0,0,0,0,15,3,0,0,0,5,0,0,0,45
+Mint Hot Chocolate,Large,NA,591,400,13,12,0,0,350,72,3,57,3,32,0.02,0,0,16
+Mint Hot Chocolate,Medium,NA,414,300,10,9,0,0,260,52,2,42,2,23,0.02,0,0,12
+Mint Hot Chocolate,Small,NA,295,210,7,6,0,0,180,36,1,29,1,16,0.01,0,0,8
+Mocha Swirl Frozen Coffee,Large,Cream,946,1100,41,22,1.5,125,240,179,3,165,9,235,0.18,4,0.22,393
+Mocha Swirl Frozen Coffee,Medium,Cream,709,850,31,17,1,95,190,137,2,126,7,180,0.14,3,0.17,295
+Mocha Swirl Frozen Coffee,Small,Cream,354,600,22,13,0.5,70,125,97,2,88,5,126,0.1,2,0.11,196
+Mocha Swirl Frozen Coffee,Large,Nonfat,946,820,6,4,0,20,190,183,3,169,10,294,0.23,4,0.22,393
+Mocha Swirl Frozen Coffee,Medium,Nonfat,709,630,5,3.5,0,20,150,140,2,129,8,224,0.17,3,0.17,295
+Mocha Swirl Frozen Coffee,Small,Nonfat,354,460,5,3.5,0,15,100,99,2,90,5,155,0.12,2,0.11,196
+Mocha Swirl Frozen Coffee,Large,Whole,946,870,12,7,0,35,190,183,3,169,9,277,0.21,4,0.22,393
+Mocha Swirl Frozen Coffee,Medium,Whole,709,670,10,6,0,30,150,140,2,129,7,211,0.16,3,0.17,295
+Mocha Swirl Frozen Coffee,Small,Whole,354,480,8,5,0,25,100,98,2,90,5,147,0.11,2,0.11,196
+Mocha Swirl Hot Cappuccino,Large,Nonfat,591,300,1,0.5,0,5,140,64,2,58,10,311,0.24,2,0.11,252
+Mocha Swirl Hot Cappuccino,Medium,Nonfat,414,220,1,0.5,0,5,105,48,2,43,7,233,0.18,1,0.06,166
+Mocha Swirl Hot Cappuccino,Small,Nonfat,295,150,0.5,0,0,0,70,32,1,29,5,156,0.12,1,0.06,118
+Mocha Swirl Hot Cappuccino,Large,Whole,591,360,9,5,0,25,140,63,2,57,9,288,0.22,2,0.11,252
+Mocha Swirl Hot Cappuccino,Medium,Whole,414,270,7,4,0,20,110,48,2,43,7,216,0.17,1,0.06,166
+Mocha Swirl Hot Cappuccino,Small,Whole,295,180,4.5,2.5,0,10,70,32,1,29,5,144,0.11,1,0.06,118
+Mocha Swirl Hot Coffee,Large,NA,591,210,1,0,0,0,40,50,2,46,2,20,0.02,2,0.11,300
+Mocha Swirl Hot Coffee,Medium,NA,414,160,0.5,0,0,0,30,38,2,34,2,16,0.01,1,0.06,210
+Mocha Swirl Hot Coffee,Small,NA,295,110,0,0,0,0,20,25,1,23,1,11,0.01,1,0.06,150
+Mocha Swirl Hot Coffee,Large,Cream,591,330,12,7,0,35,80,52,2,47,4,74,0.06,2,0.11,300
+Mocha Swirl Hot Coffee,Medium,Cream,414,240,9,5,0,25,60,39,2,35,3,56,0.04,1,0.06,210
+Mocha Swirl Hot Coffee,Small,Cream,295,160,6,3.5,0,20,40,26,1,24,2,38,0.03,1,0.06,150
+Mocha Swirl Hot Latte,Large,Nonfat,591,340,1,0.5,0,5,200,70,2,64,14,460,0.35,2,0.11,252
+Mocha Swirl Hot Latte,Medium,Nonfat,414,250,1,0.5,0,5,150,52,2,48,10,345,0.27,1,0.06,166
+Mocha Swirl Hot Latte,Small,Nonfat,295,170,0.5,0,0,5,100,35,1,32,7,230,0.18,1,0.06,118
+Mocha Swirl Hot Latte,Large,Whole,591,440,13,7,0,35,200,69,2,63,13,426,0.33,2,0.11,252
+Mocha Swirl Hot Latte,Medium,Whole,414,330,10,6,0,25,150,52,2,47,10,319,0.25,1,0.06,166
+Mocha Swirl Hot Latte,Small,Whole,295,220,6,3.5,0,20,100,35,1,32,7,213,0.16,1,0.06,118
+Mocha Swirl Hot Macchiato,Large,Nonfat,591,300,1,0.5,0,5,150,65,2,58,10,312,0.24,2,0.11,371
+Mocha Swirl Hot Macchiato,Medium,Nonfat,414,230,1,0.5,0,5,110,49,2,43,7,234,0.18,2,0.11,284
+Mocha Swirl Hot Macchiato,Small,Nonfat,295,150,0.5,0,0,0,75,33,1,29,5,156,0.12,1,0.06,237
+Mocha Swirl Hot Macchiato,Large,Whole,591,370,9,5,0,25,150,64,2,57,9,289,0.22,2,0.11,371
+Mocha Swirl Hot Macchiato,Medium,Whole,414,280,7,4,0,20,115,48,2,43,7,217,0.17,2,0.11,284
+Mocha Swirl Hot Macchiato,Small,Whole,295,180,4.5,2.5,0,10,80,32,1,29,5,145,0.11,1,0.06,237
+Mocha Swirl Iced Cappuccino,Large,Nonfat,946,300,1,0.5,0,5,160,64,2,58,10,327,0.25,2,0.11,252
+Mocha Swirl Iced Cappuccino,Medium,Nonfat,709,220,1,0.5,0,5,115,48,2,43,7,244,0.19,1,0.06,166
+Mocha Swirl Iced Cappuccino,Small,Nonfat,354,150,0.5,0,0,0,80,32,1,29,5,164,0.13,1,0.06,118
+Mocha Swirl Iced Cappuccino,Large,Whole,946,360,9,5,0,25,160,63,2,57,9,304,0.23,2,0.11,252
+Mocha Swirl Iced Cappuccino,Medium,Whole,709,270,7,4,0,20,120,48,2,43,7,227,0.17,1,0.06,166
+Mocha Swirl Iced Cappuccino,Small,Whole,354,180,4.5,2.5,0,10,80,32,1,29,5,152,0.12,1,0.06,118
+Mocha Swirl Iced Coffee,Large,NA,946,210,1,0,0,0,50,50,2,46,2,31,0.02,2,0.11,396
+Mocha Swirl Iced Coffee,Medium,NA,709,160,0.5,0,0,0,35,38,2,34,2,23,0.02,1,0.06,297
+Mocha Swirl Iced Coffee,Small,NA,354,110,0,0,0,0,25,25,1,23,1,16,0.01,1,0.06,198
+Mocha Swirl Iced Coffee,Large,Cream,946,330,12,7,0,35,90,52,2,47,4,84,0.06,2,0.11,396
+Mocha Swirl Iced Coffee,Medium,Cream,709,240,9,5,0,25,65,39,2,35,3,63,0.05,1,0.06,297
+Mocha Swirl Iced Coffee,Small,Cream,354,160,6,3.5,0,20,45,26,1,24,2,43,0.03,1,0.06,198
+Mocha Swirl Iced Latte,Large,Nonfat,946,340,1,0.5,0,5,210,70,2,64,14,476,0.37,2,0.11,252
+Mocha Swirl Iced Latte,Medium,Nonfat,709,250,1,0.5,0,5,160,52,2,48,10,356,0.27,1,0.06,166
+Mocha Swirl Iced Latte,Small,Nonfat,354,170,0.5,0,0,5,105,35,1,32,7,238,0.18,1,0.06,118
+Mocha Swirl Iced Latte,Large,Whole,946,440,13,7,0,35,220,69,2,63,13,442,0.34,2,0.11,252
+Mocha Swirl Iced Latte,Medium,Whole,709,330,10,6,0,25,160,52,2,47,10,330,0.25,1,0.06,166
+Mocha Swirl Iced Latte,Small,Whole,354,220,6,3.5,0,20,110,35,1,32,7,221,0.17,1,0.06,118
+Mocha Swirl Iced Macchiato,Large,Nonfat,946,300,1,0.5,0,5,160,65,2,58,10,327,0.25,2,0.11,371
+Mocha Swirl Iced Macchiato,Medium,Nonfat,709,230,1,0.5,0,5,125,49,2,43,7,245,0.19,2,0.11,284
+Mocha Swirl Iced Macchiato,Small,Nonfat,354,150,0.5,0,0,0,85,33,1,29,5,164,0.13,1,0.06,237
+Mocha Swirl Iced Macchiato,Large,Whole,946,370,9,5,0,25,170,64,2,57,9,305,0.23,2,0.11,371
+Mocha Swirl Iced Macchiato,Medium,Whole,709,280,7,4,0,20,125,48,2,43,7,228,0.18,2,0.11,284
+Mocha Swirl Iced Macchiato,Small,Whole,354,180,4.5,2.5,0,10,85,32,1,29,5,153,0.12,1,0.06,237
+Nitro Cold Brew Coffee,Small,NA,295,5,0,0,0,0,5,0,0,0,0,6,0,0,0,174
+OREO Hot Chocolate,Large,NA,591,460,10,8,0,0,500,88,3,70,6,138,0.11,4,0.22,18
+OREO Hot Chocolate,Medium,NA,414,350,8,6,0,0,380,66,2,53,4,103,0.08,3,0.17,13
+OREO Hot Chocolate,Small,NA,295,230,5,4,0,0,250,44,1,35,3,69,0.05,2,0.11,9
+Original Hot Chocolate,Large,NA,591,460,14,13,0,0,440,82,3,65,4,70,0.05,1,0.06,18
+Original Hot Chocolate,Medium,NA,414,330,10,9,0,0,320,59,2,46,3,50,0.04,0,0,13
+Original Hot Chocolate,Small,NA,295,220,7,6,0,0,210,40,2,32,2,34,0.03,0,0,9
+Signature Caramel Craze Hot Latte,Large,Nonfat,591,440,6,3.5,0,30,240,80,0,75,16,576,0.44,0,0,252
+Signature Caramel Craze Hot Latte,Medium,Nonfat,414,340,5,3,0,25,180,61,0,57,12,436,0.34,0,0,166
+Signature Caramel Craze Hot Latte,Small,Nonfat,295,250,5,3,0,20,125,43,0,40,8,298,0.23,0,0,118
+Signature Caramel Craze Hot Latte,Large,Whole,591,530,17,10,0.5,60,250,79,0,74,15,542,0.42,0,0,252
+Signature Caramel Craze Hot Latte,Medium,Whole,414,410,14,8,0,45,190,61,0,57,11,410,0.32,0,0,166
+Signature Caramel Craze Hot Latte,Small,Whole,295,300,11,6,0,35,130,43,0,39,8,281,0.22,0,0,118
+Signature Caramel Craze Iced Latte,Large,Nonfat,946,430,6,3.5,0,30,250,79,0,75,16,586,0.45,0,0,252
+Signature Caramel Craze Iced Latte,Medium,Nonfat,709,340,5,3,0,25,190,61,0,57,12,442,0.34,0,0,166
+Signature Caramel Craze Iced Latte,Small,Nonfat,354,250,5,3,0,20,130,43,0,40,8,303,0.23,0,0,118
+Signature Caramel Craze Iced Latte,Large,Whole,946,530,17,10,0.5,60,250,79,0,74,15,551,0.42,0,0,252
+Signature Caramel Craze Iced Latte,Medium,Whole,709,410,14,8,0,45,190,61,0,57,11,416,0.32,0,0,166
+Signature Caramel Craze Iced Latte,Small,Whole,354,300,11,6,0,35,130,43,0,39,8,285,0.22,0,0,118
+Signature Cocoa Mocha Hot Latte,Large,Nonfat,591,420,6,4,0,25,210,79,2,69,15,480,0.37,2,0.11,252
+Signature Cocoa Mocha Hot Latte,Medium,Nonfat,414,330,6,3.5,0,20,160,61,2,53,11,363,0.28,2,0.11,166
+Signature Cocoa Mocha Hot Latte,Small,Nonfat,295,250,5,3.5,0,20,110,43,1,37,8,248,0.19,1,0.06,118
+Signature Cocoa Mocha Hot Latte,Large,Whole,591,520,18,11,0.5,55,210,78,2,68,14,445,0.34,2,0.11,252
+Signature Cocoa Mocha Hot Latte,Medium,Whole,414,400,14,9,0,45,160,60,2,52,10,337,0.26,2,0.11,166
+Signature Cocoa Mocha Hot Latte,Small,Whole,295,300,11,7,0,35,110,43,1,36,7,230,0.18,1,0.06,118
+Signature Cocoa Mocha Iced Latte,Large,Nonfat,946,420,6,4,0,25,220,78,2,69,15,495,0.38,2,0.11,252
+Signature Cocoa Mocha Iced Latte,Medium,Nonfat,709,330,6,3.5,0,20,160,60,2,52,11,373,0.29,2,0.11,166
+Signature Cocoa Mocha Iced Latte,Small,Nonfat,354,250,5,3.5,0,20,115,43,1,36,8,255,0.2,1,0.06,118
+Signature Cocoa Mocha Iced Latte,Large,Whole,946,520,18,11,0.5,55,220,77,2,68,14,460,0.35,2,0.11,252
+Signature Cocoa Mocha Iced Latte,Medium,Whole,709,400,14,9,0,45,170,60,2,52,10,347,0.27,2,0.11,166
+Signature Cocoa Mocha Iced Latte,Small,Whole,354,300,11,7,0,35,115,42,1,36,7,238,0.18,1,0.06,118
+Sweet Iced Tea,Large,NA,946,310,0,0,0,0,25,79,0,78,0,10,0.01,0,0,90
+Sweet Iced Tea,Medium,NA,709,230,0,0,0,0,20,60,0,58,0,7,0.01,0,0,67
+Sweet Iced Tea,Small,NA,354,150,0,0,0,0,15,40,0,39,0,5,0,0,0,45
+Sweet Iced Tea,Large,NA,946,330,0,0,0,0,30,86,0,81,0,10,0.01,0,0,90
+Sweet Iced Tea,Medium,NA,709,250,0,0,0,0,20,64,0,60,0,7,0.01,0,0,67
+Sweet Iced Tea,Small,NA,354,170,0,0,0,0,15,43,0,40,0,5,0,0,0,45
+Sweet Iced Tea,Large,NA,946,330,0,0,0,0,30,86,0,81,0,10,0.01,0,0,90
+Sweet Iced Tea,Medium,NA,709,250,0,0,0,0,20,65,0,60,0,7,0.01,0,0,67
+Sweet Iced Tea,Small,NA,354,170,0,0,0,0,15,43,0,40,0,5,0,0,0,45
