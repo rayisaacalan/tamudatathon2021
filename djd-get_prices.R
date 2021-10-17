@@ -29,13 +29,17 @@ expand_size <- function(size){
     }
 }
 
+modify_cals <- function(string){
+    as.numeric(str_split_fixed(string, "[-C]", n=2)[, 1])
+}
+
 url[1] %>% get_table %>%
     mutate(cals, cals = as.numeric(gsub("Cal", "", cals))) %>%
     mutate(price, price = as.numeric(gsub("\\$", "", price))) %>%
     drop_na() %>%
     write_csv("starbucks_prices.csv")
 
-dunkin_tables <- url[2] %>% read_html() %>% html_table(fill=T) 
+dunkin_tables <- url[2] %>% read_html() %>% html_table()
 
 dunkin <- dunkin_tables[[2]]
 
@@ -45,9 +49,9 @@ for(t in 3:6){
 
 names(dunkin) <- c("menu_item", "size", "cals", "price")
 
-dunkin %>%
-    mutate(size, size = expand_size(size)) %>%
+dunkin %>% 
+    mutate(cals, cals=modify_cals(cals)) %>%
     mutate(price, price = as.numeric(gsub("\\$", "", price))) %>%
-    mutate(cals, cals) %>%
-    filter(cals, cals = gsub("[d]*-", "[d]*"))
-
+    mutate(size, size = expand_size(size)) %>%
+    drop_na() %>%
+    write_csv("dunkin-prices.csv")
