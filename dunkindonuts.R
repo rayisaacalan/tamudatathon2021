@@ -60,5 +60,5 @@ for(i in 1:length(dunkin$NAME)) { # Brute force solution since I'm only doing th
 dunkin[330:331,18] = 118 # Correct for nonstandard size for espresso shot
 dunkin = dunkin %>% filter(!is.na(CAFFEINE_mg)) # Consider only 'normal' drinks (with full info)
 
-
+write.csv(dunkin, "dunkin_full.csv")
 
