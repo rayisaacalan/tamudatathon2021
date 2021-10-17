@@ -23,10 +23,12 @@ expand_size <- function(size){
         return("Small")
     }else if(size == "M"){
         return("Medium")
-    }else if("L"){
+    }else if(size == "L"){
         return("Large")
-    }else if("XL"){
+    }else if(size == "XL"){
         return("XLarge")
+    }else{
+        return(NA)
     }
 }
 
@@ -70,3 +72,17 @@ names(starbucks2_prices) <- c("NAME", "SIZE", "PRICE")
 starbucks2_prices[-1, ] %>% 
     mutate(PRICE = as.numeric(gsub("\\$", "", PRICE))) %>% 
     write_csv("starbucks_prices2.csv")
+
+# McDonalds
+mcd_html <- read_html(url[3])
+mcd_tables <- html_table(mcd_html)
+
+mcd <- mcd_tables[[3]]
+
+names(mcd) <- c("NAME", "SIZE", "CALS", "PRICE")
+
+mcd <- mcd %>%
+    mutate(CALS = as.numeric(gsub("Cal", "", CALS))) %>%
+    mutate(PRICE = as.numeric(gsub("\\$", "", PRICE)))
+
+mcd %>% drop_na() %>% write_csv("mcdonalds_prices.csv")
