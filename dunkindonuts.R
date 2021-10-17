@@ -27,6 +27,60 @@ dunkin$NAME = sapply(dunkin$NAME, removeSize) # Clean up the name a bit
 dunkin$MILK = sapply(dunkin$NAME, milkType) # Determine milk factor by the name of the drink
 CAFFEINE_mg = rep(NA, length(dunkin$NAME))
 dunkin = cbind(dunkin, CAFFEINE_mg)
+
+dunkin$SERVING_SIZE_ml  <-"Value"
+for (i in 1:length(dunkin$NAME)){
+if (dunkin$SIZE[i]=="Small"){
+  dunkin$SERVING_SIZE_ml[i] = 295
+  
+}
+if (dunkin$SIZE[i]=="Medium"){
+  dunkin$SERVING_SIZE_ml[i] = 414
+  
+}
+if (dunkin$SIZE[i]=="Large"){
+  dunkin$SERVING_SIZE_ml[i] = 591
+  
+}
+}
+for ( i in 1:length(dunkin$NAME)){
+  if(str_detect(dunkin$NAME[i],"Iced")){
+    if (dunkin$SIZE[i]=="Small"){
+      dunkin$SERVING_SIZE_ml[i] = 354
+      
+    }
+    if (dunkin$SIZE[i]=="Medium"){
+      dunkin$SERVING_SIZE_ml[i] = 709
+      
+    }
+    if (dunkin$SIZE[i]=="Large"){
+      dunkin$SERVING_SIZE_ml[i] = 946
+      
+    }
+    
+  }
+  if(str_detect(dunkin$NAME[i],"Frrozen Coffee")){
+    if (dunkin$SIZE[i]=="Small"){
+      dunkin$SERVING_SIZE_ml[i] = 354
+      
+    }
+    if (dunkin$SIZE[i]=="Medium"){
+      dunkin$SERVING_SIZE_ml[i] = 709
+      
+    }
+    if (dunkin$SIZE[i]=="Large"){
+      dunkin$SERVING_SIZE_ml[i] = 946
+      
+    }
+    if (dunkin$SIZE[i]=="Single Shot"){
+      dunkin$SERVING_SIZE_ml[i] = 30
+      
+    }
+    
+  }
+  
+}
+dunkin<- dunkin[, c(1, 2, 3, 19, 4, 5,6,7,8,9,10,11,12,13,14,15,16,17,18)]
 write.csv(dunkin, "dunkin_no_caffeine_clean.csv")
 
 caffeine_url = "https://www.caffeineinformer.com/complete-guide-to-dunkin-donuts-caffeine-content"
@@ -59,6 +113,7 @@ for(i in 1:length(dunkin$NAME)) { # Brute force solution since I'm only doing th
 
 dunkin[330:331,18] = 118 # Correct for nonstandard size for espresso shot
 dunkin = dunkin %>% filter(!is.na(CAFFEINE_mg)) # Consider only 'normal' drinks (with full info)
+
 
 write.csv(dunkin, "dunkin_full.csv")
 
