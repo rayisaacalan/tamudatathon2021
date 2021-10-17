@@ -59,7 +59,7 @@ for ( i in 1:length(dunkin$NAME)){
     }
     
   }
-  if(str_detect(dunkin$NAME[i],"Frrozen Coffee")){
+  if(str_detect(dunkin$NAME[i],"Frozen Coffee")){
     if (dunkin$SIZE[i]=="Small"){
       dunkin$SERVING_SIZE_ml[i] = 354
       
@@ -72,10 +72,7 @@ for ( i in 1:length(dunkin$NAME)){
       dunkin$SERVING_SIZE_ml[i] = 946
       
     }
-    if (dunkin$SIZE[i]=="Single Shot"){
-      dunkin$SERVING_SIZE_ml[i] = 30
-      
-    }
+
     
   }
   

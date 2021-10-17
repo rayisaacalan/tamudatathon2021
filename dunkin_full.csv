@@ -407,51 +407,51 @@
 "406","Frozen Dunkaccino ","Large",NA,"591",930,22,15,0,40,350,177,3,159,10,294,0.23,3,0.17,119
 "407","Frozen Dunkaccino ","Medium",NA,"414",710,17,12,0,35,260,134,3,119,8,223,0.17,2,0.11,85
 "408","Frozen Dunkaccino ","Small",NA,"295",510,13,9,0,25,180,94,2,83,5,155,0.12,1,0.06,58
-"409","Caramel Swirl Frozen Coffee with Cream ","Large","Cream","591",1120,40,22,1.5,130,290,180,0,172,10,346,0.27,2,0.11,393
-"410","Caramel Swirl Frozen Coffee with Cream ","Medium","Cream","414",860,31,17,1,100,220,139,0,132,8,267,0.21,2,0.11,295
-"411","Caramel Swirl Frozen Coffee with Cream ","Small","Cream","295",610,22,12,0.5,70,160,97,0,92,6,190,0.15,1,0.06,196
-"412","Caramel Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","591",830,5,3.5,0,25,240,184,0,176,11,405,0.31,2,0.11,393
-"413","Caramel Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","414",650,4.5,3,0,25,180,142,0,135,9,312,0.24,2,0.11,295
-"414","Caramel Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","295",470,4.5,3,0,20,130,99,0,94,6,220,0.17,1,0.06,196
-"415","Caramel Swirl Frozen Coffee with Whole Milk ","Large","Whole","591",880,11,7,0,40,240,184,0,175,11,388,0.3,2,0.11,393
-"416","Caramel Swirl Frozen Coffee with Whole Milk ","Medium","Whole","414",680,9,6,0,35,180,141,0,134,8,299,0.23,2,0.11,295
-"417","Caramel Swirl Frozen Coffee with Whole Milk ","Small","Whole","295",490,8,4.5,0,30,130,99,0,94,6,211,0.16,1,0.06,196
-"418","French Vanilla Swirl Frozen Coffee with Cream ","Large","Cream","591",1110,40,22,1.5,130,280,180,0,169,10,326,0.25,2,0.11,393
-"419","French Vanilla Swirl Frozen Coffee with Cream ","Medium","Cream","414",860,31,17,1,100,220,138,0,130,8,253,0.19,2,0.11,295
-"420","French Vanilla Swirl Frozen Coffee with Cream ","Small","Cream","295",610,22,12,0.5,70,150,97,0,91,6,181,0.14,1,0.06,196
-"421","French Vanilla Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","591",830,5,3.5,0,25,230,184,0,173,11,386,0.3,2,0.11,393
-"422","French Vanilla Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","414",640,4.5,3,0,20,180,141,0,133,9,297,0.23,2,0.11,295
-"423","French Vanilla Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","295",460,4.5,3,0,20,125,99,0,93,6,210,0.16,1,0.06,196
-"424","French Vanilla Swirl Frozen Coffee with Whole Milk ","Large","Whole","591",880,11,7,0,40,230,183,0,173,11,369,0.28,2,0.11,393
-"425","French Vanilla Swirl Frozen Coffee with Whole Milk ","Medium","Whole","414",680,9,6,0,35,180,141,0,132,8,284,0.22,2,0.11,295
-"426","French Vanilla Swirl Frozen Coffee with Whole Milk ","Small","Whole","295",490,8,4.5,0,30,125,99,0,92,6,202,0.16,1,0.06,196
-"427","Frozen Coffee with Cream ","Large","Cream","591",780,35,18,1,105,200,113,0,108,7,204,0.16,2,0.11,393
-"428","Frozen Coffee with Cream ","Medium","Cream","414",590,26,14,1,80,150,85,0,81,5,153,0.12,2,0.11,295
-"429","Frozen Coffee with Cream ","Small","Cream","295",390,17,9,0.5,55,100,57,0,54,3,102,0.08,1,0.06,196
-"430","Frozen Coffee with Skim Milk ","Large","Nonfat","591",500,0,0,0,5,150,117,0,112,8,263,0.2,2,0.11,393
-"431","Frozen Coffee with Skim Milk ","Medium","Nonfat","414",370,0,0,0,5,115,88,0,84,6,198,0.15,2,0.11,295
-"432","Frozen Coffee with Skim Milk ","Small","Nonfat","295",250,0,0,0,0,75,59,0,56,4,132,0.1,1,0.06,196
-"433","Frozen Coffee with Whole Milk ","Large","Whole","591",550,6,3.5,0,20,150,117,0,111,7,246,0.19,2,0.11,393
-"434","Frozen Coffee with Whole Milk ","Medium","Whole","414",410,4.5,2.5,0,15,115,88,0,84,5,185,0.14,2,0.11,295
-"435","Frozen Coffee with Whole Milk ","Small","Whole","295",270,3,1.5,0,10,75,58,0,56,4,123,0.09,1,0.06,196
-"436","Hazelnut Swirl Frozen Coffee with Cream ","Large","Cream","591",1110,40,22,1.5,130,280,180,0,169,10,326,0.25,2,0.11,393
-"437","Hazelnut Swirl Frozen Coffee with Cream ","Medium","Cream","414",860,31,17,1,100,220,138,0,130,8,253,0.19,2,0.11,295
-"438","Hazelnut Swirl Frozen Coffee with Cream ","Small","Cream","295",610,22,12,0.5,70,150,97,0,91,6,181,0.14,1,0.06,196
-"439","Hazelnut Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","591",830,5,3.5,0,25,230,184,0,173,11,386,0.3,2,0.11,393
-"440","Hazelnut Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","414",640,4.5,3,0,20,180,141,0,133,9,297,0.23,2,0.11,295
-"441","Hazelnut Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","295",470,4.5,3,0,20,125,99,0,93,6,210,0.16,1,0.06,196
-"442","Hazelnut Swirl Frozen Coffee with Whole Milk ","Large","Whole","591",880,11,7,0,40,230,184,0,173,11,369,0.28,2,0.11,393
-"443","Hazelnut Swirl Frozen Coffee with Whole Milk ","Medium","Whole","414",680,9,6,0,35,180,141,0,132,8,284,0.22,2,0.11,295
-"444","Hazelnut Swirl Frozen Coffee with Whole Milk ","Small","Whole","295",490,8,4.5,0,30,125,99,0,92,6,202,0.16,1,0.06,196
-"445","Mocha Swirl Frozen Coffee with Cream ","Large","Cream","591",1100,41,22,1.5,125,240,179,3,165,9,235,0.18,4,0.22,393
-"446","Mocha Swirl Frozen Coffee with Cream ","Medium","Cream","414",850,31,17,1,95,190,137,2,126,7,180,0.14,3,0.17,295
-"447","Mocha Swirl Frozen Coffee with Cream ","Small","Cream","295",600,22,13,0.5,70,125,97,2,88,5,126,0.1,2,0.11,196
-"448","Mocha Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","591",820,6,4,0,20,190,183,3,169,10,294,0.23,4,0.22,393
-"449","Mocha Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","414",630,5,3.5,0,20,150,140,2,129,8,224,0.17,3,0.17,295
-"450","Mocha Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","295",460,5,3.5,0,15,100,99,2,90,5,155,0.12,2,0.11,196
-"451","Mocha Swirl Frozen Coffee with Whole Milk ","Large","Whole","591",870,12,7,0,35,190,183,3,169,9,277,0.21,4,0.22,393
-"452","Mocha Swirl Frozen Coffee with Whole Milk ","Medium","Whole","414",670,10,6,0,30,150,140,2,129,7,211,0.16,3,0.17,295
-"453","Mocha Swirl Frozen Coffee with Whole Milk ","Small","Whole","295",480,8,5,0,25,100,98,2,90,5,147,0.11,2,0.11,196
+"409","Caramel Swirl Frozen Coffee with Cream ","Large","Cream","946",1120,40,22,1.5,130,290,180,0,172,10,346,0.27,2,0.11,393
+"410","Caramel Swirl Frozen Coffee with Cream ","Medium","Cream","709",860,31,17,1,100,220,139,0,132,8,267,0.21,2,0.11,295
+"411","Caramel Swirl Frozen Coffee with Cream ","Small","Cream","354",610,22,12,0.5,70,160,97,0,92,6,190,0.15,1,0.06,196
+"412","Caramel Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","946",830,5,3.5,0,25,240,184,0,176,11,405,0.31,2,0.11,393
+"413","Caramel Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","709",650,4.5,3,0,25,180,142,0,135,9,312,0.24,2,0.11,295
+"414","Caramel Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","354",470,4.5,3,0,20,130,99,0,94,6,220,0.17,1,0.06,196
+"415","Caramel Swirl Frozen Coffee with Whole Milk ","Large","Whole","946",880,11,7,0,40,240,184,0,175,11,388,0.3,2,0.11,393
+"416","Caramel Swirl Frozen Coffee with Whole Milk ","Medium","Whole","709",680,9,6,0,35,180,141,0,134,8,299,0.23,2,0.11,295
+"417","Caramel Swirl Frozen Coffee with Whole Milk ","Small","Whole","354",490,8,4.5,0,30,130,99,0,94,6,211,0.16,1,0.06,196
+"418","French Vanilla Swirl Frozen Coffee with Cream ","Large","Cream","946",1110,40,22,1.5,130,280,180,0,169,10,326,0.25,2,0.11,393
+"419","French Vanilla Swirl Frozen Coffee with Cream ","Medium","Cream","709",860,31,17,1,100,220,138,0,130,8,253,0.19,2,0.11,295
+"420","French Vanilla Swirl Frozen Coffee with Cream ","Small","Cream","354",610,22,12,0.5,70,150,97,0,91,6,181,0.14,1,0.06,196
+"421","French Vanilla Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","946",830,5,3.5,0,25,230,184,0,173,11,386,0.3,2,0.11,393
+"422","French Vanilla Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","709",640,4.5,3,0,20,180,141,0,133,9,297,0.23,2,0.11,295
+"423","French Vanilla Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","354",460,4.5,3,0,20,125,99,0,93,6,210,0.16,1,0.06,196
+"424","French Vanilla Swirl Frozen Coffee with Whole Milk ","Large","Whole","946",880,11,7,0,40,230,183,0,173,11,369,0.28,2,0.11,393
+"425","French Vanilla Swirl Frozen Coffee with Whole Milk ","Medium","Whole","709",680,9,6,0,35,180,141,0,132,8,284,0.22,2,0.11,295
+"426","French Vanilla Swirl Frozen Coffee with Whole Milk ","Small","Whole","354",490,8,4.5,0,30,125,99,0,92,6,202,0.16,1,0.06,196
+"427","Frozen Coffee with Cream ","Large","Cream","946",780,35,18,1,105,200,113,0,108,7,204,0.16,2,0.11,393
+"428","Frozen Coffee with Cream ","Medium","Cream","709",590,26,14,1,80,150,85,0,81,5,153,0.12,2,0.11,295
+"429","Frozen Coffee with Cream ","Small","Cream","354",390,17,9,0.5,55,100,57,0,54,3,102,0.08,1,0.06,196
+"430","Frozen Coffee with Skim Milk ","Large","Nonfat","946",500,0,0,0,5,150,117,0,112,8,263,0.2,2,0.11,393
+"431","Frozen Coffee with Skim Milk ","Medium","Nonfat","709",370,0,0,0,5,115,88,0,84,6,198,0.15,2,0.11,295
+"432","Frozen Coffee with Skim Milk ","Small","Nonfat","354",250,0,0,0,0,75,59,0,56,4,132,0.1,1,0.06,196
+"433","Frozen Coffee with Whole Milk ","Large","Whole","946",550,6,3.5,0,20,150,117,0,111,7,246,0.19,2,0.11,393
+"434","Frozen Coffee with Whole Milk ","Medium","Whole","709",410,4.5,2.5,0,15,115,88,0,84,5,185,0.14,2,0.11,295
+"435","Frozen Coffee with Whole Milk ","Small","Whole","354",270,3,1.5,0,10,75,58,0,56,4,123,0.09,1,0.06,196
+"436","Hazelnut Swirl Frozen Coffee with Cream ","Large","Cream","946",1110,40,22,1.5,130,280,180,0,169,10,326,0.25,2,0.11,393
+"437","Hazelnut Swirl Frozen Coffee with Cream ","Medium","Cream","709",860,31,17,1,100,220,138,0,130,8,253,0.19,2,0.11,295
+"438","Hazelnut Swirl Frozen Coffee with Cream ","Small","Cream","354",610,22,12,0.5,70,150,97,0,91,6,181,0.14,1,0.06,196
+"439","Hazelnut Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","946",830,5,3.5,0,25,230,184,0,173,11,386,0.3,2,0.11,393
+"440","Hazelnut Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","709",640,4.5,3,0,20,180,141,0,133,9,297,0.23,2,0.11,295
+"441","Hazelnut Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","354",470,4.5,3,0,20,125,99,0,93,6,210,0.16,1,0.06,196
+"442","Hazelnut Swirl Frozen Coffee with Whole Milk ","Large","Whole","946",880,11,7,0,40,230,184,0,173,11,369,0.28,2,0.11,393
+"443","Hazelnut Swirl Frozen Coffee with Whole Milk ","Medium","Whole","709",680,9,6,0,35,180,141,0,132,8,284,0.22,2,0.11,295
+"444","Hazelnut Swirl Frozen Coffee with Whole Milk ","Small","Whole","354",490,8,4.5,0,30,125,99,0,92,6,202,0.16,1,0.06,196
+"445","Mocha Swirl Frozen Coffee with Cream ","Large","Cream","946",1100,41,22,1.5,125,240,179,3,165,9,235,0.18,4,0.22,393
+"446","Mocha Swirl Frozen Coffee with Cream ","Medium","Cream","709",850,31,17,1,95,190,137,2,126,7,180,0.14,3,0.17,295
+"447","Mocha Swirl Frozen Coffee with Cream ","Small","Cream","354",600,22,13,0.5,70,125,97,2,88,5,126,0.1,2,0.11,196
+"448","Mocha Swirl Frozen Coffee with Skim Milk ","Large","Nonfat","946",820,6,4,0,20,190,183,3,169,10,294,0.23,4,0.22,393
+"449","Mocha Swirl Frozen Coffee with Skim Milk ","Medium","Nonfat","709",630,5,3.5,0,20,150,140,2,129,8,224,0.17,3,0.17,295
+"450","Mocha Swirl Frozen Coffee with Skim Milk ","Small","Nonfat","354",460,5,3.5,0,15,100,99,2,90,5,155,0.12,2,0.11,196
+"451","Mocha Swirl Frozen Coffee with Whole Milk ","Large","Whole","946",870,12,7,0,35,190,183,3,169,9,277,0.21,4,0.22,393
+"452","Mocha Swirl Frozen Coffee with Whole Milk ","Medium","Whole","709",670,10,6,0,30,150,140,2,129,7,211,0.16,3,0.17,295
+"453","Mocha Swirl Frozen Coffee with Whole Milk ","Small","Whole","354",480,8,5,0,25,100,98,2,90,5,147,0.11,2,0.11,196
 "454","Caramel Swirl Frozen Chocolate ","Large",NA,"591",900,17,12,0,40,380,176,1,165,11,392,0.3,0,0,8
 "455","Caramel Swirl Frozen Chocolate ","Medium",NA,"414",700,14,10,0,35,290,135,1,126,9,302,0.23,0,0,6
 "456","Caramel Swirl Frozen Chocolate ","Small",NA,"295",500,11,8,0,30,200,95,1,88,6,213,0.16,0,0,5
