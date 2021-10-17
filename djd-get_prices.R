@@ -7,13 +7,14 @@ url <- c(
     "https://www.fastfoodprice.com/menus/starbucks-prices/",
     "https://www.fastfoodprice.com/menu/dunkin-donuts-prices/",
     "https://www.fastfoodprice.com/menu/mcdonalds-prices/",
-    "https://nutrition-charts.com/mcdonalds-nutrition-facts-calorie-information/"
+    "https://nutrition-charts.com/mcdonalds-nutrition-facts-calorie-information/",
+    "https://getmenuprices.com/starbucks/"
 )
 
 get_table <- function(url){
     read_url <- read_html(url) 
     new_table <- html_table(read_url, fill=T)[[3]]
-    names(new_table) <- c("menu_item", "size", "cals", "price")
+    names(new_table) <- c("NAME", "SIZE", "CALS", "PRICE")
     return(new_table)
 }
 
@@ -49,7 +50,7 @@ for(t in 3:6){
     dunkin <- add_row(dunkin, dunkin_tables[[t]])
 }
 
-names(dunkin) <- c("menu_item", "size", "cals", "price")
+names(dunkin) <- c("NAME", "SIZE", "CALS", "PRICE")
 
 dunkin <- dunkin %>% 
     mutate(cals, cals=modify_cals(cals)) %>%
@@ -59,3 +60,13 @@ dunkin <- dunkin %>%
     arrange(menu_item)
 
 write_csv(dunkin, "dunkin-prices.csv")
+
+starbucks2 <- url[5] %>% read_html()
+
+starbucks2_prices <- (starbucks2 %>% html_table())[[1]]
+
+names(starbucks2_prices) <- c("NAME", "SIZE", "PRICE")
+
+starbucks2_prices[-1, ] %>% 
+    mutate(PRICE = as.numeric(gsub("\\$", "", PRICE))) %>% 
+    write_csv("starbucks_prices2.csv")
