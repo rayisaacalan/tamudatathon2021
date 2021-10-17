@@ -64,7 +64,10 @@ for (i in 1: length(b$NAME)){
     }
     if(str_detect(b$NAME[i], "Large")) {
         b$SIZE[i] <- "Large"
-        b$SERVING_SIZE_ml[i] <-591
+        if(str_detect(b$NAME[i],"Iced")){
+        b$SERVING_SIZE_ml[i] <-650
+        }else{b$SERVING_SIZE_ml[i] <-591}
+            
     }
     
     if(str_detect(b$NAME[i], "21")) {
