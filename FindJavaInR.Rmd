@@ -1,0 +1,101 @@
+---
+title: "Finding Java in R"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    social: menu
+    source_code: embed
+    theme:
+      version: 4
+      bg: "#ece0d1"
+      fg: "#38220f" 
+      primary: "#967259"
+      navbar-bg: "#634832"
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(shiny)
+library(DT)
+options(DT.options = list(scrollY="500px",scrollX="350px", pageLength = 25, autoWidth = TRUE))
+
+restaurants = read_csv("complete_data/restaurants.csv")
+restaurants$MILK[is.na(restaurants$MILK)] = "NA"
+restaurants$MILK = as.factor(restaurants$MILK)
+
+
+drinkSugg = function(drink) {
+  if(drink$MILK == "NA") {
+    milk = "no"
+  } else {
+    milk = drink$MILK
+  }
+  suggestion = paste("You should treat yourself to a refreshing", drink$SIZE, drink$NAME, "with", milk, "milk", "from", drink$RESTAURANT ,"at the low low price of only", drink$PRICE)
+}
+dataset = restaurants
+```
+
+
+
+Inputs {.sidebar}
+-----------------------------------------------------------------------
+
+```{r}
+selectInput('milk', 'Milk', choices = c(as.character(unique(dataset$MILK)), "Any"), selected = "Any")
+sliderInput('calories', "Maximum Calories", min = 0, max = 1200, value = 500, step = 50)
+sliderInput('caffeine', "Minimum Caffeine (mg)", min = 0, max = 500, value = 150, step = 25)
+sliderInput('price', "Maximum Price ($)", min = 0, max = 15, value = 6, step = 0.25)
+```
+
+Output {data-height=250}
+-----------------------------------------------------------------------
+
+### What should you drink?
+
+```{r}
+dataset = reactive({
+  if(input$milk == "Any") {
+    restaurants %>% filter(CAFFEINE_mg >= input$caffeine, CALORIES <= input$calories, PRICE <= input$price)
+  } else {
+    restaurants %>% filter(CAFFEINE_mg >= input$caffeine, CALORIES <= input$calories, PRICE <= input$price, MILK == input$milk)
+  }
+})
+
+renderText({
+  if(nrow(dataset()) == 0) {
+    print("Unfortunately you're a bit too picky about your coffee! Try expanding your tastes, or your wallet.")
+  } else {
+    dataset() %>% slice_sample(n = 1) %>% drinkSugg() %>% print()
+  }
+})
+```
+
+### ~~~~~~~~~~~~~~~~~~~~~
+
+```{r}
+renderImage({
+    filename = "coffee_cup.jpg"
+    list(src = filename)
+  }, deleteFile = FALSE)
+```
+
+
+
+Table {data-height=750}
+-----------------------------------------------------------------------
+
+### And some more suggestions:
+
+```{r}
+renderDataTable({
+  dataset() %>% select(NAME, SIZE, CALORIES, CAFFEINE_mg, PRICE, RESTAURANT)
+})
+```
+
+```{css}
+.chart-wrapper {
+  overflow-x: scroll;
+}
+```
