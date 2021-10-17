@@ -56,36 +56,36 @@ b$SERVING_SIZE_ml <-"Value"
 for (i in 1: length(b$NAME)){
     if(str_detect(b$NAME[i], "Small")) {
         b$SIZE[i] <- "Small"
-        b$SERVING_SIZE_ml <-354
+        b$SERVING_SIZE_ml[i] <-354
     }
     if(str_detect(b$NAME[i], "Medium")) {
         b$SIZE[i] <- "Medium"
-        b$SERVING_SIZE_ml <- 473
+        b$SERVING_SIZE_ml[i] <- 473
     }
     if(str_detect(b$NAME[i], "Large")) {
         b$SIZE[i] <- "Large"
-        b$SERVING_SIZE_ml <-591
+        b$SERVING_SIZE_ml[i] <-591
     }
     
     if(str_detect(b$NAME[i], "21")) {
         b$SIZE[i] <- "21 oz"
-        b$SERVING_SIZE_ml <-621
+        b$SERVING_SIZE_ml[i] <-621
     }
     if(str_detect(b$NAME[i], "12")) {
         b$SIZE[i] <- "12 oz"
-        b$SERVING_SIZE_ml <-354
+        b$SERVING_SIZE_ml[i] <-354
     }
     if(str_detect(b$NAME[i], "16")) {
         b$SIZE[i] <- "16 oz"
-        b$SERVING_SIZE_ml <-473
+        b$SERVING_SIZE_ml[i] <-473
     }
     if(str_detect(b$NAME[i], "32")) {
         b$SIZE[i] <- "32 oz"
-        b$SERVING_SIZE_ml <-946
+        b$SERVING_SIZE_ml[i] <-946
     }
     if(str_detect(b$NAME[i], "22")) {
         b$SIZE[i] <- "22 oz"
-        b$SERVING_SIZE_ml <-650
+        b$SERVING_SIZE_ml[i] <-650
     }
     
 } 
