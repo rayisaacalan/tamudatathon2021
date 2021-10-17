@@ -52,33 +52,40 @@ MILKType = function(name) {
 }
 
 b$SIZE <- "Value"
+b$SERVING_SIZE_ml <-"Value"
 for (i in 1: length(b$NAME)){
     if(str_detect(b$NAME[i], "Small")) {
         b$SIZE[i] <- "Small"
+        b$SERVING_SIZE_ml[i] <-354
     }
     if(str_detect(b$NAME[i], "Medium")) {
         b$SIZE[i] <- "Medium"
+        b$SERVING_SIZE_ml[i] <- 473
     }
     if(str_detect(b$NAME[i], "Large")) {
         b$SIZE[i] <- "Large"
+        b$SERVING_SIZE_ml[i] <-591
     }
-    if(str_detect(b$NAME[i], "Large")) {
-        b$SIZE[i] <- "Large"
-    }
+    
     if(str_detect(b$NAME[i], "21")) {
         b$SIZE[i] <- "21 oz"
+        b$SERVING_SIZE_ml[i] <-621
     }
     if(str_detect(b$NAME[i], "12")) {
         b$SIZE[i] <- "12 oz"
+        b$SERVING_SIZE_ml[i] <-354
     }
     if(str_detect(b$NAME[i], "16")) {
         b$SIZE[i] <- "16 oz"
+        b$SERVING_SIZE_ml[i] <-473
     }
     if(str_detect(b$NAME[i], "32")) {
         b$SIZE[i] <- "32 oz"
+        b$SERVING_SIZE_ml[i] <-946
     }
     if(str_detect(b$NAME[i], "22")) {
         b$SIZE[i] <- "22 oz"
+        b$SERVING_SIZE_ml[i] <-650
     }
     
 } 
@@ -110,7 +117,8 @@ names(b)[names(b) == 'Sugars (g)'] <- "SUGAR_g"
 names(b)[names(b) == 'Protein (g)'] <- "PROTEIN_g"
 drop <- c("Calories from Fat","Weight Watchers Pnts")
 b = b[,!(names(b) %in% drop)]
-b<- b[, c(1, 13, 12, 2, 3,4,5,6,7,8,9,10,11)]
+b<- b[, c(1, 13, 12, 14, 2, 3,4,5,6,7,8,9,10,11)]
 b<-b[b$SIZE != "Value", ]
+
 write_csv(b,"mcdonald_nutrition.csv")
 
